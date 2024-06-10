@@ -1,0 +1,5707 @@
+{
+  "annotations": {
+    "coat protein": {
+      "end": 9446,
+      "seqid": "config/ymv_outgroup.gb",
+      "start": 8538,
+      "strand": "+",
+      "type": "CDS"
+    },
+    "nuc": {
+      "end": 9608,
+      "seqid": "config/ymv_outgroup.gb",
+      "start": 1,
+      "strand": "+",
+      "type": "source"
+    }
+  },
+  "generated_by": {
+    "program": "augur",
+    "version": "24.2.2"
+  },
+  "nodes": {
+    "174_C1": {
+      "aa_muts": {
+        "coat protein": [
+          "T3A",
+          "A231V"
+        ]
+      }
+    },
+    "608": {
+      "aa_muts": {
+        "coat protein": [
+          "G134S"
+        ]
+      }
+    },
+    "ADK-NTEJE-1": {
+      "aa_muts": {
+        "coat protein": [
+          "M151I",
+          "R232S",
+          "Y233S"
+        ]
+      }
+    },
+    "ADK-nteje-2": {
+      "aa_muts": {
+        "coat protein": [
+          "D2E",
+          "I43V",
+          "S84N"
+        ]
+      }
+    },
+    "AID10_C5": {
+      "aa_muts": {
+        "coat protein": [
+          "A248V"
+        ]
+      }
+    },
+    "AK-Sc2-18-1": {
+      "aa_muts": {
+        "coat protein": [
+          "D2E",
+          "A30V",
+          "F41S",
+          "V43L",
+          "A53V",
+          "I99V"
+        ]
+      }
+    },
+    "AL-AGYAGU-1": {
+      "aa_muts": {
+        "coat protein": [
+          "T11S",
+          "K27N",
+          "S42Y",
+          "V246I"
+        ]
+      }
+    },
+    "AL-AGYAGU-2": {
+      "aa_muts": {
+        "coat protein": [
+          "G15V",
+          "D26S",
+          "P31Q",
+          "G58S",
+          "M151I"
+        ]
+      }
+    },
+    "AL-Sc2-17-1": {
+      "aa_muts": {
+        "coat protein": [
+          "K25R",
+          "E49G",
+          "T58I",
+          "A173T"
+        ]
+      }
+    },
+    "AL-Sc2-17-3": {
+      "aa_muts": {
+        "coat protein": [
+          "V18I"
+        ]
+      }
+    },
+    "AL-Sc2-18-1": {
+      "aa_muts": {
+        "coat protein": [
+          "D2V",
+          "K21N",
+          "G272D"
+        ]
+      }
+    },
+    "AL-Sc3-17-2": {
+      "aa_muts": {
+        "coat protein": [
+          "K27Q",
+          "Q39K",
+          "F41L",
+          "A60T",
+          "A111S",
+          "T127A",
+          "K266I"
+        ]
+      }
+    },
+    "ALU-ILUSHI-2": {
+      "aa_muts": {
+        "coat protein": [
+          "S42Y",
+          "G261V",
+          "H284L",
+          "R300K"
+        ]
+      }
+    },
+    "AME-GWADALAD-1": {
+      "aa_muts": {
+        "coat protein": [
+          "S9G",
+          "V44M",
+          "D46G",
+          "N48D"
+        ]
+      }
+    },
+    "AME-GWADALAD-3": {
+      "aa_muts": {
+        "coat protein": [
+          "G261V"
+        ]
+      }
+    },
+    "Ak-Sc2-17-1": {
+      "aa_muts": {
+        "coat protein": [
+          "D8E",
+          "I28V",
+          "E38G",
+          "V43A",
+          "D46G",
+          "T63N",
+          "S75A",
+          "V113I",
+          "S134G",
+          "A173T",
+          "I183V"
+        ]
+      }
+    },
+    "Ak-Sc2-18-3": {
+      "aa_muts": {
+        "coat protein": [
+          "A44E",
+          "N48K"
+        ]
+      }
+    },
+    "Ak-Sc2-18-4": {
+      "aa_muts": {
+        "coat protein": [
+          "V43E"
+        ]
+      }
+    },
+    "Ak-Sc3-17-1": {
+      "aa_muts": {
+        "coat protein": [
+          "A30V",
+          "R66K",
+          "P98S"
+        ]
+      }
+    },
+    "Al-Sc2-17-2": {
+      "aa_muts": {
+        "coat protein": [
+          "A1P",
+          "D2V"
+        ]
+      }
+    },
+    "Al-Sc2-18-2": {
+      "aa_muts": {
+        "coat protein": [
+          "A44T",
+          "N48K"
+        ]
+      }
+    },
+    "Al-Sc3-17-1": {
+      "aa_muts": {
+        "coat protein": [
+          "R82K"
+        ]
+      }
+    },
+    "Am-Sc2-17-1": {
+      "aa_muts": {
+        "coat protein": [
+          "N29T",
+          "D65N"
+        ]
+      }
+    },
+    "Am-Sc2-17-2": {
+      "aa_muts": {
+        "coat protein": [
+          "S32F",
+          "E38V",
+          "L61I",
+          "G74R",
+          "S84C"
+        ]
+      }
+    },
+    "Am-Sc2-18-3": {
+      "aa_muts": {
+        "coat protein": [
+          "D8N",
+          "S37R",
+          "G57S",
+          "N101K",
+          "V246I"
+        ]
+      }
+    },
+    "Am-Sc3-17-1": {
+      "aa_muts": {
+        "coat protein": [
+          "M293K",
+          "R300K"
+        ]
+      }
+    },
+    "Au-Sc2-17-1": {
+      "aa_muts": {
+        "coat protein": [
+          "E19K",
+          "T20Q",
+          "D26N",
+          "E33K",
+          "A44T",
+          "M93I",
+          "S242F"
+        ]
+      }
+    },
+    "Au-Sc2-17-2": {
+      "aa_muts": {
+        "coat protein": [
+          "A43T",
+          "I146V"
+        ]
+      }
+    },
+    "Au-Sc2-18-1": {
+      "aa_muts": {
+        "coat protein": [
+          "V152L"
+        ]
+      }
+    },
+    "Au-Sc2-18-2": {
+      "aa_muts": {
+        "coat protein": [
+          "V152E",
+          "W153R",
+          "I184M",
+          "D271E",
+          "E282Q",
+          "R300K"
+        ]
+      }
+    },
+    "Au-Sc2-18-3": {
+      "aa_muts": {
+        "coat protein": [
+          "M195I",
+          "H197R",
+          "S199R"
+        ]
+      }
+    },
+    "Au-Sc2-18-5": {
+      "aa_muts": {
+        "coat protein": [
+          "T28I",
+          "P31S",
+          "S32A",
+          "P42S",
+          "G57D",
+          "V60I",
+          "S84N",
+          "P98S",
+          "K107R",
+          "A264T"
+        ]
+      }
+    },
+    "Au-Sc2-18-6": {
+      "aa_muts": {
+        "coat protein": [
+          "N37K",
+          "S48R"
+        ]
+      }
+    },
+    "Au-Sc3-17-1": {
+      "aa_muts": {
+        "coat protein": [
+          "S17R"
+        ]
+      }
+    },
+    "Au-Sc3-17-2": {
+      "aa_muts": {
+        "coat protein": [
+          "T20E",
+          "R21M",
+          "S22E",
+          "S44T",
+          "D46E",
+          "F270D"
+        ]
+      }
+    },
+    "B14": {
+      "aa_muts": {
+        "coat protein": [
+          "A20V",
+          "T58A",
+          "L61S",
+          "S75Y",
+          "R232K",
+          "V264A",
+          "T281I"
+        ]
+      }
+    },
+    "B1_C1": {
+      "aa_muts": {
+        "coat protein": [
+          "V28A",
+          "G134D",
+          "A173T"
+        ]
+      }
+    },
+    "BFC51_C11": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "BFC54": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "BFC56": {
+      "aa_muts": {
+        "coat protein": [
+          "T11A",
+          "G19S",
+          "E49G",
+          "D171A",
+          "T173P",
+          "Q175P",
+          "T290A"
+        ]
+      }
+    },
+    "C1_C3": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "CAM1_C1": {
+      "aa_muts": {
+        "coat protein": [
+          "G36S",
+          "F41S",
+          "R47K",
+          "N48S",
+          "D126N"
+        ]
+      }
+    },
+    "CAM2": {
+      "aa_muts": {
+        "coat protein": [
+          "D7S",
+          "D8E",
+          "Q10K",
+          "E16K",
+          "T20S",
+          "N22H",
+          "K23R",
+          "D26G",
+          "T28A",
+          "N29D",
+          "A30V",
+          "R47K",
+          "E49V",
+          "G59E",
+          "A81V",
+          "K83R",
+          "S84G",
+          "V90T",
+          "M93L",
+          "V113I",
+          "S134H",
+          "F135S",
+          "I146V",
+          "V264A",
+          "G287S"
+        ]
+      }
+    },
+    "CAM2_C31": {
+      "aa_muts": {
+        "coat protein": [
+          "A187V"
+        ]
+      }
+    },
+    "CBE6b_C3": {
+      "aa_muts": {
+        "coat protein": [
+          "V18I",
+          "R23K",
+          "T58K",
+          "S84N"
+        ]
+      }
+    },
+    "CGU1_C18": {
+      "aa_muts": {
+        "coat protein": [
+          "R79K",
+          "S295C"
+        ]
+      }
+    },
+    "CGU2_C4": {
+      "aa_muts": {
+        "coat protein": [
+          "K291N"
+        ]
+      }
+    },
+    "CID3_C12": {
+      "aa_muts": {
+        "coat protein": [
+          "F270L"
+        ]
+      }
+    },
+    "CKA1_C11": {
+      "aa_muts": {
+        "coat protein": [
+          "S20F",
+          "A30T",
+          "S35N",
+          "D36N",
+          "P44S",
+          "N48S",
+          "T127V",
+          "S134R",
+          "M170I",
+          "Y265N"
+        ]
+      }
+    },
+    "Divin": {
+      "aa_muts": {
+        "coat protein": [
+          "S9G",
+          "S32P",
+          "S37N",
+          "E38G",
+          "V43E",
+          "R47K",
+          "D51E",
+          "R66K",
+          "V73A",
+          "V76I",
+          "V90I",
+          "V113I",
+          "H114Q",
+          "E139D",
+          "N148M",
+          "G149D",
+          "A285T"
+        ]
+      }
+    },
+    "Dr-Sc2-17-2": {
+      "aa_muts": {
+        "coat protein": [
+          "P31S",
+          "I43M",
+          "K97R"
+        ]
+      }
+    },
+    "Dr-Sc3-17-1": {
+      "aa_muts": {
+        "coat protein": [
+          "G261V"
+        ]
+      }
+    },
+    "EK-ILUSHI-1": {
+      "aa_muts": {
+        "coat protein": [
+          "A30V",
+          "M151I",
+          "G261V",
+          "N262D",
+          "K266I"
+        ]
+      }
+    },
+    "EK-ILUSHI-2": {
+      "aa_muts": {
+        "coat protein": [
+          "K25R",
+          "G37D",
+          "M151I",
+          "I183V"
+        ]
+      }
+    },
+    "EK-NTEJE-1": {
+      "aa_muts": {
+        "coat protein": [
+          "R232S",
+          "Y233N"
+        ]
+      }
+    },
+    "EK-Sc2-18-1": {
+      "aa_muts": {
+        "coat protein": [
+          "G36S"
+        ]
+      }
+    },
+    "EK-Sc3-18-1": {
+      "aa_muts": {
+        "coat protein": [
+          "N22S"
+        ]
+      }
+    },
+    "Ek-Sc2-17-1": {
+      "aa_muts": {
+        "coat protein": [
+          "P31S",
+          "R40K"
+        ]
+      }
+    },
+    "Ek-Sc2-17-2": {
+      "aa_muts": {
+        "coat protein": [
+          "S9N"
+        ]
+      }
+    },
+    "Ek-Sc3-17-1": {
+      "aa_muts": {
+        "coat protein": [
+          "N48S"
+        ]
+      }
+    },
+    "Ek-Sc3-17-2": {
+      "aa_muts": {
+        "coat protein": [
+          "S32A",
+          "Q39R",
+          "R66K",
+          "F270L"
+        ]
+      }
+    },
+    "F-Apr-18-5-2": {
+      "aa_muts": {
+        "coat protein": [
+          "R97K"
+        ]
+      }
+    },
+    "F-Apr-18-5-L1-1": {
+      "aa_muts": {
+        "coat protein": [
+          "T3S",
+          "M302W"
+        ]
+      }
+    },
+    "F-Apr-18-5-L1-2": {
+      "aa_muts": {
+        "coat protein": [
+          "I151M"
+        ]
+      }
+    },
+    "F-Apr-18-5-L1-3": {
+      "aa_muts": {
+        "coat protein": [
+          "P5A"
+        ]
+      }
+    },
+    "F-Apr-18-5-L3-1": {
+      "aa_muts": {
+        "coat protein": [
+          "A44T"
+        ]
+      }
+    },
+    "F-Apr-18-5-L3-2": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "F-Apr-18-5-L3-3": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "F-Apr-18-5-M1": {
+      "aa_muts": {
+        "coat protein": [
+          "D46N",
+          "N48S",
+          "R226K"
+        ]
+      }
+    },
+    "F-Apr-18-5-M3": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "F-Apr-19-50-S21": {
+      "aa_muts": {
+        "coat protein": [
+          "T55A",
+          "H252P",
+          "R300K"
+        ]
+      }
+    },
+    "F-Apr-19-50-S3": {
+      "aa_muts": {
+        "coat protein": [
+          "D7E",
+          "S9R",
+          "I12M",
+          "A20V",
+          "K23I",
+          "I28V",
+          "S29N",
+          "A30P",
+          "P31S",
+          "S32F",
+          "E33G",
+          "R34H",
+          "E38V",
+          "Q39R",
+          "V43I",
+          "A44T",
+          "A53T"
+        ]
+      }
+    },
+    "F-Apr-19-50-S4": {
+      "aa_muts": {
+        "coat protein": [
+          "F41S",
+          "T190P",
+          "P245T",
+          "H252P",
+          "A258V",
+          "G261V",
+          "N262D",
+          "G269A",
+          "H284L",
+          "A285V",
+          "A286T",
+          "S295I"
+        ]
+      }
+    },
+    "F-Apr-19-50-S5": {
+      "aa_muts": {
+        "coat protein": [
+          "T190P",
+          "G261V",
+          "N262D",
+          "G269A",
+          "E282G",
+          "H284L",
+          "A285G",
+          "A286E",
+          "H294Q",
+          "S295N"
+        ]
+      }
+    },
+    "F-May-20-2-X1B": {
+      "aa_muts": {
+        "coat protein": [
+          "D2R",
+          "K40R",
+          "E279V",
+          "T281E"
+        ]
+      }
+    },
+    "F-May-20-2-X1D": {
+      "aa_muts": {
+        "coat protein": [
+          "E8Q",
+          "T11A",
+          "D13V",
+          "E16G",
+          "T18S",
+          "T20E",
+          "K21G",
+          "G24E",
+          "D26K",
+          "R27A",
+          "I28S",
+          "S29R",
+          "E33Q",
+          "T123M",
+          "N134D",
+          "M143L",
+          "N148Y",
+          "L150R",
+          "M151I",
+          "V152R"
+        ]
+      }
+    },
+    "F-May-20-2-X2B": {
+      "aa_muts": {
+        "coat protein": [
+          "I60T",
+          "G134S",
+          "S295I",
+          "L296F"
+        ]
+      }
+    },
+    "F-May-20-2-X3C": {
+      "aa_muts": {
+        "coat protein": [
+          "M151I",
+          "E282V",
+          "A285G",
+          "A286Q",
+          "V289A",
+          "M302R"
+        ]
+      }
+    },
+    "FAK-ZAKI-1": {
+      "aa_muts": {
+        "coat protein": [
+          "D2G",
+          "A18D",
+          "T159S"
+        ]
+      }
+    },
+    "Fk-Sc2-17-1": {
+      "aa_muts": {
+        "coat protein": [
+          "S17N",
+          "A30V",
+          "H294L"
+        ]
+      }
+    },
+    "Fk-Sc2-17-2": {
+      "aa_muts": {
+        "coat protein": [
+          "K21R",
+          "G24R",
+          "K25Q",
+          "V43I",
+          "G47R",
+          "S48K",
+          "E49G"
+        ]
+      }
+    },
+    "Fk-Sc2-18-1": {
+      "aa_muts": {
+        "coat protein": [
+          "E48V"
+        ]
+      }
+    },
+    "G13_C1": {
+      "aa_muts": {
+        "coat protein": [
+          "S56R",
+          "G57C",
+          "M130L",
+          "G287S"
+        ]
+      }
+    },
+    "G5_C10": {
+      "aa_muts": {
+        "coat protein": [
+          "A44V",
+          "A62E",
+          "T63I",
+          "G74R",
+          "G134D"
+        ]
+      }
+    },
+    "GR_SAVANE_C4": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "GY_INRA_C11": {
+      "aa_muts": {
+        "coat protein": [
+          "P42S"
+        ]
+      }
+    },
+    "Hem-AGYAGU-1": {
+      "aa_muts": {
+        "coat protein": [
+          "S173A",
+          "G261V"
+        ]
+      }
+    },
+    "Hem-Sc2-17-1F": {
+      "aa_muts": {
+        "coat protein": [
+          "D6N",
+          "D8G",
+          "S9G",
+          "A20T",
+          "N22D",
+          "R23E",
+          "G24E",
+          "A28S"
+        ]
+      }
+    },
+    "Hem-Sc2-17-2": {
+      "aa_muts": {
+        "coat protein": [
+          "E8D",
+          "R40K",
+          "F41V",
+          "T50S",
+          "T123M",
+          "S295T"
+        ]
+      }
+    },
+    "Hem-Sc2-17-3": {
+      "aa_muts": {
+        "coat protein": [
+          "A43V"
+        ]
+      }
+    },
+    "Hem-Sc2-18-2": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "Hem-Sc3-17-1": {
+      "aa_muts": {
+        "coat protein": [
+          "G261V",
+          "T281S",
+          "H284L"
+        ]
+      }
+    },
+    "LAS-SARKI-3": {
+      "aa_muts": {
+        "coat protein": [
+          "S9G",
+          "V18A",
+          "A20T",
+          "S42P",
+          "N48S",
+          "D51G",
+          "G57D",
+          "Y215F",
+          "K256R",
+          "A257S",
+          "Y265T",
+          "K266N",
+          "M267V",
+          "K273E",
+          "E279D",
+          "G287A",
+          "D292T",
+          "H294R",
+          "S295N"
+        ]
+      }
+    },
+    "Las-Sc2-17-1": {
+      "aa_muts": {
+        "coat protein": [
+          "A44T",
+          "K291R"
+        ]
+      }
+    },
+    "Las-Sc2-17-2": {
+      "aa_muts": {
+        "coat protein": [
+          "A258V",
+          "G261V"
+        ]
+      }
+    },
+    "Las-Sc3-17-1": {
+      "aa_muts": {
+        "coat protein": [
+          "R23S",
+          "G24R",
+          "K27R",
+          "N48D",
+          "T62A",
+          "A123T",
+          "T281S"
+        ]
+      }
+    },
+    "Las-Sc3-17-2": {
+      "aa_muts": {
+        "coat protein": [
+          "E33L",
+          "R34C",
+          "E38V",
+          "I43V",
+          "I60V",
+          "V113I",
+          "N262D",
+          "S295G",
+          "L296P"
+        ]
+      }
+    },
+    "Las-Sc3-17-3": {
+      "aa_muts": {
+        "coat protein": [
+          "R23K",
+          "N29S",
+          "G134S",
+          "A173T"
+        ]
+      }
+    },
+    "MAK-PAK-3": {
+      "aa_muts": {
+        "coat protein": [
+          "D8E",
+          "S9G",
+          "K21R",
+          "V28S",
+          "S31P",
+          "E38Q",
+          "A44S",
+          "R82K",
+          "L85P",
+          "L91P",
+          "A127T",
+          "V183I",
+          "K256R"
+        ]
+      }
+    },
+    "MK-GWAD-1": {
+      "aa_muts": {
+        "coat protein": [
+          "G15R",
+          "E38G",
+          "R232S",
+          "Y233F"
+        ]
+      }
+    },
+    "MK-GWAD-2": {
+      "aa_muts": {
+        "coat protein": [
+          "G261V",
+          "K266I",
+          "G275C"
+        ]
+      }
+    },
+    "Mk-Sc2-17-1": {
+      "aa_muts": {
+        "coat protein": [
+          "S9N",
+          "N22S",
+          "R300K"
+        ]
+      }
+    },
+    "Mk-Sc2-17-2": {
+      "aa_muts": {
+        "coat protein": [
+          "I28T",
+          "S32L",
+          "A43V",
+          "M196L",
+          "F235L",
+          "S242Y",
+          "K243Q",
+          "G261V",
+          "K291R"
+        ]
+      }
+    },
+    "Mk-Sc2-17-3": {
+      "aa_muts": {
+        "coat protein": [
+          "T281S"
+        ]
+      }
+    },
+    "Mk-Sc2-18-1": {
+      "aa_muts": {
+        "coat protein": [
+          "A20T",
+          "R47K",
+          "N48K",
+          "V264I",
+          "Y265H"
+        ]
+      }
+    },
+    "Mk-Sc3-17-2": {
+      "aa_muts": {
+        "coat protein": [
+          "A20T",
+          "S42P",
+          "A44T",
+          "P98S",
+          "V113I",
+          "A173T",
+          "P214S",
+          "V289F"
+        ]
+      }
+    },
+    "Mk-Sc3-17-3": {
+      "aa_muts": {
+        "coat protein": [
+          "A44S",
+          "G134S",
+          "K256M"
+        ]
+      }
+    },
+    "NODE_0000002": {
+      "aa_muts": {
+        "coat protein": [
+          "D8E",
+          "Q10K",
+          "E16K",
+          "T20S",
+          "K21R",
+          "G24E",
+          "D26G",
+          "K27V",
+          "I37A",
+          "E38G",
+          "F41T",
+          "G58D",
+          "S84N",
+          "L85F",
+          "P98S",
+          "H114F",
+          "F138L",
+          "A173G"
+        ]
+      }
+    },
+    "NODE_0000003": {
+      "aa_muts": {
+        "coat protein": [
+          "N22D",
+          "E33G",
+          "H34Y",
+          "P42L",
+          "I43T",
+          "R66K",
+          "M143I"
+        ]
+      }
+    },
+    "NODE_0000004": {
+      "aa_muts": {
+        "coat protein": []
+      },
+      "aa_sequences": {
+        "coat protein": "ADTQPDDDGQTIDAGESTGTKNKGKDKTNASSEHSDIEKKFPIPEDRNETNKAQSSGGGILATRDRDIDAGTVGSVLPRLARKSLSNKMVLPMVRGKPILNLDHLVKYEPAQVHLSNTRATQAQFDTWYMAIKSFYEFEDEQMGMIMNGLMVWCIENGTSPNLSGMWTMMDGAEQVEYPLKPIIENAKPTFRQIMMHFSDAAEAYIELRNSKEPYMPRYGIQRNLRDYSLARYAFDFLEITSKTPVRAREAHHQMKAAAIGNKVYKMFGFDGKVGSQEEDTERHAAGDVTKDMHSLLGMRGM*"
+      }
+    },
+    "NODE_0000005": {
+      "aa_muts": {
+        "coat protein": [
+          "S32P",
+          "N48D",
+          "L61V",
+          "K97R",
+          "I132L",
+          "I183V",
+          "K291R"
+        ]
+      }
+    },
+    "NODE_0000006": {
+      "aa_muts": {
+        "coat protein": [
+          "T3I",
+          "D6E",
+          "E16A",
+          "T18A",
+          "A30T",
+          "N51S",
+          "G58D",
+          "G59R",
+          "I60A",
+          "A62T",
+          "R64H",
+          "R66K",
+          "V94I",
+          "D126E",
+          "F138L",
+          "G144Y",
+          "A173T",
+          "V246I",
+          "Y265S"
+        ]
+      }
+    },
+    "NODE_0000007": {
+      "aa_muts": {
+        "coat protein": [
+          "A14T",
+          "S31P",
+          "D48G",
+          "T50M",
+          "M130T"
+        ]
+      }
+    },
+    "NODE_0000008": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000009": {
+      "aa_muts": {
+        "coat protein": [
+          "G9S",
+          "G19E",
+          "T28I",
+          "N29S",
+          "H34R",
+          "S35G",
+          "I37S",
+          "K39Q",
+          "I43V",
+          "E45R",
+          "N51D"
+        ]
+      }
+    },
+    "NODE_0000010": {
+      "aa_muts": {
+        "coat protein": [
+          "D36Y",
+          "P44S",
+          "T127A"
+        ]
+      }
+    },
+    "NODE_0000011": {
+      "aa_muts": {
+        "coat protein": [
+          "K40T",
+          "F41Y",
+          "R45K",
+          "I60V",
+          "L61F"
+        ]
+      }
+    },
+    "NODE_0000012": {
+      "aa_muts": {
+        "coat protein": [
+          "Y36H",
+          "E38G",
+          "Y41H",
+          "R47G",
+          "F61I"
+        ]
+      }
+    },
+    "NODE_0000013": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000014": {
+      "aa_muts": {
+        "coat protein": [
+          "V94I",
+          "K97R",
+          "D126E",
+          "M130S",
+          "I132L",
+          "I183V"
+        ]
+      }
+    },
+    "NODE_0000015": {
+      "aa_muts": {
+        "coat protein": [
+          "T20A",
+          "Y36F"
+        ]
+      }
+    },
+    "NODE_0000016": {
+      "aa_muts": {
+        "coat protein": [
+          "S17N",
+          "R47G",
+          "D51N",
+          "L61V"
+        ]
+      }
+    },
+    "NODE_0000017": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000018": {
+      "aa_muts": {
+        "coat protein": [
+          "S37G"
+        ]
+      }
+    },
+    "NODE_0000020": {
+      "aa_muts": {
+        "coat protein": [
+          "D8G",
+          "N51S",
+          "I60V",
+          "V76I"
+        ]
+      }
+    },
+    "NODE_0000021": {
+      "aa_muts": {
+        "coat protein": [
+          "P42S"
+        ]
+      }
+    },
+    "NODE_0000022": {
+      "aa_muts": {
+        "coat protein": [
+          "T18I",
+          "P44A"
+        ]
+      }
+    },
+    "NODE_0000023": {
+      "aa_muts": {
+        "coat protein": [
+          "S31P",
+          "D36G"
+        ]
+      }
+    },
+    "NODE_0000024": {
+      "aa_muts": {
+        "coat protein": [
+          "A123T"
+        ]
+      }
+    },
+    "NODE_0000025": {
+      "aa_muts": {
+        "coat protein": [
+          "I18T",
+          "F138L"
+        ]
+      }
+    },
+    "NODE_0000026": {
+      "aa_muts": {
+        "coat protein": [
+          "S9G",
+          "T20I",
+          "R45K",
+          "A62T"
+        ]
+      }
+    },
+    "NODE_0000027": {
+      "aa_muts": {
+        "coat protein": [
+          "D8E",
+          "I60T"
+        ]
+      }
+    },
+    "NODE_0000028": {
+      "aa_muts": {
+        "coat protein": [
+          "T20I",
+          "S29N",
+          "A30T",
+          "P31S",
+          "S32P",
+          "E33N",
+          "K40E",
+          "S42P",
+          "V43K",
+          "D46N",
+          "R47K",
+          "N48S",
+          "A53T",
+          "T60A",
+          "R95K",
+          "K97R",
+          "N101D",
+          "D126N",
+          "T127A",
+          "S134G",
+          "P161S",
+          "I240V",
+          "N262S",
+          "Y265N"
+        ]
+      }
+    },
+    "NODE_0000029": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000030": {
+      "aa_muts": {
+        "coat protein": [
+          "V43A",
+          "S134N"
+        ]
+      }
+    },
+    "NODE_0000031": {
+      "aa_muts": {
+        "coat protein": [
+          "K27R",
+          "S37D",
+          "E38G",
+          "K40R",
+          "R45K",
+          "R47K"
+        ]
+      }
+    },
+    "NODE_0000032": {
+      "aa_muts": {
+        "coat protein": [
+          "M151I"
+        ]
+      }
+    },
+    "NODE_0000034": {
+      "aa_muts": {
+        "coat protein": [
+          "I12L",
+          "A44T",
+          "Q142L",
+          "M147R"
+        ]
+      }
+    },
+    "NODE_0000035": {
+      "aa_muts": {
+        "coat protein": [
+          "T18V",
+          "T127A",
+          "N134D"
+        ]
+      }
+    },
+    "NODE_0000036": {
+      "aa_muts": {
+        "coat protein": [
+          "K25R",
+          "A30T",
+          "F41S",
+          "S42F",
+          "A44T",
+          "N48S",
+          "T50A",
+          "A173T",
+          "A286S"
+        ]
+      }
+    },
+    "NODE_0000037": {
+      "aa_muts": {
+        "coat protein": [
+          "S17N",
+          "K21R",
+          "K23R"
+        ]
+      }
+    },
+    "NODE_0000038": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000039": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000040": {
+      "aa_muts": {
+        "coat protein": [
+          "S42P",
+          "N262H"
+        ]
+      }
+    },
+    "NODE_0000041": {
+      "aa_muts": {
+        "coat protein": [
+          "D2A"
+        ]
+      }
+    },
+    "NODE_0000042": {
+      "aa_muts": {
+        "coat protein": [
+          "T3S",
+          "A43V",
+          "A62T",
+          "A173T"
+        ]
+      }
+    },
+    "NODE_0000043": {
+      "aa_muts": {
+        "coat protein": [
+          "R47K",
+          "V264T"
+        ]
+      }
+    },
+    "NODE_0000044": {
+      "aa_muts": {
+        "coat protein": [
+          "S9G",
+          "S32P",
+          "K52R"
+        ]
+      }
+    },
+    "NODE_0000045": {
+      "aa_muts": {
+        "coat protein": [
+          "D8G",
+          "I18T",
+          "E19D",
+          "G36D",
+          "D46N",
+          "N48S",
+          "G58S"
+        ]
+      }
+    },
+    "NODE_0000046": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000047": {
+      "aa_muts": {
+        "coat protein": [
+          "S17N",
+          "I28V",
+          "A30T",
+          "P32L",
+          "S37N",
+          "V43I",
+          "I60T",
+          "G287S"
+        ]
+      }
+    },
+    "NODE_0000048": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000049": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000050": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000051": {
+      "aa_muts": {
+        "coat protein": [
+          "R45K"
+        ]
+      }
+    },
+    "NODE_0000052": {
+      "aa_muts": {
+        "coat protein": [
+          "S134G"
+        ]
+      }
+    },
+    "NODE_0000053": {
+      "aa_muts": {
+        "coat protein": [
+          "I28T",
+          "S42P",
+          "I60V",
+          "T264A"
+        ]
+      }
+    },
+    "NODE_0000054": {
+      "aa_muts": {
+        "coat protein": [
+          "K45E",
+          "V246I"
+        ]
+      }
+    },
+    "NODE_0000055": {
+      "aa_muts": {
+        "coat protein": [
+          "D8Y",
+          "S9G",
+          "D26G"
+        ]
+      }
+    },
+    "NODE_0000056": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000057": {
+      "aa_muts": {
+        "coat protein": [
+          "T20A",
+          "G58S"
+        ]
+      }
+    },
+    "NODE_0000058": {
+      "aa_muts": {
+        "coat protein": [
+          "D8Y",
+          "S9G",
+          "I18V",
+          "G35V",
+          "V73I",
+          "V246I"
+        ]
+      }
+    },
+    "NODE_0000059": {
+      "aa_muts": {
+        "coat protein": [
+          "A53T"
+        ]
+      }
+    },
+    "NODE_0000060": {
+      "aa_muts": {
+        "coat protein": [
+          "K40R",
+          "V43A",
+          "K97R"
+        ]
+      }
+    },
+    "NODE_0000061": {
+      "aa_muts": {
+        "coat protein": [
+          "A62T"
+        ]
+      }
+    },
+    "NODE_0000062": {
+      "aa_muts": {
+        "coat protein": [
+          "K27R",
+          "I60T"
+        ]
+      }
+    },
+    "NODE_0000063": {
+      "aa_muts": {
+        "coat protein": [
+          "A173T"
+        ]
+      }
+    },
+    "NODE_0000064": {
+      "aa_muts": {
+        "coat protein": [
+          "I18T",
+          "N48D",
+          "N87S"
+        ]
+      }
+    },
+    "NODE_0000065": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000066": {
+      "aa_muts": {
+        "coat protein": [
+          "S37G"
+        ]
+      }
+    },
+    "NODE_0000067": {
+      "aa_muts": {
+        "coat protein": [
+          "D8E",
+          "I18T"
+        ]
+      }
+    },
+    "NODE_0000068": {
+      "aa_muts": {
+        "coat protein": [
+          "A62T"
+        ]
+      }
+    },
+    "NODE_0000069": {
+      "aa_muts": {
+        "coat protein": [
+          "K23R"
+        ]
+      }
+    },
+    "NODE_0000070": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000071": {
+      "aa_muts": {
+        "coat protein": [
+          "S32L",
+          "R40K"
+        ]
+      }
+    },
+    "NODE_0000072": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000073": {
+      "aa_muts": {
+        "coat protein": [
+          "P31S",
+          "A44T",
+          "F138L"
+        ]
+      }
+    },
+    "NODE_0000074": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000075": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000076": {
+      "aa_muts": {
+        "coat protein": [
+          "T123M",
+          "L138F"
+        ]
+      }
+    },
+    "NODE_0000077": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000079": {
+      "aa_muts": {
+        "coat protein": [
+          "T60I"
+        ]
+      }
+    },
+    "NODE_0000080": {
+      "aa_muts": {
+        "coat protein": [
+          "G36D"
+        ]
+      }
+    },
+    "NODE_0000081": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000082": {
+      "aa_muts": {
+        "coat protein": [
+          "D2A",
+          "S295R"
+        ]
+      }
+    },
+    "NODE_0000083": {
+      "aa_muts": {
+        "coat protein": [
+          "L296V"
+        ]
+      }
+    },
+    "NODE_0000085": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000086": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000088": {
+      "aa_muts": {
+        "coat protein": [
+          "K21R",
+          "R27K",
+          "G37S",
+          "R40K",
+          "I183V"
+        ]
+      }
+    },
+    "NODE_0000089": {
+      "aa_muts": {
+        "coat protein": [
+          "A62V"
+        ]
+      }
+    },
+    "NODE_0000090": {
+      "aa_muts": {
+        "coat protein": [
+          "S32L"
+        ]
+      }
+    },
+    "NODE_0000091": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000092": {
+      "aa_muts": {
+        "coat protein": [
+          "S32L",
+          "P98S",
+          "M151I"
+        ]
+      }
+    },
+    "NODE_0000093": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000097": {
+      "aa_muts": {
+        "coat protein": [
+          "M302L"
+        ]
+      }
+    },
+    "NODE_0000098": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000099": {
+      "aa_muts": {
+        "coat protein": [
+          "A30V"
+        ]
+      }
+    },
+    "NODE_0000100": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000101": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000102": {
+      "aa_muts": {
+        "coat protein": [
+          "R40K",
+          "A43V",
+          "K47R"
+        ]
+      }
+    },
+    "NODE_0000103": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000104": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000105": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000106": {
+      "aa_muts": {
+        "coat protein": [
+          "A30V",
+          "G36S"
+        ]
+      }
+    },
+    "NODE_0000107": {
+      "aa_muts": {
+        "coat protein": [
+          "A62V"
+        ]
+      }
+    },
+    "NODE_0000108": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000109": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000110": {
+      "aa_muts": {
+        "coat protein": [
+          "M151I"
+        ]
+      }
+    },
+    "NODE_0000112": {
+      "aa_muts": {
+        "coat protein": [
+          "R192L"
+        ]
+      }
+    },
+    "NODE_0000113": {
+      "aa_muts": {
+        "coat protein": [
+          "M196L"
+        ]
+      }
+    },
+    "NODE_0000115": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000116": {
+      "aa_muts": {
+        "coat protein": [
+          "E38G"
+        ]
+      }
+    },
+    "NODE_0000117": {
+      "aa_muts": {
+        "coat protein": [
+          "G37D",
+          "A173T"
+        ]
+      }
+    },
+    "NODE_0000118": {
+      "aa_muts": {
+        "coat protein": [
+          "G35S",
+          "S42F",
+          "A43P"
+        ]
+      }
+    },
+    "NODE_0000119": {
+      "aa_muts": {
+        "coat protein": [
+          "R97K"
+        ]
+      }
+    },
+    "NODE_0000120": {
+      "aa_muts": {
+        "coat protein": [
+          "T173A"
+        ]
+      }
+    },
+    "NODE_0000121": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000123": {
+      "aa_muts": {
+        "coat protein": [
+          "Q39H",
+          "A44T",
+          "A53V"
+        ]
+      }
+    },
+    "NODE_0000124": {
+      "aa_muts": {
+        "coat protein": [
+          "G261V"
+        ]
+      }
+    },
+    "NODE_0000125": {
+      "aa_muts": {
+        "coat protein": [
+          "M151I"
+        ]
+      }
+    },
+    "NODE_0000126": {
+      "aa_muts": {
+        "coat protein": [
+          "G37S"
+        ]
+      }
+    },
+    "NODE_0000127": {
+      "aa_muts": {
+        "coat protein": [
+          "R27K",
+          "T60A"
+        ]
+      }
+    },
+    "NODE_0000128": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000129": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000130": {
+      "aa_muts": {
+        "coat protein": [
+          "I28T"
+        ]
+      }
+    },
+    "NODE_0000131": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000132": {
+      "aa_muts": {
+        "coat protein": [
+          "S32L"
+        ]
+      }
+    },
+    "NODE_0000133": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000134": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000136": {
+      "aa_muts": {
+        "coat protein": [
+          "M196L"
+        ]
+      }
+    },
+    "NODE_0000137": {
+      "aa_muts": {
+        "coat protein": [
+          "N262Y"
+        ]
+      }
+    },
+    "NODE_0000138": {
+      "aa_muts": {
+        "coat protein": [
+          "T281L"
+        ]
+      }
+    },
+    "NODE_0000139": {
+      "aa_muts": {
+        "coat protein": [
+          "M151I"
+        ]
+      }
+    },
+    "NODE_0000142": {
+      "aa_muts": {
+        "coat protein": [
+          "M196L"
+        ]
+      }
+    },
+    "NODE_0000143": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000144": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000146": {
+      "aa_muts": {
+        "coat protein": [
+          "A30T",
+          "G58S"
+        ]
+      }
+    },
+    "NODE_0000147": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000148": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000149": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000150": {
+      "aa_muts": {
+        "coat protein": [
+          "T20A",
+          "G36S",
+          "S37G",
+          "S134D",
+          "F138L",
+          "M151I",
+          "D236E",
+          "T264V"
+        ]
+      }
+    },
+    "NODE_0000152": {
+      "aa_muts": {
+        "coat protein": [
+          "A43V"
+        ]
+      }
+    },
+    "NODE_0000153": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000154": {
+      "aa_muts": {
+        "coat protein": [
+          "E8D",
+          "T18A",
+          "T20A",
+          "K23R",
+          "R27K",
+          "I28V",
+          "S29N",
+          "P31S"
+        ]
+      }
+    },
+    "NODE_0000155": {
+      "aa_muts": {
+        "coat protein": [
+          "E8G",
+          "A44V"
+        ]
+      }
+    },
+    "NODE_0000156": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000157": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000160": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000161": {
+      "aa_muts": {
+        "coat protein": [
+          "G261V"
+        ]
+      }
+    },
+    "NODE_0000162": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000163": {
+      "aa_muts": {
+        "coat protein": [
+          "H284L"
+        ]
+      }
+    },
+    "NODE_0000164": {
+      "aa_muts": {
+        "coat protein": [
+          "P161S"
+        ]
+      }
+    },
+    "NODE_0000165": {
+      "aa_muts": {
+        "coat protein": [
+          "I60V",
+          "T127A"
+        ]
+      }
+    },
+    "NODE_0000166": {
+      "aa_muts": {
+        "coat protein": [
+          "A44T"
+        ]
+      }
+    },
+    "NODE_0000167": {
+      "aa_muts": {
+        "coat protein": [
+          "I183V"
+        ]
+      }
+    },
+    "NODE_0000168": {
+      "aa_muts": {
+        "coat protein": [
+          "R47G",
+          "N48S",
+          "T63N"
+        ]
+      }
+    },
+    "NODE_0000169": {
+      "aa_muts": {
+        "coat protein": [
+          "D8E",
+          "I18V",
+          "G36S"
+        ]
+      }
+    },
+    "NODE_0000170": {
+      "aa_muts": {
+        "coat protein": [
+          "V43A",
+          "R45K"
+        ]
+      }
+    },
+    "NODE_0000171": {
+      "aa_muts": {
+        "coat protein": [
+          "D8E",
+          "I18N",
+          "K21R",
+          "N22S",
+          "S29N",
+          "A30T",
+          "P31S",
+          "E33G",
+          "G36D",
+          "S37N",
+          "A44S",
+          "T50A",
+          "A123T",
+          "A127T",
+          "A173S"
+        ]
+      }
+    },
+    "NODE_0000172": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000173": {
+      "aa_muts": {
+        "coat protein": [
+          "I18V",
+          "K23R",
+          "I28V",
+          "A43T",
+          "S134G"
+        ]
+      }
+    },
+    "NODE_0000174": {
+      "aa_muts": {
+        "coat protein": [
+          "S29N",
+          "A30V",
+          "P31Q",
+          "S42P",
+          "T43M",
+          "D51E",
+          "A62T",
+          "A123T",
+          "G134D",
+          "V264T"
+        ]
+      }
+    },
+    "NODE_0000175": {
+      "aa_muts": {
+        "coat protein": [
+          "M196L"
+        ]
+      }
+    },
+    "NODE_0000176": {
+      "aa_muts": {
+        "coat protein": [
+          "M130T"
+        ]
+      }
+    },
+    "NODE_0000177": {
+      "aa_muts": {
+        "coat protein": [
+          "V289F",
+          "M302W"
+        ]
+      }
+    },
+    "NODE_0000178": {
+      "aa_muts": {
+        "coat protein": [
+          "V60I"
+        ]
+      }
+    },
+    "NODE_0000179": {
+      "aa_muts": {
+        "coat protein": [
+          "T20A"
+        ]
+      }
+    },
+    "NODE_0000180": {
+      "aa_muts": {
+        "coat protein": [
+          "K27R"
+        ]
+      }
+    },
+    "NODE_0000181": {
+      "aa_muts": {
+        "coat protein": [
+          "K40R",
+          "L85F",
+          "K97R"
+        ]
+      }
+    },
+    "NODE_0000182": {
+      "aa_muts": {
+        "coat protein": [
+          "V18I",
+          "G134S"
+        ]
+      }
+    },
+    "NODE_0000183": {
+      "aa_muts": {
+        "coat protein": [
+          "R23K",
+          "R47K",
+          "G134D"
+        ]
+      }
+    },
+    "NODE_0000184": {
+      "aa_muts": {
+        "coat protein": [
+          "D8E",
+          "A20T",
+          "V28I",
+          "Q39H",
+          "T43A",
+          "A44V",
+          "G57S",
+          "F85L"
+        ]
+      }
+    },
+    "NODE_0000185": {
+      "aa_muts": {
+        "coat protein": [
+          "A62T"
+        ]
+      }
+    },
+    "NODE_0000186": {
+      "aa_muts": {
+        "coat protein": [
+          "S29N",
+          "T43I",
+          "G58T"
+        ]
+      }
+    },
+    "NODE_0000187": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000188": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000189": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000190": {
+      "aa_muts": {
+        "coat protein": [
+          "S37N",
+          "R47K"
+        ]
+      }
+    },
+    "NODE_0000191": {
+      "aa_muts": {
+        "coat protein": [
+          "V28A",
+          "T58A"
+        ]
+      }
+    },
+    "NODE_0000192": {
+      "aa_muts": {
+        "coat protein": [
+          "D2G"
+        ]
+      }
+    },
+    "NODE_0000193": {
+      "aa_muts": {
+        "coat protein": [
+          "D7E",
+          "D8E",
+          "V18T",
+          "A20T",
+          "R23K",
+          "V28I",
+          "K40R",
+          "I43A",
+          "A44T",
+          "N48S"
+        ]
+      }
+    },
+    "NODE_0000194": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000195": {
+      "aa_muts": {
+        "coat protein": [
+          "H252P"
+        ]
+      }
+    },
+    "NODE_0000196": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000197": {
+      "aa_muts": {
+        "coat protein": [
+          "N37D"
+        ]
+      }
+    },
+    "NODE_0000198": {
+      "aa_muts": {
+        "coat protein": [
+          "E8D",
+          "V90T",
+          "P98S"
+        ]
+      }
+    },
+    "NODE_0000199": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000200": {
+      "aa_muts": {
+        "coat protein": [
+          "G35S",
+          "K45R"
+        ]
+      }
+    },
+    "NODE_0000201": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000202": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000203": {
+      "aa_muts": {
+        "coat protein": [
+          "I43V"
+        ]
+      }
+    },
+    "NODE_0000204": {
+      "aa_muts": {
+        "coat protein": [
+          "R23K",
+          "I43T"
+        ]
+      }
+    },
+    "NODE_0000205": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000207": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000208": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000209": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000210": {
+      "aa_muts": {
+        "coat protein": [
+          "R23K",
+          "S84N"
+        ]
+      }
+    },
+    "NODE_0000212": {
+      "aa_muts": {
+        "coat protein": [
+          "V28F",
+          "I43V",
+          "A44T",
+          "N48D",
+          "T62A"
+        ]
+      }
+    },
+    "NODE_0000213": {
+      "aa_muts": {
+        "coat protein": [
+          "D48E"
+        ]
+      }
+    },
+    "NODE_0000215": {
+      "aa_muts": {
+        "coat protein": [
+          "V28A",
+          "S84N"
+        ]
+      }
+    },
+    "NODE_0000216": {
+      "aa_muts": {
+        "coat protein": [
+          "A28S"
+        ]
+      }
+    },
+    "NODE_0000217": {
+      "aa_muts": {
+        "coat protein": [
+          "D2G",
+          "K40E",
+          "S42P",
+          "I60V",
+          "P98S",
+          "M151I"
+        ]
+      }
+    },
+    "NODE_0000218": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000219": {
+      "aa_muts": {
+        "coat protein": [
+          "A53V",
+          "V113I",
+          "G261V",
+          "H284L",
+          "M302V"
+        ]
+      }
+    },
+    "NODE_0000220": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000221": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000222": {
+      "aa_muts": {
+        "coat protein": [
+          "N48S",
+          "D51N",
+          "I60V"
+        ]
+      }
+    },
+    "NODE_0000223": {
+      "aa_muts": {
+        "coat protein": [
+          "N22S",
+          "T58A"
+        ]
+      }
+    },
+    "NODE_0000224": {
+      "aa_muts": {
+        "coat protein": [
+          "G36S",
+          "F41S",
+          "N48D",
+          "S55P",
+          "A58V",
+          "P98S",
+          "A127S",
+          "G144S"
+        ]
+      }
+    },
+    "NODE_0000225": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000226": {
+      "aa_muts": {
+        "coat protein": [
+          "G261V"
+        ]
+      }
+    },
+    "NODE_0000227": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000228": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000229": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000230": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000231": {
+      "aa_muts": {
+        "coat protein": [
+          "A30V",
+          "S37N"
+        ]
+      }
+    },
+    "NODE_0000232": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000233": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000234": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000236": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000237": {
+      "aa_muts": {
+        "coat protein": [
+          "I43T",
+          "A44V"
+        ]
+      }
+    },
+    "NODE_0000238": {
+      "aa_muts": {
+        "coat protein": [
+          "P31S",
+          "S84N"
+        ]
+      }
+    },
+    "NODE_0000239": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000240": {
+      "aa_muts": {
+        "coat protein": [
+          "T3S",
+          "V18I",
+          "K40R",
+          "L85F",
+          "M151I"
+        ]
+      }
+    },
+    "NODE_0000241": {
+      "aa_muts": {
+        "coat protein": [
+          "S55T"
+        ]
+      }
+    },
+    "NODE_0000242": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000243": {
+      "aa_muts": {
+        "coat protein": [
+          "I43T"
+        ]
+      }
+    },
+    "NODE_0000244": {
+      "aa_muts": {
+        "coat protein": [
+          "P98S"
+        ]
+      }
+    },
+    "NODE_0000245": {
+      "aa_muts": {
+        "coat protein": [
+          "M302R"
+        ]
+      }
+    },
+    "NODE_0000247": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000248": {
+      "aa_muts": {
+        "coat protein": [
+          "I60V"
+        ]
+      }
+    },
+    "NODE_0000249": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000250": {
+      "aa_muts": {
+        "coat protein": [
+          "V28A",
+          "S37N",
+          "I43M"
+        ]
+      }
+    },
+    "NODE_0000251": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000252": {
+      "aa_muts": {
+        "coat protein": [
+          "P31S",
+          "A44T",
+          "T58A"
+        ]
+      }
+    },
+    "NODE_0000253": {
+      "aa_muts": {
+        "coat protein": [
+          "G261V",
+          "H284L",
+          "T290P"
+        ]
+      }
+    },
+    "NODE_0000254": {
+      "aa_muts": {
+        "coat protein": [
+          "A30V",
+          "T50K"
+        ]
+      }
+    },
+    "NODE_0000255": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000256": {
+      "aa_muts": {
+        "coat protein": [
+          "G261V",
+          "E282V"
+        ]
+      }
+    },
+    "NODE_0000257": {
+      "aa_muts": {
+        "coat protein": [
+          "G36S"
+        ]
+      }
+    },
+    "NODE_0000258": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000259": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000260": {
+      "aa_muts": {
+        "coat protein": [
+          "P31S"
+        ]
+      }
+    },
+    "NODE_0000262": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000263": {
+      "aa_muts": {
+        "coat protein": [
+          "V113I"
+        ]
+      }
+    },
+    "NODE_0000264": {
+      "aa_muts": {
+        "coat protein": [
+          "A30T",
+          "A44T"
+        ]
+      }
+    },
+    "NODE_0000265": {
+      "aa_muts": {
+        "coat protein": [
+          "I43T",
+          "V90A"
+        ]
+      }
+    },
+    "NODE_0000266": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000267": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000268": {
+      "aa_muts": {
+        "coat protein": [
+          "N29D"
+        ]
+      }
+    },
+    "NODE_0000269": {
+      "aa_muts": {
+        "coat protein": [
+          "R34H"
+        ]
+      }
+    },
+    "NODE_0000270": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000272": {
+      "aa_muts": {
+        "coat protein": [
+          "G134S"
+        ]
+      }
+    },
+    "NODE_0000273": {
+      "aa_muts": {
+        "coat protein": [
+          "S37G"
+        ]
+      }
+    },
+    "NODE_0000275": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000276": {
+      "aa_muts": {
+        "coat protein": [
+          "S42P",
+          "I60T"
+        ]
+      }
+    },
+    "NODE_0000279": {
+      "aa_muts": {
+        "coat protein": [
+          "T58A"
+        ]
+      }
+    },
+    "NODE_0000282": {
+      "aa_muts": {
+        "coat protein": [
+          "G261V"
+        ]
+      }
+    },
+    "NODE_0000283": {
+      "aa_muts": {
+        "coat protein": [
+          "H284L"
+        ]
+      }
+    },
+    "NODE_0000287": {
+      "aa_muts": {
+        "coat protein": [
+          "T58A"
+        ]
+      }
+    },
+    "NODE_0000289": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000290": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000291": {
+      "aa_muts": {
+        "coat protein": [
+          "D2N",
+          "S31P",
+          "T63A"
+        ]
+      }
+    },
+    "NODE_0000292": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000293": {
+      "aa_muts": {
+        "coat protein": [
+          "K21N"
+        ]
+      }
+    },
+    "NODE_0000294": {
+      "aa_muts": {
+        "coat protein": [
+          "I43T"
+        ]
+      }
+    },
+    "NODE_0000295": {
+      "aa_muts": {
+        "coat protein": [
+          "T281S"
+        ]
+      }
+    },
+    "NODE_0000296": {
+      "aa_muts": {
+        "coat protein": [
+          "G261V"
+        ]
+      }
+    },
+    "NODE_0000297": {
+      "aa_muts": {
+        "coat protein": [
+          "F41S"
+        ]
+      }
+    },
+    "NODE_0000298": {
+      "aa_muts": {
+        "coat protein": [
+          "A123T"
+        ]
+      }
+    },
+    "NODE_0000299": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000300": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000302": {
+      "aa_muts": {
+        "coat protein": [
+          "D2A"
+        ]
+      }
+    },
+    "NODE_0000303": {
+      "aa_muts": {
+        "coat protein": [
+          "S295I",
+          "L296F"
+        ]
+      }
+    },
+    "NODE_0000304": {
+      "aa_muts": {
+        "coat protein": [
+          "A2R"
+        ]
+      }
+    },
+    "NODE_0000305": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000306": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000309": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000310": {
+      "aa_muts": {
+        "coat protein": [
+          "G301D"
+        ]
+      }
+    },
+    "NODE_0000311": {
+      "aa_muts": {
+        "coat protein": [
+          "D301E",
+          "M302K"
+        ]
+      }
+    },
+    "NODE_0000312": {
+      "aa_muts": {
+        "coat protein": [
+          "G261V"
+        ]
+      }
+    },
+    "NODE_0000313": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000315": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000316": {
+      "aa_muts": {
+        "coat protein": [
+          "H284L"
+        ]
+      }
+    },
+    "NODE_0000317": {
+      "aa_muts": {
+        "coat protein": [
+          "E282V"
+        ]
+      }
+    },
+    "NODE_0000318": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000319": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000320": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000321": {
+      "aa_muts": {
+        "coat protein": [
+          "D2A"
+        ]
+      }
+    },
+    "NODE_0000322": {
+      "aa_muts": {
+        "coat protein": [
+          "A2T"
+        ]
+      }
+    },
+    "NODE_0000323": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000324": {
+      "aa_muts": {
+        "coat protein": [
+          "T3S"
+        ]
+      }
+    },
+    "NODE_0000325": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000326": {
+      "aa_muts": {
+        "coat protein": [
+          "G261V"
+        ]
+      }
+    },
+    "NODE_0000327": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000328": {
+      "aa_muts": {
+        "coat protein": [
+          "H284L"
+        ]
+      }
+    },
+    "NODE_0000329": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000330": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000331": {
+      "aa_muts": {
+        "coat protein": [
+          "V261G"
+        ]
+      }
+    },
+    "NODE_0000332": {
+      "aa_muts": {
+        "coat protein": [
+          "V18I",
+          "A20E"
+        ]
+      }
+    },
+    "NODE_0000333": {
+      "aa_muts": {
+        "coat protein": [
+          "S17R"
+        ]
+      }
+    },
+    "NODE_0000335": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000336": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000337": {
+      "aa_muts": {
+        "coat protein": [
+          "V261G"
+        ]
+      }
+    },
+    "NODE_0000338": {
+      "aa_muts": {
+        "coat protein": [
+          "V76I"
+        ]
+      }
+    },
+    "NODE_0000341": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000342": {
+      "aa_muts": {
+        "coat protein": [
+          "D8E"
+        ]
+      }
+    },
+    "NODE_0000343": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000344": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000349": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000350": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000354": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000364": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000368": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000383": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000387": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000388": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000389": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000390": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000392": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000394": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000396": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000397": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000398": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000405": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000407": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000408": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000415": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000416": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000417": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000421": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000423": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000432": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000438": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000440": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000442": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000443": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "NODE_0000444": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "POGNON_C1": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "R-Apr-17-m2-1": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "R-Apr-17-m2-2": {
+      "aa_muts": {
+        "coat protein": [
+          "Y219F",
+          "G220V",
+          "R247G"
+        ]
+      }
+    },
+    "R-Apr-17-m2-3": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "R-Apr-17-pT2-3": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "R-Aug-18-5-pT1": {
+      "aa_muts": {
+        "coat protein": [
+          "M302R"
+        ]
+      }
+    },
+    "R-Aug-18-5-pT10": {
+      "aa_muts": {
+        "coat protein": [
+          "D280H",
+          "R300K"
+        ]
+      }
+    },
+    "R-Aug-18-5-pT11": {
+      "aa_muts": {
+        "coat protein": [
+          "S17C",
+          "V18I"
+        ]
+      }
+    },
+    "R-Aug-18-5-pT12": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "R-Aug-18-5-pT13": {
+      "aa_muts": {
+        "coat protein": [
+          "T20P",
+          "D26N",
+          "R27K",
+          "I28E",
+          "S29I",
+          "S42L",
+          "K52Q",
+          "A53T",
+          "S84N",
+          "L91F",
+          "M170I",
+          "K181Q",
+          "T190S",
+          "F191V",
+          "Q193P",
+          "M196E",
+          "H197D",
+          "F198C",
+          "S199C",
+          "D200G",
+          "A201S",
+          "A202D",
+          "I206L",
+          "F237V",
+          "L238I",
+          "P245T",
+          "H252P"
+        ]
+      }
+    },
+    "R-Aug-18-5-pT2": {
+      "aa_muts": {
+        "coat protein": [
+          "K45R"
+        ]
+      }
+    },
+    "R-Aug-18-5-pT3": {
+      "aa_muts": {
+        "coat protein": [
+          "K52R"
+        ]
+      }
+    },
+    "R-Aug-18-5-pT4": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "R-Aug-18-5-pT6": {
+      "aa_muts": {
+        "coat protein": [
+          "T62A",
+          "A127T",
+          "M151I",
+          "T159S",
+          "G261V",
+          "E282V"
+        ]
+      }
+    },
+    "R-Aug-18-5-pT7": {
+      "aa_muts": {
+        "coat protein": [
+          "M302I"
+        ]
+      }
+    },
+    "R-Aug-18-5-pT8": {
+      "aa_muts": {
+        "coat protein": [
+          "H284L"
+        ]
+      }
+    },
+    "R-Aug-18-5-pT9": {
+      "aa_muts": {
+        "coat protein": [
+          "G261V"
+        ]
+      }
+    },
+    "R-Aug-19-50-pT1": {
+      "aa_muts": {
+        "coat protein": [
+          "S17R",
+          "V18C",
+          "R192C",
+          "G261V",
+          "N262D",
+          "G269A",
+          "A285F",
+          "A286E"
+        ]
+      }
+    },
+    "R-Aug-19-50-pT2": {
+      "aa_muts": {
+        "coat protein": [
+          "K25I"
+        ]
+      }
+    },
+    "R-Aug-19-50-pT21": {
+      "aa_muts": {
+        "coat protein": [
+          "S17G",
+          "Q142H",
+          "W153R",
+          "N224I",
+          "G269V"
+        ]
+      }
+    },
+    "R-Aug-19-50-pT3": {
+      "aa_muts": {
+        "coat protein": [
+          "E8D",
+          "G37S",
+          "Q39H",
+          "R82K",
+          "L91F",
+          "R97T",
+          "E109D",
+          "Q112H",
+          "Q124H",
+          "S134I",
+          "T159S",
+          "H197Y",
+          "K243N",
+          "G269V",
+          "D280N",
+          "L297F"
+        ]
+      }
+    },
+    "R-Aug-19-50-pT4": {
+      "aa_muts": {
+        "coat protein": [
+          "E8D",
+          "I12M",
+          "N17S",
+          "V18M",
+          "I28N",
+          "Q39H",
+          "A43I",
+          "R45K",
+          "V152G",
+          "M170R",
+          "Q222H",
+          "R232T",
+          "H252P",
+          "N262D",
+          "G269V",
+          "D280N",
+          "M302V"
+        ]
+      }
+    },
+    "R-Aug-19-50-pT6": {
+      "aa_muts": {
+        "coat protein": [
+          "D2Q",
+          "D8E",
+          "S9K",
+          "T20A",
+          "A30T",
+          "G35D",
+          "D36N",
+          "E38G",
+          "V43A",
+          "T50A",
+          "L61F",
+          "S134N"
+        ]
+      }
+    },
+    "R-Aug-19-50-pT7": {
+      "aa_muts": {
+        "coat protein": [
+          "D2K",
+          "T3A",
+          "Q4H",
+          "E8D",
+          "S9K",
+          "R82K",
+          "E109D",
+          "H197Y",
+          "N224I",
+          "G269V",
+          "S295T"
+        ]
+      }
+    },
+    "R-Aug-20-2-V1BA-1": {
+      "aa_muts": {
+        "coat protein": [
+          "G59R"
+        ]
+      }
+    },
+    "R-Aug-20-2-V1BB-1": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "R-Aug-20-2-V1BC-1": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "R-Aug-20-2-V1TA-1": {
+      "aa_muts": {
+        "coat protein": [
+          "D2P",
+          "T3S",
+          "G134D",
+          "A173T"
+        ]
+      }
+    },
+    "R-Aug-20-2-V1TB-1": {
+      "aa_muts": {
+        "coat protein": [
+          "Q4H",
+          "P5L",
+          "D6I",
+          "D7A",
+          "E8A",
+          "S9K",
+          "Q10A",
+          "N148K",
+          "L150V",
+          "M151L",
+          "V152D",
+          "W153R"
+        ]
+      }
+    },
+    "R-Aug-20-2-V1TB-2": {
+      "aa_muts": {
+        "coat protein": [
+          "T3K",
+          "D51Y",
+          "T290P"
+        ]
+      }
+    },
+    "R-Aug-20-2-V1TC-1": {
+      "aa_muts": {
+        "coat protein": [
+          "T3K"
+        ]
+      }
+    },
+    "R-Aug-20-2-V1TD-1": {
+      "aa_muts": {
+        "coat protein": [
+          "G2R",
+          "T3K",
+          "G261V"
+        ]
+      }
+    },
+    "R-Aug-20-2-V2BB-2": {
+      "aa_muts": {
+        "coat protein": [
+          "N22T",
+          "N29Y",
+          "D51A",
+          "M151I",
+          "N210K",
+          "A234V",
+          "L238I",
+          "S242Y",
+          "A258I",
+          "K266N",
+          "V274L",
+          "G275R",
+          "E282Q",
+          "G287R",
+          "D292Y",
+          "R300T"
+        ]
+      }
+    },
+    "R-Aug-20-2-V2BC-1": {
+      "aa_muts": {
+        "coat protein": [
+          "G134D",
+          "G220V",
+          "R247G",
+          "H253R",
+          "T281S"
+        ]
+      }
+    },
+    "R-Aug-20-2-V2TA-1": {
+      "aa_muts": {
+        "coat protein": [
+          "M151I",
+          "G261V",
+          "T290P",
+          "M302L"
+        ]
+      }
+    },
+    "R-Aug-20-2-V2TC-1": {
+      "aa_muts": {
+        "coat protein": [
+          "G134D",
+          "H284L"
+        ]
+      }
+    },
+    "R-Aug-20-2-V2TD-1": {
+      "aa_muts": {
+        "coat protein": [
+          "D2R",
+          "V302E"
+        ]
+      }
+    },
+    "R-Dec-16-pT2-1": {
+      "aa_muts": {
+        "coat protein": [
+          "D2N",
+          "T281L"
+        ]
+      }
+    },
+    "R-Dec-16-pT2-2": {
+      "aa_muts": {
+        "coat protein": [
+          "S37N"
+        ]
+      }
+    },
+    "R-Feb-17-m1-1": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "R-Feb-17-m1-2": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "R-Feb-17-m1-3": {
+      "aa_muts": {
+        "coat protein": [
+          "M196L",
+          "M302T"
+        ]
+      }
+    },
+    "R-Feb-17-m1-4": {
+      "aa_muts": {
+        "coat protein": [
+          "V152M",
+          "A231V",
+          "K263M",
+          "K266I",
+          "T281L"
+        ]
+      }
+    },
+    "R-Feb-17-pT1-1": {
+      "aa_muts": {
+        "coat protein": [
+          "D2N"
+        ]
+      }
+    },
+    "R-Feb-17-pT1-2": {
+      "aa_muts": {
+        "coat protein": [
+          "F270I",
+          "T281S",
+          "A286C",
+          "G287S",
+          "G301S"
+        ]
+      }
+    },
+    "R-Feb-17-pT3-1": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "R-Feb-17-pT3-2": {
+      "aa_muts": {
+        "coat protein": [
+          "A259V",
+          "V261A"
+        ]
+      }
+    },
+    "R-Feb-17-pT4-1": {
+      "aa_muts": {
+        "coat protein": [
+          "S281L"
+        ]
+      }
+    },
+    "R-Jan-17-pT1-1": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "R-Jan-17-pT2-1": {
+      "aa_muts": {
+        "coat protein": [
+          "H197R",
+          "F198I"
+        ]
+      }
+    },
+    "R-Jul-18-5-pT1": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "R-Jul-18-5-pT10": {
+      "aa_muts": {
+        "coat protein": [
+          "M151I",
+          "V152R",
+          "T159S"
+        ]
+      }
+    },
+    "R-Jul-18-5-pT11": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "R-Jul-18-5-pT12": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "R-Jul-18-5-pT13": {
+      "aa_muts": {
+        "coat protein": [
+          "A18V",
+          "E38V",
+          "Q39L",
+          "F41Y",
+          "A43I",
+          "A44V",
+          "W153R"
+        ]
+      }
+    },
+    "R-Jul-18-5-pT2": {
+      "aa_muts": {
+        "coat protein": [
+          "R23K",
+          "G35V",
+          "N262D",
+          "K263E"
+        ]
+      }
+    },
+    "R-Jul-18-5-pT3": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "R-Jul-18-5-pT4": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "R-Jul-18-5-pT5": {
+      "aa_muts": {
+        "coat protein": [
+          "K52R",
+          "M302R"
+        ]
+      }
+    },
+    "R-Jul-18-5-pT6": {
+      "aa_muts": {
+        "coat protein": [
+          "V18I",
+          "R23K",
+          "K25I",
+          "D26Y",
+          "K27M",
+          "V28I",
+          "S31P",
+          "S32A",
+          "G35F",
+          "Q39E",
+          "K40V"
+        ]
+      }
+    },
+    "R-Jul-18-5-pT7": {
+      "aa_muts": {
+        "coat protein": [
+          "Q39R"
+        ]
+      }
+    },
+    "R-Jul-18-5-pT8": {
+      "aa_muts": {
+        "coat protein": [
+          "Q39C",
+          "A44T"
+        ]
+      }
+    },
+    "R-Jul-18-5-pT9": {
+      "aa_muts": {
+        "coat protein": [
+          "Y228H"
+        ]
+      }
+    },
+    "R-Mar-17-m2-3": {
+      "aa_muts": {
+        "coat protein": [
+          "Q4H"
+        ]
+      }
+    },
+    "R-Mar-17-m2-4": {
+      "aa_muts": {
+        "coat protein": [
+          "G261V",
+          "T281S"
+        ]
+      }
+    },
+    "R-Mar-17-pT2-3": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "R-Mar-17-pT3-1": {
+      "aa_muts": {
+        "coat protein": [
+          "G35D",
+          "R40S",
+          "S42Y",
+          "A62G",
+          "R66I",
+          "G71V",
+          "L77P",
+          "N87D",
+          "P98L",
+          "D103V",
+          "K107N",
+          "Y108N",
+          "V152E",
+          "W153R"
+        ]
+      }
+    },
+    "R-Mar-17-pT3-2": {
+      "aa_muts": {
+        "coat protein": [
+          "Q193E",
+          "G261V",
+          "K263M",
+          "E278K"
+        ]
+      }
+    },
+    "R-Nov-17-YB13": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "R-Nov-17-YB14": {
+      "aa_muts": {
+        "coat protein": [
+          "M93V"
+        ]
+      }
+    },
+    "R-Nov-17-YB16": {
+      "aa_muts": {
+        "coat protein": [
+          "A30S",
+          "S32L",
+          "D280N",
+          "T290M"
+        ]
+      }
+    },
+    "R-Nov-17-YB18": {
+      "aa_muts": {
+        "coat protein": [
+          "D2N",
+          "A43V",
+          "A173T"
+        ]
+      }
+    },
+    "R-Nov-17-YB19": {
+      "aa_muts": {
+        "coat protein": [
+          "V18I",
+          "A44T"
+        ]
+      }
+    },
+    "R-Nov-17-YB20": {
+      "aa_muts": {
+        "coat protein": [
+          "E156K"
+        ]
+      }
+    },
+    "R-Nov-17-YB21": {
+      "aa_muts": {
+        "coat protein": [
+          "M255I",
+          "N262D"
+        ]
+      }
+    },
+    "R-Oct-18-5-pT1": {
+      "aa_muts": {
+        "coat protein": [
+          "V28L",
+          "T43A",
+          "A44T",
+          "R47K",
+          "I60T",
+          "G134S",
+          "V183I"
+        ]
+      }
+    },
+    "R-Oct-18-5-pT10": {
+      "aa_muts": {
+        "coat protein": [
+          "V28I",
+          "P31S",
+          "A44V",
+          "I60T",
+          "V183I",
+          "G261V",
+          "K266I"
+        ]
+      }
+    },
+    "R-Oct-18-5-pT11": {
+      "aa_muts": {
+        "coat protein": [
+          "G261V"
+        ]
+      }
+    },
+    "R-Oct-18-5-pT12": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "R-Oct-18-5-pT13": {
+      "aa_muts": {
+        "coat protein": [
+          "D134N"
+        ]
+      }
+    },
+    "R-Oct-18-5-pT2": {
+      "aa_muts": {
+        "coat protein": [
+          "D2Q",
+          "V152M"
+        ]
+      }
+    },
+    "R-Oct-18-5-pT3": {
+      "aa_muts": {
+        "coat protein": [
+          "S41Y"
+        ]
+      }
+    },
+    "R-Oct-18-5-pT4": {
+      "aa_muts": {
+        "coat protein": [
+          "T123L",
+          "F135S"
+        ]
+      }
+    },
+    "R-Oct-18-5-pT5": {
+      "aa_muts": {
+        "coat protein": [
+          "S9N",
+          "I60T",
+          "S295N"
+        ]
+      }
+    },
+    "R-Oct-18-5-pT6": {
+      "aa_muts": {
+        "coat protein": [
+          "K266I"
+        ]
+      }
+    },
+    "R-Oct-18-5-pT7": {
+      "aa_muts": {
+        "coat protein": [
+          "D126N",
+          "K266I"
+        ]
+      }
+    },
+    "R-Oct-18-5-pT8": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "R-Oct-18-5-pT9": {
+      "aa_muts": {
+        "coat protein": [
+          "T123K"
+        ]
+      }
+    },
+    "R-Oct-19-50-PT5": {
+      "aa_muts": {
+        "coat protein": [
+          "A44T",
+          "M151I",
+          "S242Y",
+          "H252P",
+          "G261V",
+          "N262D",
+          "E282V",
+          "H284L",
+          "A285F",
+          "A286E",
+          "S295I"
+        ]
+      }
+    },
+    "R-Oct-19-50-pT1": {
+      "aa_muts": {
+        "coat protein": [
+          "N29T",
+          "S42F",
+          "T43S",
+          "G134D",
+          "T190P",
+          "R192C",
+          "R247G",
+          "H252P",
+          "K263E",
+          "V264D",
+          "K266T",
+          "G269A",
+          "H284L",
+          "A285F",
+          "A286E",
+          "L297F"
+        ]
+      }
+    },
+    "R-Oct-19-50-pT12": {
+      "aa_muts": {
+        "coat protein": [
+          "S9N",
+          "N22S",
+          "S31P",
+          "E38D",
+          "P98S",
+          "S134N",
+          "H252P",
+          "G261V",
+          "N262D",
+          "K263E",
+          "K266I",
+          "G269A",
+          "E282V",
+          "H284L"
+        ]
+      }
+    },
+    "R-Oct-19-50-pT2": {
+      "aa_muts": {
+        "coat protein": [
+          "V28A",
+          "S31P",
+          "T58A",
+          "M302R"
+        ]
+      }
+    },
+    "R-Oct-19-50-pT22": {
+      "aa_muts": {
+        "coat protein": [
+          "T159P",
+          "H252P",
+          "I260S",
+          "G261E",
+          "G269A",
+          "A286G",
+          "M302L"
+        ]
+      }
+    },
+    "R-Oct-19-50-pT3": {
+      "aa_muts": {
+        "coat protein": [
+          "D8A",
+          "S9N",
+          "A44T"
+        ]
+      }
+    },
+    "R-Oct-19-50-pT32": {
+      "aa_muts": {
+        "coat protein": [
+          "D8E",
+          "S9T",
+          "S17R",
+          "D26E",
+          "R34S",
+          "S42F",
+          "A127T",
+          "V152G",
+          "N157K",
+          "T190P",
+          "R192C",
+          "N210D",
+          "D227G",
+          "A248G",
+          "R249A",
+          "E250G",
+          "H252P",
+          "M255K",
+          "A286P",
+          "R300K",
+          "M302R"
+        ]
+      }
+    },
+    "R-Oct-19-50-pT4": {
+      "aa_muts": {
+        "coat protein": [
+          "I18K",
+          "R23K",
+          "A44T",
+          "T190P",
+          "S199R",
+          "E213K",
+          "I221F",
+          "Q222P",
+          "Y233N",
+          "E239K",
+          "A248G",
+          "R249G",
+          "M255K",
+          "A259P",
+          "I260F",
+          "H284P",
+          "A285P",
+          "S295T",
+          "R300K"
+        ]
+      }
+    },
+    "R-Oct-19-50-pT42": {
+      "aa_muts": {
+        "coat protein": [
+          "K40R"
+        ]
+      }
+    },
+    "R-Oct-19-50-pT51": {
+      "aa_muts": {
+        "coat protein": [
+          "I12M",
+          "R23K",
+          "I60F",
+          "T62P",
+          "S86R",
+          "N87K",
+          "E109D",
+          "Q112H",
+          "Q124H",
+          "G134V",
+          "T159P",
+          "G269V",
+          "D280N",
+          "H284P",
+          "A285S"
+        ]
+      }
+    },
+    "R-Oct-19-50-pT6": {
+      "aa_muts": {
+        "coat protein": [
+          "S3P",
+          "D7E",
+          "E33R",
+          "S42F",
+          "T159P",
+          "T190P",
+          "R192C",
+          "L238F",
+          "S242F",
+          "E250G",
+          "H252P",
+          "M255K",
+          "H284Q",
+          "A286V"
+        ]
+      }
+    },
+    "R-Oct-19-50-pT8": {
+      "aa_muts": {
+        "coat protein": [
+          "S242F",
+          "H252P",
+          "K266I",
+          "E282V",
+          "A285F"
+        ]
+      }
+    },
+    "R-Oct-20-2-V1BA-1": {
+      "aa_muts": {
+        "coat protein": [
+          "G2A",
+          "T3S",
+          "M302W"
+        ]
+      }
+    },
+    "R-Oct-20-2-V1BA-2": {
+      "aa_muts": {
+        "coat protein": [
+          "T3K",
+          "S295I",
+          "L296F",
+          "G301V"
+        ]
+      }
+    },
+    "R-Oct-20-2-V1BB-1": {
+      "aa_muts": {
+        "coat protein": [
+          "M151I",
+          "L297S",
+          "M302R"
+        ]
+      }
+    },
+    "R-Oct-20-2-V1BB-2": {
+      "aa_muts": {
+        "coat protein": [
+          "F41S",
+          "S295R",
+          "L296A",
+          "G301D",
+          "R302G"
+        ]
+      }
+    },
+    "R-Oct-20-2-V1BC-1": {
+      "aa_muts": {
+        "coat protein": [
+          "A2P",
+          "T3K",
+          "I28N",
+          "A127T",
+          "M302W"
+        ]
+      }
+    },
+    "R-Oct-20-2-V1BC-2": {
+      "aa_muts": {
+        "coat protein": [
+          "D2A",
+          "T3S",
+          "S295I",
+          "L296F",
+          "R302W"
+        ]
+      }
+    },
+    "R-Oct-20-2-V1BD-1": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "R-Oct-20-2-V1BD-2": {
+      "aa_muts": {
+        "coat protein": [
+          "K27R",
+          "S37N",
+          "K40R",
+          "G134S",
+          "M151I",
+          "V183I",
+          "G261V",
+          "T281A",
+          "E282M",
+          "H284D",
+          "A286T",
+          "D288S",
+          "V289T",
+          "T290A",
+          "K291P",
+          "M293V",
+          "H294V",
+          "S295D",
+          "L296F",
+          "G298C"
+        ]
+      }
+    },
+    "R-Oct-20-2-V1BD-3": {
+      "aa_muts": {
+        "coat protein": [
+          "D2A",
+          "T3S",
+          "G35S",
+          "S295R",
+          "L296V",
+          "M299L"
+        ]
+      }
+    },
+    "R-Oct-20-2-V1BD-4": {
+      "aa_muts": {
+        "coat protein": [
+          "V152R",
+          "I155L",
+          "I184S",
+          "E185K",
+          "N186Y",
+          "L208S",
+          "M216I",
+          "L225V",
+          "A231S",
+          "E279V",
+          "T281S",
+          "A286T",
+          "S295R",
+          "L296V"
+        ]
+      }
+    },
+    "R-Oct-20-2-V1TA-1": {
+      "aa_muts": {
+        "coat protein": [
+          "A286S",
+          "D288E",
+          "V289F",
+          "T290A"
+        ]
+      }
+    },
+    "R-Oct-20-2-V1TA-2": {
+      "aa_muts": {
+        "coat protein": [
+          "I295M"
+        ]
+      }
+    },
+    "R-Oct-20-2-V1TB-1": {
+      "aa_muts": {
+        "coat protein": [
+          "A2P",
+          "L296V",
+          "M299L",
+          "M302W"
+        ]
+      }
+    },
+    "R-Oct-20-2-V1TB-2": {
+      "aa_muts": {
+        "coat protein": [
+          "T3D",
+          "Q4K",
+          "K302E"
+        ]
+      }
+    },
+    "R-Oct-20-2-V1TC-1": {
+      "aa_muts": {
+        "coat protein": [
+          "D2H",
+          "N262K",
+          "S276P",
+          "E278G",
+          "E279K"
+        ]
+      }
+    },
+    "R-Oct-20-2-V1TC-2": {
+      "aa_muts": {
+        "coat protein": [
+          "D2P",
+          "T3S",
+          "G37S",
+          "R97K",
+          "M151I",
+          "D288E",
+          "V289F"
+        ]
+      }
+    },
+    "R-Oct-20-2-V1TD-1": {
+      "aa_muts": {
+        "coat protein": [
+          "D2R",
+          "K302R"
+        ]
+      }
+    },
+    "R-Oct-20-2-V1TD-2": {
+      "aa_muts": {
+        "coat protein": [
+          "M302W"
+        ]
+      }
+    },
+    "R-Oct-20-2-V2BA-1": {
+      "aa_muts": {
+        "coat protein": [
+          "T3S",
+          "Y265H",
+          "V289F",
+          "V296G"
+        ]
+      }
+    },
+    "R-Oct-20-2-V2BB-1": {
+      "aa_muts": {
+        "coat protein": [
+          "R232S",
+          "F237L",
+          "G261E",
+          "N262D",
+          "K263Y",
+          "F270Y",
+          "D271E",
+          "E279V",
+          "T281A",
+          "E282L",
+          "A286P",
+          "G287S",
+          "D288P",
+          "K291I",
+          "S295I",
+          "L296V"
+        ]
+      }
+    },
+    "R-Oct-20-2-V2BB-2": {
+      "aa_muts": {
+        "coat protein": [
+          "P31S",
+          "T281S",
+          "D288E",
+          "V289F",
+          "S295I",
+          "L296F",
+          "M302G"
+        ]
+      }
+    },
+    "R-Oct-20-2-V2BC-1": {
+      "aa_muts": {
+        "coat protein": [
+          "D2E",
+          "E282V",
+          "M293I",
+          "H294Y"
+        ]
+      }
+    },
+    "R-Oct-20-2-V2BC-2": {
+      "aa_muts": {
+        "coat protein": [
+          "E282V"
+        ]
+      }
+    },
+    "R-Oct-20-2-V2TA-1": {
+      "aa_muts": {
+        "coat protein": [
+          "G2R",
+          "N37S"
+        ]
+      }
+    },
+    "R-Oct-20-2-V2TA-2": {
+      "aa_muts": {
+        "coat protein": [
+          "T18S",
+          "T60I",
+          "H284L"
+        ]
+      }
+    },
+    "R-Oct-20-2-V2TB-1": {
+      "aa_muts": {
+        "coat protein": [
+          "T3P",
+          "Q4V",
+          "P5L",
+          "D6S",
+          "D7F",
+          "D8V",
+          "S9K",
+          "Q10V"
+        ]
+      }
+    },
+    "R-Oct-20-2-V2TB-2": {
+      "aa_muts": {
+        "coat protein": [
+          "M196K",
+          "D288E",
+          "L296V",
+          "M299L",
+          "G301V"
+        ]
+      }
+    },
+    "R-Oct-20-2-V2TB-3": {
+      "aa_muts": {
+        "coat protein": [
+          "D2N",
+          "R82K",
+          "N262D",
+          "K266E",
+          "G269A",
+          "D271E",
+          "T281L"
+        ]
+      }
+    },
+    "R-Oct-20-2-V2TC-1": {
+      "aa_muts": {
+        "coat protein": [
+          "T123A",
+          "K291T",
+          "D292E",
+          "M293R",
+          "H294Q",
+          "S295H",
+          "L296I"
+        ]
+      }
+    },
+    "R-Oct-20-2-V2TC-2": {
+      "aa_muts": {
+        "coat protein": [
+          "D2A",
+          "T3K"
+        ]
+      }
+    },
+    "R-Oct-20-2-V2TD-1": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "R-Oct-20-2-V2TD-2": {
+      "aa_muts": {
+        "coat protein": [
+          "G2A",
+          "T3S",
+          "A127T"
+        ]
+      }
+    },
+    "R-Sep-18-5-pT1": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "R-Sep-18-5-pT10": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "R-Sep-18-5-pT11": {
+      "aa_muts": {
+        "coat protein": [
+          "A285F",
+          "A286L"
+        ]
+      }
+    },
+    "R-Sep-18-5-pT12": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "R-Sep-18-5-pT13": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "R-Sep-18-5-pT2": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "R-Sep-18-5-pT3": {
+      "aa_muts": {
+        "coat protein": [
+          "E282V",
+          "A285F",
+          "A286S"
+        ]
+      }
+    },
+    "R-Sep-18-5-pT4": {
+      "aa_muts": {
+        "coat protein": [
+          "G261V"
+        ]
+      }
+    },
+    "R-Sep-18-5-pT5": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "R-Sep-18-5-pT6": {
+      "aa_muts": {
+        "coat protein": [
+          "G269V"
+        ]
+      }
+    },
+    "R-Sep-18-5-pT7": {
+      "aa_muts": {
+        "coat protein": [
+          "A285V",
+          "A286L"
+        ]
+      }
+    },
+    "R-Sep-18-5-pT8": {
+      "aa_muts": {
+        "coat protein": [
+          "V261G"
+        ]
+      }
+    },
+    "R-Sep-19-50-pT1": {
+      "aa_muts": {
+        "coat protein": [
+          "D2E",
+          "T3K",
+          "N22K",
+          "R34S",
+          "R40K",
+          "S42F",
+          "K47R",
+          "T58A",
+          "N157K",
+          "T190P",
+          "R192C",
+          "S242F",
+          "G261V",
+          "E282V",
+          "H284L",
+          "A285F",
+          "A286P"
+        ]
+      }
+    },
+    "R-Sep-19-50-pT2": {
+      "aa_muts": {
+        "coat protein": [
+          "E8G"
+        ]
+      }
+    },
+    "R-Sep-19-50-pT3": {
+      "aa_muts": {
+        "coat protein": [
+          "D7E",
+          "M302E"
+        ]
+      }
+    },
+    "R-Sep-19-50-pT4": {
+      "aa_muts": {
+        "coat protein": [
+          "E8D",
+          "S17G",
+          "A44T"
+        ]
+      }
+    },
+    "R-Sep-19-50-pT53": {
+      "aa_muts": {
+        "coat protein": [
+          "D8E",
+          "S9K",
+          "A30T",
+          "I60T",
+          "A123V"
+        ]
+      }
+    },
+    "R-Sep-19-50-pT7": {
+      "aa_muts": {
+        "coat protein": [
+          "S295T"
+        ]
+      }
+    },
+    "R-Sep-19-50-pT8": {
+      "aa_muts": {
+        "coat protein": [
+          "E16D",
+          "S17R",
+          "V18G",
+          "K21I",
+          "N22K",
+          "D26H",
+          "R27I",
+          "S29N",
+          "R34F",
+          "Q39K",
+          "T43I",
+          "A62P",
+          "D134Y"
+        ]
+      }
+    },
+    "R-Sep-20-2-V1BA-1": {
+      "aa_muts": {
+        "coat protein": [
+          "V296A",
+          "G301D",
+          "M302G"
+        ]
+      }
+    },
+    "R-Sep-20-2-V1BA-2": {
+      "aa_muts": {
+        "coat protein": [
+          "D7E",
+          "T281L",
+          "E282G",
+          "M302L"
+        ]
+      }
+    },
+    "R-Sep-20-2-V1BB-1": {
+      "aa_muts": {
+        "coat protein": [
+          "T3K",
+          "S37G",
+          "H284L"
+        ]
+      }
+    },
+    "R-Sep-20-2-V1BB-2": {
+      "aa_muts": {
+        "coat protein": [
+          "T3A"
+        ]
+      }
+    },
+    "R-Sep-20-2-V1BC-1": {
+      "aa_muts": {
+        "coat protein": [
+          "D2G",
+          "T3I",
+          "K52R",
+          "S295R"
+        ]
+      }
+    },
+    "R-Sep-20-2-V1BC-2": {
+      "aa_muts": {
+        "coat protein": [
+          "A1G",
+          "D2N",
+          "M302L"
+        ]
+      }
+    },
+    "R-Sep-20-2-V1BD-1": {
+      "aa_muts": {
+        "coat protein": [
+          "D2A",
+          "T3S",
+          "G301D"
+        ]
+      }
+    },
+    "R-Sep-20-2-V1BD-2": {
+      "aa_muts": {
+        "coat protein": [
+          "D2A",
+          "T3S",
+          "M196L"
+        ]
+      }
+    },
+    "R-Sep-20-2-V1BD-3": {
+      "aa_muts": {
+        "coat protein": [
+          "T3E"
+        ]
+      }
+    },
+    "R-Sep-20-2-V1TA-1": {
+      "aa_muts": {
+        "coat protein": [
+          "D2P",
+          "T58S",
+          "D288E",
+          "S295R",
+          "L296V"
+        ]
+      }
+    },
+    "R-Sep-20-2-V1TA-2": {
+      "aa_muts": {
+        "coat protein": [
+          "T3S",
+          "D36N",
+          "T44I"
+        ]
+      }
+    },
+    "R-Sep-20-2-V1TB-1": {
+      "aa_muts": {
+        "coat protein": [
+          "I151M",
+          "N262S",
+          "K266R",
+          "E282V",
+          "H284L",
+          "V289A",
+          "M293I",
+          "S295I",
+          "L296V"
+        ]
+      }
+    },
+    "R-Sep-20-2-V1TB-2": {
+      "aa_muts": {
+        "coat protein": [
+          "D51Y",
+          "S295R",
+          "L296V"
+        ]
+      }
+    },
+    "R-Sep-20-2-V1TC-1": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "R-Sep-20-2-V1TD-1": {
+      "aa_muts": {
+        "coat protein": [
+          "T3P",
+          "G59R",
+          "A285D",
+          "G287A",
+          "T290P",
+          "I295F"
+        ]
+      }
+    },
+    "R-Sep-20-2-V1TD-2": {
+      "aa_muts": {
+        "coat protein": [
+          "T3S",
+          "Q4P",
+          "P5A",
+          "D6G",
+          "D7V",
+          "D8K",
+          "T11L",
+          "I12F",
+          "G24R"
+        ]
+      }
+    },
+    "R-Sep-20-2-V2BA-1": {
+      "aa_muts": {
+        "coat protein": [
+          "T3K",
+          "I28T",
+          "R40K",
+          "K45R",
+          "A62V",
+          "T127A",
+          "M151I",
+          "S211A",
+          "T264S",
+          "M299L",
+          "G301R",
+          "M302W"
+        ]
+      }
+    },
+    "R-Sep-20-2-V2BA-2": {
+      "aa_muts": {
+        "coat protein": [
+          "D2C",
+          "T3A",
+          "Q4V",
+          "P5F",
+          "D6R",
+          "D7E",
+          "E8P",
+          "S9R",
+          "N17T",
+          "M302K"
+        ]
+      }
+    },
+    "R-Sep-20-2-V2BB-1": {
+      "aa_muts": {
+        "coat protein": [
+          "A2P",
+          "G298R"
+        ]
+      }
+    },
+    "R-Sep-20-2-V2BC-1": {
+      "aa_muts": {
+        "coat protein": [
+          "N2R",
+          "T281S",
+          "E282V",
+          "H284L",
+          "A285D",
+          "A286V",
+          "D292N"
+        ]
+      }
+    },
+    "R-Sep-20-2-V2BC-2": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "R-Sep-20-2-V2TA-1": {
+      "aa_muts": {
+        "coat protein": [
+          "T3K",
+          "T281R",
+          "M302W"
+        ]
+      }
+    },
+    "R-Sep-20-2-V2TC-1": {
+      "aa_muts": {
+        "coat protein": [
+          "T3K",
+          "M93T",
+          "M151I",
+          "G301E",
+          "M302E"
+        ]
+      }
+    },
+    "R-Sep-20-2-V2TD-1": {
+      "aa_muts": {
+        "coat protein": [
+          "G24E",
+          "W153R"
+        ]
+      }
+    },
+    "SOA2_C1": {
+      "aa_muts": {
+        "coat protein": [
+          "N48S",
+          "T50I",
+          "R66K",
+          "G144S"
+        ]
+      }
+    },
+    "Trifida_C5": {
+      "aa_muts": {
+        "coat protein": [
+          "D46N",
+          "A62E",
+          "A120S",
+          "R192C",
+          "S199H",
+          "I240V",
+          "A258V",
+          "N262S",
+          "T264V",
+          "Y265N"
+        ]
+      }
+    },
+    "YMVANb": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "YMVAy": {
+      "aa_muts": {
+        "coat protein": [
+          "M151I",
+          "T264I"
+        ]
+      }
+    },
+    "YMVBNb": {
+      "aa_muts": {
+        "coat protein": [
+          "E8D",
+          "E19G",
+          "Q277H"
+        ]
+      }
+    },
+    "YMVBy": {
+      "aa_muts": {
+        "coat protein": [
+          "T20A",
+          "I28V",
+          "A44T",
+          "K47R",
+          "G58S"
+        ]
+      }
+    },
+    "YMVCNb": {
+      "aa_muts": {
+        "coat protein": [
+          "M299I"
+        ]
+      }
+    },
+    "YMVCy": {
+      "aa_muts": {
+        "coat protein": [
+          "T55S",
+          "V289F"
+        ]
+      }
+    },
+    "YMVDy": {
+      "aa_muts": {
+        "coat protein": [
+          "P31S",
+          "S37D",
+          "T50A",
+          "Q277H"
+        ]
+      }
+    },
+    "YMVFy": {
+      "aa_muts": {
+        "coat protein": [
+          "V18I",
+          "Q277H"
+        ]
+      }
+    },
+    "YMVGy": {
+      "aa_muts": {
+        "coat protein": [
+          "T20A",
+          "S29N",
+          "V43I",
+          "A62V",
+          "L85F",
+          "A127V"
+        ]
+      }
+    },
+    "YMVHy": {
+      "aa_muts": {
+        "coat protein": [
+          "D7E",
+          "D8S",
+          "S9Q",
+          "T11I",
+          "E19A",
+          "T20R",
+          "S29N",
+          "S37G",
+          "R40K",
+          "A43I",
+          "D126E"
+        ]
+      }
+    },
+    "YMVIy": {
+      "aa_muts": {
+        "coat protein": [
+          "A81T"
+        ]
+      }
+    },
+    "YMVJy": {
+      "aa_muts": {
+        "coat protein": [
+          "T264I"
+        ]
+      }
+    },
+    "YMVKy": {
+      "aa_muts": {
+        "coat protein": [
+          "V18I",
+          "G58S",
+          "I60T",
+          "A62T"
+        ]
+      }
+    },
+    "YMVLy": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "YMVMy": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "YMVNy": {
+      "aa_muts": {
+        "coat protein": [
+          "V18A",
+          "V183I"
+        ]
+      }
+    },
+    "YMVQy": {
+      "aa_muts": {
+        "coat protein": [
+          "S55A",
+          "A62T",
+          "M299I"
+        ]
+      }
+    },
+    "YMV_DR2": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "YMV_Dsp": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "YMV_I4": {
+      "aa_muts": {
+        "coat protein": [
+          "G35S"
+        ]
+      }
+    },
+    "YMVcp-GS100": {
+      "aa_muts": {
+        "coat protein": [
+          "D26G",
+          "I28V",
+          "G35S",
+          "N48S",
+          "S134D",
+          "A173T"
+        ]
+      }
+    },
+    "YMVcp-GS143": {
+      "aa_muts": {
+        "coat protein": [
+          "E278D"
+        ]
+      }
+    },
+    "YMVcp-GS156": {
+      "aa_muts": {
+        "coat protein": [
+          "G36D",
+          "E38G",
+          "G57S",
+          "T123M"
+        ]
+      }
+    },
+    "YMVcp-GS172b": {
+      "aa_muts": {
+        "coat protein": [
+          "K21Q"
+        ]
+      }
+    },
+    "YMVcp-GS183": {
+      "aa_muts": {
+        "coat protein": [
+          "S17N",
+          "K21R",
+          "K27R",
+          "T44M",
+          "E141G"
+        ]
+      }
+    },
+    "YMVcp-GS233": {
+      "aa_muts": {
+        "coat protein": [
+          "I18T",
+          "T20V",
+          "N22S",
+          "A30T",
+          "G36S",
+          "L85F",
+          "M130T",
+          "V152G"
+        ]
+      }
+    },
+    "YMVcp-GS258": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "YMVcp-GS280": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "YMVcp-HB160": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "YMVcp-HB285b": {
+      "aa_muts": {
+        "coat protein": [
+          "R27K",
+          "G36D",
+          "G57S",
+          "G58S",
+          "I60V"
+        ]
+      }
+    },
+    "YMVcp-HB290": {
+      "aa_muts": {
+        "coat protein": [
+          "S84N"
+        ]
+      }
+    },
+    "YMVcp-HB295": {
+      "aa_muts": {
+        "coat protein": [
+          "K107R",
+          "G134C"
+        ]
+      }
+    },
+    "YMVcp-HB298": {
+      "aa_muts": {
+        "coat protein": [
+          "D8G",
+          "E38G",
+          "R47G",
+          "Q54R"
+        ]
+      }
+    },
+    "YMVcp-HB303": {
+      "aa_muts": {
+        "coat protein": [
+          "I28T",
+          "F41S",
+          "G58S",
+          "R66K",
+          "T127I",
+          "M130T",
+          "V246I"
+        ]
+      }
+    },
+    "YMVcp-HB96": {
+      "aa_muts": {
+        "coat protein": [
+          "G134D"
+        ]
+      }
+    },
+    "YMVcp-HM190": {
+      "aa_muts": {
+        "coat protein": [
+          "E19G",
+          "R34H"
+        ]
+      }
+    },
+    "YMVcp-HM26": {
+      "aa_muts": {
+        "coat protein": [
+          "A30T",
+          "F41S",
+          "T50P",
+          "A127T",
+          "M130T"
+        ]
+      }
+    },
+    "YMVcp-WH126": {
+      "aa_muts": {
+        "coat protein": [
+          "D46N"
+        ]
+      }
+    },
+    "YMVcp-WH127": {
+      "aa_muts": {
+        "coat protein": [
+          "P31S",
+          "N48S",
+          "K52R",
+          "G57D",
+          "Y108N",
+          "W153R"
+        ]
+      }
+    },
+    "YMVcp-WH132": {
+      "aa_muts": {
+        "coat protein": [
+          "T20A",
+          "S37N",
+          "L85F",
+          "A123T",
+          "A127T",
+          "F138L",
+          "E139G",
+          "V264A",
+          "K266R"
+        ]
+      }
+    },
+    "YMVcp-WH161": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "YMVcp-WH194": {
+      "aa_muts": {
+        "coat protein": [
+          "V113I",
+          "M130I",
+          "S134N",
+          "T290N"
+        ]
+      }
+    },
+    "YMVcp-WH201b": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "YMVcp-WH214b": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "YMVcp-WH261": {
+      "aa_muts": {
+        "coat protein": [
+          "P31S"
+        ]
+      }
+    },
+    "Yo2607": {
+      "aa_muts": {
+        "coat protein": [
+          "D8E",
+          "A62V"
+        ]
+      }
+    },
+    "Yo2665": {
+      "aa_muts": {
+        "coat protein": [
+          "T264V"
+        ]
+      }
+    },
+    "Yoju": {
+      "aa_muts": {
+        "coat protein": [
+          "K45N",
+          "D51N",
+          "V113I",
+          "V274L"
+        ]
+      }
+    },
+    "Yoo421": {
+      "aa_muts": {
+        "coat protein": [
+          "Q4H",
+          "T44A"
+        ]
+      }
+    },
+    "Yoo497": {
+      "aa_muts": {
+        "coat protein": [
+          "G35V",
+          "S42P",
+          "T55I"
+        ]
+      }
+    },
+    "Yooo34": {
+      "aa_muts": {
+        "coat protein": []
+      }
+    },
+    "Yoooo2": {
+      "aa_muts": {
+        "coat protein": [
+          "E8D",
+          "T18I",
+          "T20A",
+          "R27K",
+          "K266N",
+          "M267K",
+          "F268Y",
+          "G269A",
+          "F270Y",
+          "D271E",
+          "G272D",
+          "V274L",
+          "G275V",
+          "S276Y",
+          "Q277R",
+          "E278K",
+          "E279K",
+          "D280N",
+          "T281I",
+          "E282S",
+          "H284Q",
+          "A285T",
+          "T290K",
+          "M293K",
+          "H294N",
+          "L296F"
+        ]
+      }
+    }
+  },
+  "reference": {
+    "coat protein": "ADTQPDDDGQTIDAGESTGTKNKGKDKTNASSEHSDIEKKFPIPEDRNETNKAQSSGGGILATRDRDIDAGTVGSVLPRLARKSLSNKMVLPMVRGKPILNLDHLVKYEPAQVHLSNTRATQAQFDTWYMAIKSFYEFEDEQMGMIMNGLMVWCIENGTSPNLSGMWTMMDGAEQVEYPLKPIIENAKPTFRQIMMHFSDAAEAYIELRNSKEPYMPRYGIQRNLRDYSLARYAFDFLEITSKTPVRAREAHHQMKAAAIGNKVYKMFGFDGKVGSQEEDTERHAAGDVTKDMHSLLGMRGM*"
+  }
+}
