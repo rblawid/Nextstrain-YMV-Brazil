@@ -1,9 +1,9 @@
 {
   "title": " Nextstrain build for Yam Mosaic Virus",
   "maintainers": [
-    {"name": "PHD Rosana Blawid, Carlos Henrique Machado Dias"}
+    {"name":"Rosana Blawid and Carlos Henrique Machado Dias"}
   ],
-  "build_url": "https://github.com/nextstrain/Ymv",
+  "build_url": "https://github.com/nextstrain/YMV",
   "colorings": [
     {
       "key": "gt",

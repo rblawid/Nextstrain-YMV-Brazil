@@ -30,6 +30,8 @@ FEATURES             Location/Qualifiers
      CDS             135..>1025
                      /note="putative P1 protein"
                      /codon_start=1
+                     /product="P1"
+                     /gene="P1"
                      /protein_id="AAC55547.1"
                      /translation="MAFVMFGQFESALPLLHSGGASLTVAPNCVAPIKRDILKETRFQ
                      MMKEEAQRERAWAKLEEETRERYESFQRGTLKRLPYGFMTLKKPSIVKLHKERIEREN
@@ -40,6 +42,8 @@ FEATURES             Location/Qualifiers
      CDS             <1026..>2399
                      /note="putative HC-Pro protein; Helper-component"
                      /codon_start=1
+                     /product="HC-Pro"
+                     /gene="HC-Pro"
                      /protein_id="AAC55548.1"
                      /translation="SSTPLKYWEGFNEGFLEHKPKQINHTCASVLDVKACGKVAAIMY
                      QALFQSGQITCSECIRAYMETTQTEMNARLEPVLDEKIQILSVSHPQFEHVSSMLKCY
@@ -53,6 +57,8 @@ FEATURES             Location/Qualifiers
      CDS             <2400..>3449
                      /note="putative P3 protein"
                      /codon_start=1
+                     /product="P3"
+                     /gene="P3"
                      /protein_id="AAC55549.1"
                      /translation="GLVHHSEHDSRSVKLLIKSVYKPKLMEQVLMEEPYLLVFAMVSP
                      CVLMAMFNSGSLERATHFWLRQQDDLAFISSALSTLAQKVSTAHSLIDQLDIINEMAS
@@ -64,12 +70,16 @@ FEATURES             Location/Qualifiers
      CDS             <3450..>3599
                      /note="putative 6K1 protein"
                      /codon_start=1
+                     /product="6K1"
+                     /gene="6K1"
                      /protein_id="AAC55550.1"
                      /translation="SKRSEECKFEAIIAFIALVLMIFDAERSDCVYRSLTKLKSLVAT
                      TEVSHQ"
      CDS             <3600..>5504
                      /note="putative CI protein"
                      /codon_start=1
+                     /product="CI"
+                     /gene="CI"
                      /protein_id="AAC55551.1"
                      /translation="SLDDIRTNLTEEKLTVDFELNSSDIHGSPVQEHTFQTWWDRQIV
                      SGRTIPHYRTEGFQMEFTRATAASVVCEIVQSKHRDIMLRGAVGSGKSTGLPSLLMKH
@@ -86,12 +96,16 @@ FEATURES             Location/Qualifiers
      CDS             <5505..>5660
                      /note="putative 6K2 protein"
                      /codon_start=1
+                     /product="6K2"
+                     /gene="6K2"
                      /protein_id="AAC55552.1"
                      /translation="SENEMSKYLGLKGRWNKQLLTKDILVMIAVFGGGVWMAYEYLVK
                      SMETVKHQ"
      CDS             <5661..>6980
                      /note="putative NIa protein; nuclear inclusion a"
                      /codon_start=1
+                     /product="NIa"
+                     /gene="NIa"
                      /protein_id="AAC55553.1"
                      /translation="GKNSKRKNQKLKFRDARDKKVGRIVEGDDETIEHYFGEAYTKKG
                      KQSGRTKGMGHKTRKFINMYGYDPKEYEFIRIVDPLTGATLDENAYFDMSLVQEHFGE
@@ -104,6 +118,8 @@ FEATURES             Location/Qualifiers
      CDS             <6981..>8537
                      /note="putative NIb protein; nuclear inclusion b"
                      /codon_start=1
+                     /product="NIb"
+                     /gene="NIb"
                      /protein_id="AAC55554.1"
                      /translation="GLENQTWLLDSINGNLKAVGKCSNQLVTKHVVKGKCVLFDQYLA
                      THPEEDKFFRPLMGAYQKSRLNREAYIKDIMKYSKPIVIGDVDITAFERALSATIVYM
@@ -119,7 +135,7 @@ FEATURES             Location/Qualifiers
                      /note="N-terminus confirmed by protein sequencing"
                      /codon_start=1
                      /product="coat protein"
-                     /gene="coat protein"
+                     /gene="CP"
                      /protein_id="AAC55555.1"
                      /translation="ADTQPDDEGKTIDAGKSTGSRNKEKGVTDTSSEHNNAGKKTPIS
                      EDRSETNKAQSSGDGILATRDRDTDAGTVGSVLPRLARKNFSNKMVLPMVRGKSILNL

@@ -3,10 +3,10 @@
   "meta": {
     "title": " Nextstrain build for Yam Mosaic Virus",
     "updated": "2024-05-27",
-    "build_url": "https://github.com/nextstrain/Ymv",
+    "build_url": "https://github.com/nextstrain/YMV",
     "maintainers": [
       {
-        "name": "PHD Rosana Blawid, Carlos Henrique Machado Dias"
+        "name": "Rosana Blawid and Carlos Henrique Machado Dias"
       }
     ],
     "display_defaults": {
@@ -19,6 +19,69 @@
         "strand": "+",
         "type": "source",
         "seqid": "config/ymv_outgroup.gb"
+      },
+      "6K1": {
+        "end": 3599,
+        "seqid": "config/ymv_outgroup.gb",
+        "start": 3450,
+        "strand": "+",
+        "type": "CDS"
+      },
+      "6K2": {
+        "end": 5660,
+        "seqid": "config/ymv_outgroup.gb",
+        "start": 5505,
+        "strand": "+",
+        "type": "CDS"
+      },
+      "CI": {
+        "end": 5504,
+        "seqid": "config/ymv_outgroup.gb",
+        "start": 3600,
+        "strand": "+",
+        "type": "CDS"
+      },
+      "HC-Pro": {
+        "end": 2399,
+        "seqid": "config/ymv_outgroup.gb",
+        "start": 1026,
+        "strand": "+",
+        "type": "CDS"
+      },
+      "NIa": {
+        "end": 6980,
+        "seqid": "config/ymv_outgroup.gb",
+        "start": 5661,
+        "strand": "+",
+        "type": "CDS"
+      },
+      "NIb": {
+        "end": 8537,
+        "seqid": "config/ymv_outgroup.gb",
+        "start": 6981,
+        "strand": "+",
+        "type": "CDS"
+      },
+      "P1": {
+        "end": 1025,
+        "seqid": "config/ymv_outgroup.gb",
+        "start": 135,
+        "strand": "+",
+        "type": "CDS"
+      },
+      "P3": {
+        "end": 3449,
+        "seqid": "config/ymv_outgroup.gb",
+        "start": 2400,
+        "strand": "+",
+        "type": "CDS"
+      },
+      "coat protein": {
+        "end": 9446,
+        "seqid": "config/ymv_outgroup.gb",
+        "start": 8538,
+        "strand": "+",
+        "type": "CDS"
       }
     },
     "colorings": [
