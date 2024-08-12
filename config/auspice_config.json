@@ -1,0 +1,57 @@
+{
+  "title": " Nextstrain build for Yam Mosaic Virus",
+  "maintainers": [
+    {"name":"Rosana Blawid and Carlos Henrique Machado Dias"}
+  ],
+  "build_url": "https://github.com/nextstrain/YMV",
+  "colorings": [
+    {
+      "key": "gt",
+      "title": "Genotype",
+      "type": "categorical"
+    },
+    {
+      "key": "num_date",
+      "title": "Date",
+      "type": "continuous"
+    },
+    {
+      "key": "author",
+      "title": "Author",
+      "type": "categorical"
+    },
+    {
+      "key": "country",
+      "title": "Country",
+      "type": "categorical"
+    },
+    {
+      "key": "division",
+      "title": "Division",
+      "type": "categorical"
+    },
+    { 
+      "key": "host",
+      "title": "Host",
+      "type": "categorical"
+      }
+  ],
+  "geo_resolutions": [
+    "country",
+    "division"
+  ],
+  "panels": [
+     "tree",
+     "map",
+     "entropy"
+  ],
+  "display_defaults": {
+    "map_triplicate": true
+  },
+  "filters": [
+    "country",
+    "region",
+    "author",
+    "division"
+  ]
+}
