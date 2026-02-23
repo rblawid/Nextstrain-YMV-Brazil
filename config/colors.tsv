@@ -1,36 +1,34 @@
-country	cameroon	#4041C7
-country	burkina faso	#DC143C
-country	puerto rico	#FFD700
-country	martinique	#1C1C1C
-country	nigeria	#9ACD32
-country	brazil	#00FF00
-country	french guiana	#191970
-country	guadeloupe	#D2691E
-country	cote d'ivoire	#F5F5F8
-country	benin	#F5F5F5
+country	Nigeria	#1f77b4
+country	Ghana	#ff7f0e
+country	Cameroon	#2ca02c
+country	Benin	#d62728
+country	Togo	#9467bd
+country	Burkina Faso	#8c564b
+country	Ivory Coast	#e377c2
+country	Cuba	#7f7f7f
+country	France	#bcbd22
+country	USA	#17becf
+country	French Guiana	#aec7e8
+country	Brazil	#ffbb78
 		
-division	malarba	#511EA8
-division	baigon_foumbout	#4928B4
-division	ekoroko_ ntui	#4334BF
-division	mandjou	#4041C7
-division	mayo baleo	#3F50CC
-division	karna_manga	#416CCE
-division	bali	#5098B9
-division	batibo	#7CB878
-division	babadjou	#A4BE56
-division	mayo baleo	#C2BA46
-division	ngaounyanga	#E39B39
-division	jakiri	#E68F36
-division	tagboum	#E67431
-division	nguette_ntui	#E4632E
-division	nem-ne_ wara	#E1512A
-division	mbele_mbeke	#DC2F24
-division	ndji_batchinga	#D8B365
-division	kella_ntui	#999999
-division	beahango_mbangassina	#E411AC
-division	bafoussam	#BEBADA
-division	mbonge	#FFFFB3
-division	mankon	FB9A99
-division	faketsa_ibadan	#006D2C
-division	ekpe	#EF6548
-division	adakaka	#7F0000
+region	Nigeria	#1f77b4
+region	Ghana	#ff7f0e
+region	Cameroon	#2ca02c
+region	Benin	#d62728
+region	Togo	#9467bd
+region	Burkina Faso	#8c564b
+region	Ivory Coast	#e377c2
+region	Cuba	#7f7f7f
+region	Brazil	#bcbd22
+region	Puerto Rico	#17becf
+region	France:Guadeloupe	#aec7e8
+region	French Guiana	#ffbb78
+
+host	Dioscorea cayenensis subsp. rotundata	#1f77b4
+host	Dioscorea alata	#ff7f0e
+host	Dioscorea esculenta	#2ca02c
+host	Dioscorea cayenensis	#d62728
+host	Dioscorea rotundata	#9467bd
+host	Dioscorea trifida	#8c564b
+host	Dioscorea schimperiana	#e377c2
+host	Dioscorea sp.	#7f7f7f
