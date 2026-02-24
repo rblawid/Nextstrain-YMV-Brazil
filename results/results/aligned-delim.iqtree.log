@@ -4,682 +4,269 @@ Dominik Schrempf, Michael Woodhams, Ly Trong Nhan, Thomas Wong
 
 Host:    rblawid (AVX2, FMA3, 47 GB RAM)
 Command: iqtree2 --threads-max 1 -s results/aligned-delim.fasta -m GTR --ninit 2 -n 2 --epsilon 0.05 -T AUTO --redo
-Seed:    857527 (Using SPRNG - Scalable Parallel Random Number Generator)
-Time:    Mon Feb 23 16:11:16 2026
+Seed:    462344 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Tue Feb 24 11:42:26 2026
 Kernel:  AVX+FMA - auto-detect threads (20 CPU cores detected)
 
 Reading alignment file results/aligned-delim.fasta ... Fasta format detected
-Reading fasta file: done in 0.0398934 secs using 92.09% CPU
+Reading fasta file: done in 0.0116224 secs using 74.63% CPU
 Alignment most likely contains DNA/RNA sequences
-Alignment has 588 sequences with 9608 columns, 736 distinct patterns
-567 parsimony-informative, 166 singleton sites, 8875 constant sites
+Alignment has 180 sequences with 9608 columns, 533 distinct patterns
+407 parsimony-informative, 110 singleton sites, 9091 constant sites
           Gap/Ambiguity  Composition  p-value
-Analyzing sequences: done in 0.000118913 secs using 3933% CPU
+Analyzing sequences: done in 3.0455e-05 secs using 4771% CPU
    1  U42596.1    0.00%    failed      0.00%
-   2  U42596     90.54%    failed      2.00%
-   3  AJ244059   90.54%    failed      1.09%
-   4  AJ244058   90.54%    failed      3.79%
-   5  AJ244064   90.54%    failed      3.99%
-   6  MZ670783   90.54%    failed      3.38%
-   7  MZ670930   90.54%    passed      9.06%
-   8  MZ670977   90.54%    failed      4.53%
-   9  MZ670786   90.54%    failed      4.62%
-  10  MZ670806   90.54%    failed      4.09%
-  11  MZ670834   90.54%    failed      3.15%
-  12  MZ670876   90.54%    failed      3.95%
-  13  MZ670877   90.54%    failed      3.95%
-  14  MZ670879   90.54%    failed      3.95%
-  15  MZ670878   90.54%    failed      3.74%
-  16  MZ670880   90.54%    failed      3.74%
-  17  MZ670881   90.54%    failed      3.99%
-  18  MZ670979   90.54%    failed      3.56%
-  19  MZ670883   90.54%    failed      4.71%
-  20  MZ670882   90.54%    failed      2.62%
-  21  MZ670884   90.54%    failed      3.75%
-  22  MZ670812   90.54%    passed      5.80%
-  23  MZ695385   90.54%    failed      4.89%
-  24  MT591065   90.54%    failed      4.21%
-  25  MZ670813   90.54%    failed      3.99%
-  26  MW836001   90.54%    failed      3.48%
-  27  MT591046   90.54%    failed      3.88%
-  28  MT591055   90.54%    failed      3.52%
-  29  MT591080   90.54%    failed      3.52%
-  30  MT591072   90.54%    failed      3.74%
-  31  MT591059   90.54%    failed      4.22%
-  32  MZ670833   90.54%    failed      4.47%
-  33  MZ670875   90.54%    failed      4.09%
-  34  MT591081   90.54%    failed      4.41%
-  35  MT591082   90.54%    failed      4.88%
-  36  MZ670885   90.54%    failed      3.66%
-  37  MZ670817   90.54%    failed      3.98%
-  38  MZ670835   90.54%    passed      5.22%
-  39  MZ670809   90.54%    failed      4.55%
-  40  MZ671014   90.54%    failed      4.43%
-  41  MZ670996   90.54%    passed      6.09%
-  42  MZ671002   90.54%    passed      6.48%
-  43  MZ671010   90.54%    passed      6.83%
-  44  MZ670842   90.54%    failed      4.88%
-  45  MZ670810   90.54%    passed      5.16%
-  46  MZ671001   90.54%    passed      8.42%
-  47  MZ670998   90.54%    failed      4.71%
-  48  MZ695359   90.54%    failed      4.43%
-  49  MZ670818   90.54%    passed      7.05%
-  50  MZ670847   90.54%    passed      5.73%
-  51  MZ670995   90.54%    failed      3.90%
-  52  MT553854   90.54%    failed      3.52%
-  53  MT542862   90.54%    passed      6.26%
-  54  MZ670805   90.54%    passed      6.42%
-  55  MZ670848   90.54%    failed      3.25%
-  56  MZ670927   90.54%    failed      3.66%
-  57  MZ670819   90.54%    failed      4.18%
-  58  MZ670889   90.54%    failed      4.47%
-  59  MZ670890   90.54%    failed      4.47%
-  60  MZ670891   90.54%    failed      4.99%
-  61  MZ670836   90.54%    failed      4.99%
-  62  MZ670892   90.54%    failed      4.21%
-  63  MZ670888   90.54%    passed      5.28%
-  64  MZ670893   90.54%    failed      4.70%
-  65  MZ670821   90.54%    failed      2.78%
-  66  MZ670822   90.54%    failed      3.13%
-  67  MZ671016   90.54%    failed      4.47%
-  68  MZ670894   90.54%    failed      4.96%
-  69  MZ670887   90.54%    passed      5.54%
-  70  MZ670895   90.54%    passed      7.53%
-  71  MZ670886   90.54%    failed      3.72%
-  72  MZ671015   90.54%    passed      5.79%
-  73  MZ670814   90.54%    passed      6.42%
-  74  MZ670926   90.54%    failed      3.35%
-  75  MZ670929   90.54%    failed      3.12%
-  76  MZ670811   90.54%    passed      5.43%
-  77  MZ670953   90.54%    failed      4.70%
-  78  MZ670966   90.54%    failed      4.88%
-  79  MZ670967   90.54%    failed      2.46%
-  80  MZ670965   90.54%    failed      3.74%
-  81  MZ670928   90.54%    failed      4.35%
-  82  MZ670971   90.54%    passed      7.25%
-  83  MZ670972   90.54%    failed      3.84%
-  84  MZ670999   90.54%    passed      5.16%
-  85  MZ670820   90.54%    failed      3.61%
-  86  MZ670824   90.54%    failed      3.28%
-  87  MZ695369   90.54%    failed      3.39%
-  88  MZ695404   90.54%    failed      4.94%
-  89  MW836005   90.54%    failed      3.95%
-  90  MT501407   90.54%    failed      3.95%
-  91  MT501411   90.54%    failed      4.62%
-  92  MT501414   90.54%    passed      5.38%
-  93  MT501415   90.54%    failed      2.60%
-  94  MT591056   90.54%    failed      5.00%
-  95  MZ670975   90.54%    passed      6.45%
-  96  MZ695379   90.54%    failed      4.80%
-  97  MT501446   90.54%    passed      5.82%
-  98  MT501417   90.54%    failed      3.56%
-  99  MT501428   90.54%    failed      3.34%
- 100  MT501451   90.54%    failed      2.77%
- 101  MZ695390   90.54%    failed      1.94%
- 102  MZ695400   90.54%    failed      4.14%
- 103  MZ695401   90.54%    passed      5.86%
- 104  MW836002   90.54%    failed      4.33%
- 105  MZ670802   90.54%    failed      4.14%
- 106  MT501443   90.54%    failed      3.42%
- 107  MZ671009   90.54%    passed      5.19%
- 108  MZ670869   90.54%    failed      2.94%
- 109  MZ670870   90.54%    failed      2.94%
- 110  MZ670871   90.54%    failed      2.94%
- 111  MZ670896   90.54%    failed      2.66%
- 112  MZ670897   90.54%    failed      2.76%
- 113  MZ695335   90.54%    passed      6.73%
- 114  MZ671005   90.54%    passed      6.19%
- 115  MT591038   90.54%    failed      3.65%
- 116  MT591045   90.54%    passed      5.36%
- 117  MT591063   90.54%    failed      4.89%
- 118  MZ670815   90.54%    failed      3.37%
- 119  MT542860   90.54%    failed      4.17%
- 120  MT501421   90.54%    failed      4.73%
- 121  MZ670807   90.54%    passed      6.60%
- 122  MT542863   90.54%    passed      6.60%
- 123  MZ695373   90.54%    failed      3.73%
- 124  MZ670826   90.54%    failed      4.41%
- 125  MZ670827   90.54%    failed      4.88%
- 126  MZ670830   90.54%    failed      2.42%
- 127  MT591066   90.54%    failed      4.71%
- 128  AJ244056   90.54%    failed      3.08%
- 129  MZ670898   90.54%    failed      3.58%
- 130  MT501422   90.54%    failed      4.68%
- 131  MZ695435   90.54%    failed      3.95%
- 132  MZ695412   90.54%    passed      5.83%
- 133  MZ695441   90.54%    passed      5.10%
- 134  OQ677004   95.82%    passed     69.56%
- 135  OQ677006   95.82%    passed     70.81%
- 136  OQ677007   95.82%    passed     70.81%
- 137  OQ677009   95.82%    passed     70.81%
- 138  OQ677011   95.82%    passed     70.81%
- 139  OQ677013   95.82%    passed     70.81%
- 140  OQ677008   95.82%    passed     70.32%
- 141  OQ677012   95.72%    passed     65.77%
- 142  OR004217   95.83%    passed     67.82%
- 143  OR004218   95.83%    passed     73.82%
- 144  OR004219   95.83%    passed     73.03%
- 145  OR004222   95.83%    passed     73.03%
- 146  OR004220   95.83%    passed     71.20%
- 147  OR004221   95.83%    passed     71.20%
- 148  OR004223   95.83%    passed     73.12%
- 149  OR004224   95.83%    passed     73.12%
- 150  OR004225   95.83%    passed     73.12%
- 151  OR004226   95.83%    passed     73.91%
- 152  OR004227   95.83%    passed     73.03%
- 153  OR004229   95.83%    passed     73.56%
- 154  OR004228   95.83%    passed     73.12%
- 155  MT501420   90.54%    passed      5.36%
- 156  MZ695413   90.54%    failed      1.09%
- 157  MZ695445   90.54%    failed      2.51%
- 158  MZ695417   90.54%    failed      1.66%
- 159  MZ695422   90.54%    failed      1.36%
- 160  MZ695437   90.54%    failed      2.42%
- 161  MT501425   90.54%    failed      4.82%
- 162  MT501405   90.54%    failed      4.28%
- 163  MZ695424   90.54%    passed      6.87%
- 164  MT501332   90.54%    failed      4.27%
- 165  MT501335   90.54%    failed      4.27%
- 166  MT501346   90.54%    failed      4.27%
- 167  MT501340   90.54%    failed      3.91%
- 168  MT501334   90.54%    passed      5.38%
- 169  MT501352   90.54%    failed      3.48%
- 170  MT501354   90.54%    passed      5.24%
- 171  MZ695345   90.54%    passed      6.27%
- 172  MZ695431   90.54%    failed      4.41%
- 173  MZ695368   90.54%    passed      9.81%
- 174  MZ695372   90.54%    failed      3.48%
- 175  MZ695361   90.54%    failed      2.63%
- 176  MZ695364   90.54%    failed      3.95%
- 177  MZ695374   90.54%    passed      6.33%
- 178  MZ695399   90.54%    failed      2.75%
- 179  MZ695436   90.54%    failed      3.21%
- 180  MZ695337   90.54%    failed      4.75%
- 181  MZ695378   90.54%    passed      7.23%
- 182  MZ695394   90.54%    passed      5.79%
- 183  MT591051   90.54%    failed      4.97%
- 184  MT591071   90.54%    failed      2.76%
- 185  MT501337   90.54%    passed      6.67%
- 186  MT501351   90.54%    passed      6.09%
- 187  MZ695407   90.54%    passed      6.87%
- 188  MW836010   90.54%    failed      4.35%
- 189  MT501419   90.54%    passed      6.42%
- 190  MT501427   90.54%    passed      5.68%
- 191  MT501432   90.54%    failed      4.16%
- 192  MT501401   90.54%    passed      8.24%
- 193  MT501430   90.54%    failed      1.92%
- 194  MT501444   90.54%    failed      1.92%
- 195  MT501449   90.54%    failed      2.84%
- 196  MZ670957   90.54%    failed      3.77%
- 197  MZ671017   90.54%    failed      3.65%
- 198  MZ670976   90.54%    passed      6.85%
- 199  MZ671004   90.54%    passed      5.19%
- 200  MZ695347   90.54%    failed      3.48%
- 201  MZ695416   90.54%    passed      5.82%
- 202  MZ695366   90.54%    failed      3.36%
- 203  MT501412   90.54%    failed      2.75%
- 204  MT501448   90.54%    failed      3.81%
- 205  MZ695440   90.54%    failed      2.67%
- 206  MZ695414   90.54%    passed      6.35%
- 207  MT501348   90.54%    passed      6.96%
- 208  AJ244048   90.54%    failed      2.96%
- 209  AJ244054   90.54%    failed      4.71%
- 210  MT542856   90.54%    passed      7.25%
- 211  MZ670983   90.54%    failed      3.32%
- 212  MZ695343   90.54%    failed      2.16%
- 213  MZ695375   90.54%    failed      3.06%
- 214  MZ670855   90.54%    passed      6.75%
- 215  MZ670857   90.54%    passed      8.07%
- 216  MZ670874   90.54%    passed      8.07%
- 217  MZ670856   90.54%    passed      7.74%
- 218  MZ670849   90.54%    failed      3.99%
- 219  MZ695336   90.54%    passed      7.13%
- 220  MZ695371   90.54%    failed      3.95%
- 221  MT501436   90.54%    failed      4.16%
- 222  MT501438   90.54%    failed      2.27%
- 223  MW836000   90.54%    failed      2.48%
- 224  MW836004   90.54%    failed      4.52%
- 225  MW836008   90.54%    passed      7.63%
- 226  MW835992   90.54%    failed      3.24%
- 227  MZ670931   90.54%    failed      4.36%
- 228  MZ670899   90.54%    failed      2.55%
- 229  MZ671000   90.54%    failed      2.07%
- 230  MZ670962   90.54%    failed      2.05%
- 231  MZ670959   90.54%    failed      2.37%
- 232  MZ670952   90.54%    failed      3.77%
- 233  MZ670974   90.54%    failed      1.63%
- 234  MZ670988   90.54%    failed      4.80%
- 235  MZ671013   90.54%    failed      4.87%
- 236  MZ695405   90.54%    failed      1.78%
- 237  MZ695415   90.54%    passed      5.68%
- 238  MZ695418   90.54%    passed      8.81%
- 239  MZ695419   90.54%    failed      2.72%
- 240  MZ695420   90.54%    failed      2.99%
- 241  MZ695426   90.54%    passed      5.78%
- 242  MZ695433   90.54%    passed      6.48%
- 243  MZ670970   90.54%    failed      2.47%
- 244  MZ671011   90.54%    failed      4.98%
- 245  MZ670981   90.54%    passed      8.04%
- 246  MZ670969   90.54%    passed      6.96%
- 247  MZ670980   90.54%    passed      5.20%
- 248  MZ670900   90.54%    passed      6.64%
- 249  MZ695357   90.54%    failed      4.52%
- 250  MT501410   90.54%    passed      8.84%
- 251  AJ244049   90.54%    passed      5.36%
- 252  MZ670784   90.54%    failed      3.78%
- 253  MZ670785   90.54%    failed      2.40%
- 254  MZ670787   90.54%    failed      2.48%
- 255  MZ670800   90.54%    failed      3.03%
- 256  MZ670788   90.54%    failed      2.58%
- 257  MZ670797   90.54%    failed      2.05%
- 258  MZ670804   90.54%    failed      2.52%
- 259  MZ670803   90.54%    failed      1.54%
- 260  MZ670796   90.54%    failed      2.47%
- 261  MZ695389   90.54%    failed      4.66%
- 262  MZ670792   90.54%    failed      3.29%
- 263  MZ670837   90.54%    failed      3.58%
- 264  MZ670913   90.54%    failed      3.88%
- 265  MZ670914   90.54%    failed      4.41%
- 266  MZ670915   90.54%    failed      4.75%
- 267  MZ670838   90.54%    failed      4.28%
- 268  MZ670916   90.54%    failed      4.22%
- 269  MZ695338   90.54%    failed      2.30%
- 270  MZ695381   90.54%    failed      4.16%
- 271  MT591057   90.54%    failed      4.14%
- 272  MT591036   90.54%    failed      3.27%
- 273  MT501356   90.54%    failed      3.73%
- 274  MT542851   90.54%    failed      3.55%
- 275  MT501402   90.54%    failed      2.78%
- 276  MT501439   90.54%    failed      2.95%
- 277  MT542852   90.54%    failed      4.16%
- 278  MZ695382   90.54%    failed      2.12%
- 279  MZ670839   90.54%    failed      3.05%
- 280  MZ670872   90.54%    failed      3.90%
- 281  MZ670917   90.54%    failed      3.58%
- 282  MZ670850   90.54%    failed      3.75%
- 283  MZ670864   90.54%    failed      4.75%
- 284  MZ670873   90.54%    failed      4.16%
- 285  MZ670866   90.54%    failed      3.36%
- 286  MZ670861   90.54%    passed      5.78%
- 287  MZ670938   90.54%    failed      3.52%
- 288  MT501403   90.54%    failed      4.68%
- 289  MZ670939   90.54%    passed      6.30%
- 290  MZ695349   90.54%    failed      4.68%
- 291  MT501357   90.54%    failed      4.56%
- 292  MZ670794   90.54%    failed      3.88%
- 293  MZ670986   90.54%    failed      3.11%
- 294  MZ671018   90.54%    failed      3.15%
- 295  MZ670937   90.54%    failed      3.92%
- 296  MZ670940   90.54%    failed      4.09%
- 297  MT591043   90.54%    failed      3.79%
- 298  MT591054   90.54%    failed      3.73%
- 299  MT591075   90.54%    failed      4.04%
- 300  MT501426   90.54%    failed      2.74%
- 301  MT501429   90.54%    passed      6.76%
- 302  MT501437   90.54%    passed      5.46%
- 303  MZ695355   90.54%    failed      1.85%
- 304  MZ670823   90.54%    failed      2.40%
- 305  MZ670831   90.54%    failed      2.04%
- 306  MT591070   90.54%    failed      2.40%
- 307  MZ670828   90.54%    failed      1.89%
- 308  MT591053   90.54%    failed      3.34%
- 309  OQ677016   95.82%    passed     66.96%
- 310  MT591050   90.54%    failed      2.21%
- 311  MT591058   90.54%    failed      2.24%
- 312  MZ695340   90.54%    failed      1.26%
- 313  MT542850   90.54%    failed      2.21%
- 314  MZ670985   90.54%    failed      1.96%
- 315  OQ677015   95.97%    passed     69.24%
- 316  OR004209   95.83%    passed     74.53%
- 317  OR004210   95.83%    passed     66.17%
- 318  OR004211   95.83%    passed     74.77%
- 319  OR004212   95.83%    passed     73.96%
- 320  OR004213   95.83%    passed     70.79%
- 321  OR004214   95.83%    passed     70.79%
- 322  OR004215   95.83%    passed     71.36%
- 323  OR004216   95.83%    passed     70.79%
- 324  OQ677014   95.82%    passed     76.72%
- 325  MK814865   95.82%    passed     66.96%
- 326  MK814866   95.82%    passed     65.19%
- 327  MK814868   95.82%    passed     62.75%
- 328  MT591037   90.54%    failed      4.36%
- 329  MZ670829   90.54%    failed      3.05%
- 330  MZ695341   90.54%    failed      2.58%
- 331  MZ695384   90.54%    failed      2.95%
- 332  MZ695346   90.54%    failed      1.88%
- 333  MZ695348   90.54%    failed      4.19%
- 334  MZ695350   90.54%    failed      3.12%
- 335  MZ695376   90.54%    passed      5.03%
- 336  MZ695377   90.54%    failed      4.29%
- 337  MZ670903   90.54%    failed      1.57%
- 338  MZ670904   90.54%    failed      2.02%
- 339  MZ670905   90.54%    failed      1.86%
- 340  MZ670906   90.54%    failed      2.12%
- 341  MZ670907   90.54%    failed      2.27%
- 342  MZ670908   90.54%    failed      1.83%
- 343  MZ670909   90.54%    failed      2.00%
- 344  MZ670910   90.54%    failed      2.30%
- 345  MZ695383   90.54%    failed      1.76%
- 346  MT591073   90.54%    failed      2.39%
- 347  MT591077   90.54%    failed      2.55%
- 348  MZ695442   90.54%    failed      1.39%
- 349  MZ670911   90.54%    failed      1.75%
- 350  MZ670912   90.54%    failed      1.30%
- 351  MZ670919   90.54%    failed      2.63%
- 352  OR004208   95.75%    passed     60.46%
- 353  MZ695362   90.54%    failed      2.59%
- 354  MT591074   90.54%    failed      3.75%
- 355  MT591049   90.54%    failed      1.87%
- 356  MT501450   90.54%    failed      3.20%
- 357  MT501435   90.54%    failed      1.77%
- 358  MT501441   90.54%    failed      3.78%
- 359  MT542853   90.54%    failed      3.11%
- 360  MZ670789   90.54%    failed      1.66%
- 361  MZ670790   90.54%    failed      2.80%
- 362  MZ670793   90.54%    failed      1.54%
- 363  MZ670799   90.54%    failed      1.61%
- 364  MZ670832   90.54%    failed      2.10%
- 365  MZ670798   90.54%    failed      2.50%
- 366  MZ670997   90.54%    failed      1.44%
- 367  MZ671007   90.54%    failed      2.96%
- 368  MZ670791   90.54%    failed      1.99%
- 369  MZ695342   90.54%    failed      2.87%
- 370  MT591039   90.54%    failed      2.03%
- 371  MT591060   90.54%    failed      2.95%
- 372  MZ695351   90.54%    failed      2.18%
- 373  MZ695398   90.54%    failed      2.12%
- 374  MZ695439   90.54%    failed      3.12%
- 375  MT501423   90.54%    failed      3.48%
- 376  MT542854   90.54%    failed      2.27%
- 377  MT542855   90.54%    failed      2.38%
- 378  MT501408   90.54%    failed      1.78%
- 379  MT501413   90.54%    failed      1.72%
- 380  MZ670991   90.54%    failed      1.26%
- 381  MT591047   90.54%    failed      1.49%
- 382  MT591067   90.54%    failed      2.40%
- 383  MK814867   95.82%    passed     76.75%
- 384  MT591044   90.54%    failed      1.72%
- 385  MT591064   90.54%    failed      3.37%
- 386  MT501342   90.54%    failed      2.08%
- 387  MZ695367   90.54%    failed      2.49%
- 388  MZ670801   90.54%    failed      3.31%
- 389  MZ670963   90.54%    failed      3.99%
- 390  MZ670993   90.54%    failed      1.94%
- 391  MZ670984   90.54%    failed      2.06%
- 392  MZ670840   90.54%    failed      1.19%
- 393  MZ670851   90.54%    failed      1.56%
- 394  MZ670853   90.54%    failed      1.79%
- 395  MZ670868   90.54%    failed      1.92%
- 396  MZ670858   90.54%    failed      1.56%
- 397  MZ670859   90.54%    failed      1.56%
- 398  MZ670918   90.54%    failed      1.63%
- 399  MZ670854   90.54%    failed      1.72%
- 400  MZ670860   90.54%    failed      2.54%
- 401  MZ670852   90.54%    failed      1.40%
- 402  MT501339   90.54%    failed      3.38%
- 403  MT542861   90.54%    failed      2.12%
- 404  MT501418   90.54%    failed      3.72%
- 405  MZ670968   90.54%    failed      4.88%
- 406  MZ695344   90.54%    failed      1.18%
- 407  MT501442   90.54%    failed      4.41%
- 408  MZ670982   90.54%    failed      3.61%
- 409  MW835999   90.54%    failed      3.21%
- 410  MZ670946   90.54%    failed      2.43%
- 411  MZ695358   90.54%    failed      2.05%
- 412  MZ670990   90.54%    failed      1.86%
- 413  MZ670992   90.54%    failed      1.92%
- 414  MZ670816   90.54%    passed     11.98%
- 415  MZ670923   90.54%    passed     10.58%
- 416  MZ670954   90.54%    passed     10.02%
- 417  MZ671019   90.54%    passed      9.22%
- 418  OQ677010   95.82%    passed     73.11%
- 419  MZ670958   90.54%    passed      5.91%
- 420  MZ670841   90.54%    failed      2.80%
- 421  MZ695396   90.54%    passed      6.19%
- 422  MZ671003   90.54%    passed     22.18%
- 423  OQ677005   95.69%    passed     66.50%
- 424  MT501353   90.54%    passed      7.05%
- 425  MT591040   90.54%    failed      2.39%
- 426  MT591062   90.54%    failed      4.17%
- 427  MT591048   90.54%    failed      2.42%
- 428  MT591068   90.54%    failed      2.67%
- 429  OR004230   95.83%    passed     78.88%
- 430  MZ695339   90.54%    failed      1.64%
- 431  MZ695448   90.54%    failed      1.48%
- 432  MT591041   90.54%    failed      3.86%
- 433  MT591061   90.54%    passed      6.86%
- 434  MT501416   90.54%    passed      6.48%
- 435  MT501400   90.54%    failed      3.96%
- 436  MZ695365   90.54%    failed      4.08%
- 437  OR004231   95.83%    passed     70.92%
- 438  MZ695360   90.54%    failed      4.30%
- 439  MZ695363   90.54%    failed      2.63%
- 440  MZ670902   90.54%    failed      2.36%
- 441  MW836003   90.54%    failed      2.62%
- 442  MT542849   90.54%    failed      3.58%
- 443  MZ695386   90.54%    failed      2.47%
- 444  MZ695388   90.54%    failed      2.30%
- 445  MZ695387   90.54%    failed      2.33%
- 446  MT501406   90.54%    failed      2.05%
- 447  MT501434   90.54%    failed      2.41%
- 448  MZ695395   90.55%    failed      3.14%
- 449  MT501424   90.54%    failed      1.19%
- 450  MZ695353   90.54%    passed      5.16%
- 451  MW836009   90.54%    passed      6.85%
- 452  MT501350   90.54%    failed      4.55%
- 453  MT501404   90.54%    failed      4.55%
- 454  MT591069   90.54%    failed      2.02%
- 455  MZ670934   90.54%    failed      4.17%
- 456  MZ670942   90.54%    passed      6.87%
- 457  MT542857   90.54%    passed      6.67%
- 458  MZ670920   90.54%    failed      4.14%
- 459  MT501336   90.54%    passed      5.67%
- 460  MT591076   90.54%    passed      7.72%
- 461  MT542858   90.54%    passed      6.70%
- 462  MW835996   90.54%    passed      8.65%
- 463  MZ671020   90.54%    passed      5.54%
- 464  MZ695370   90.54%    passed      7.48%
- 465  MW836007   90.54%    passed      7.14%
- 466  MZ670994   90.54%    failed      4.71%
- 467  MZ670901   90.54%    failed      2.55%
- 468  MZ670932   90.54%    passed      5.91%
- 469  MT591042   90.54%    failed      0.92%
- 470  MZ670922   90.54%    passed      7.13%
- 471  MZ695391   90.54%    failed      3.42%
- 472  MZ695392   90.54%    failed      4.46%
- 473  MZ695446   90.54%    failed      4.52%
- 474  MT501409   90.54%    failed      2.12%
- 475  MT542864   90.54%    failed      3.49%
- 476  MZ695409   90.54%    failed      1.51%
- 477  MZ695410   90.54%    failed      3.65%
- 478  MZ695444   90.54%    failed      1.97%
- 479  MZ695432   90.54%    failed      2.26%
- 480  MZ695411   90.54%    passed      5.26%
- 481  OR004232   96.17%    passed     76.62%
- 482  MZ695443   90.54%    failed      3.77%
- 483  MZ695397   90.54%    failed      3.06%
- 484  MZ695406   90.54%    failed      2.99%
- 485  MZ695428   90.54%    failed      3.16%
- 486  MZ695430   90.54%    failed      1.69%
- 487  MT591079   90.54%    failed      3.03%
- 488  MT591078   90.54%    failed      1.51%
- 489  MZ695447   90.54%    passed     10.75%
- 490  MZ695403   90.54%    passed     16.93%
- 491  MZ695438   90.54%    passed     11.98%
- 492  MZ695427   90.54%    passed      9.42%
- 493  MZ695434   90.54%    failed      1.87%
- 494  MZ695429   90.54%    passed     11.88%
- 495  MZ695408   90.54%    failed      2.19%
- 496  MZ695423   90.54%    failed      1.69%
- 497  MZ695425   90.54%    failed      2.84%
- 498  MT501447   90.54%    failed      2.46%
- 499  MT501338   90.54%    failed      2.76%
- 500  MT501347   90.54%    failed      4.97%
- 501  MT501345   90.54%    passed      6.47%
- 502  MT501355   90.54%    passed      7.14%
- 503  MZ670921   90.54%    failed      1.60%
- 504  MZ670933   90.54%    failed      2.96%
- 505  MZ670955   90.54%    failed      3.13%
- 506  MZ670978   90.54%    failed      2.97%
- 507  MZ671006   90.54%    failed      2.87%
- 508  MZ695402   90.54%    failed      2.51%
- 509  MZ695393   90.54%    passed      6.77%
- 510  MT501344   90.54%    failed      1.75%
- 511  MT501333   90.54%    failed      4.16%
- 512  MZ670943   90.54%    passed      5.26%
- 513  MZ670825   90.54%    passed      9.20%
- 514  MZ695356   90.54%    failed      2.34%
- 515  MZ670795   90.54%    failed      2.87%
- 516  MZ670989   90.54%    failed      2.27%
- 517  MZ670941   90.54%    failed      2.82%
- 518  MZ670843   90.54%    failed      2.93%
- 519  MZ670844   90.54%    failed      4.05%
- 520  MZ695352   90.54%    failed      2.19%
- 521  MT501440   90.54%    failed      2.76%
- 522  MT501399   90.54%    failed      1.26%
- 523  MZ695380   90.54%    failed      2.09%
- 524  MT501431   90.54%    failed      1.64%
- 525  MT501445   90.54%    failed      2.56%
- 526  AJ244047   90.54%    failed      1.43%
- 527  MT501433   90.54%    failed      3.99%
- 528  MZ670845   90.54%    failed      1.09%
- 529  AJ238401   90.54%    failed      2.51%
- 530  AJ244043   90.54%    failed      3.36%
- 531  AJ244044   90.54%    failed      3.49%
- 532  AJ244057   90.54%    failed      2.58%
- 533  AJ244063   90.54%    failed      2.51%
- 534  OK239701   90.54%    failed      3.31%
- 535  OK239702   90.54%    failed      3.69%
- 536  OL739290   90.54%    failed      4.70%
- 537  MW835991   90.54%    passed      6.96%
- 538  MW835993   90.54%    failed      2.69%
- 539  MZ670951   90.54%    passed      7.26%
- 540  MW835994   90.54%    failed      1.29%
- 541  MZ670944   90.54%    passed      5.84%
- 542  MZ670956   90.54%    failed      3.77%
- 543  MZ670987   90.54%    passed      5.22%
- 544  AJ244065   90.54%    passed      5.55%
- 545  AJ244066   90.54%    passed      6.55%
- 546  AJ244046   90.54%    passed      5.73%
- 547  AJ244055   90.54%    passed      6.60%
- 548  MZ670950   90.54%    passed      9.67%
- 549  MZ695354   90.54%    failed      0.85%
- 550  MT501341   90.54%    failed      0.61%
- 551  MZ695421   90.54%    failed      2.20%
- 552  MT501343   90.54%    passed      7.50%
- 553  MT501358   90.54%    failed      4.78%
- 554  MT501349   90.54%    passed      5.48%
- 555  MZ670964   90.54%    passed     11.83%
- 556  MZ670865   90.54%    failed      1.23%
- 557  MW835995   90.54%    failed      3.73%
- 558  MW836006   90.54%    failed      0.57%
- 559  MT591052   90.54%    failed      0.14%
- 560  AJ244060   90.54%    failed      1.82%
- 561  MZ670935   90.54%    failed      3.26%
- 562  MZ670945   90.54%    passed     16.24%
- 563  MZ670936   90.54%    failed      1.85%
- 564  MZ670948   90.54%    failed      3.88%
- 565  MZ670947   90.54%    failed      3.88%
- 566  MZ671008   90.54%    passed      8.89%
- 567  MT542859   90.54%    passed     13.62%
- 568  MW835998   90.54%    passed      5.37%
- 569  MW835997   90.54%    passed      6.45%
- 570  AJ244045   90.54%    failed      2.76%
- 571  AJ244061   90.54%    failed      1.82%
- 572  AJ244062   90.54%    failed      0.85%
- 573  MZ670846   90.54%    passed      9.14%
- 574  MZ671012   90.54%    failed      2.95%
- 575  MZ670960   90.54%    passed      6.56%
- 576  MZ670961   90.54%    passed      8.58%
- 577  MZ670973   90.54%    failed      1.83%
- 578  MZ670949   90.54%    passed      6.89%
- 579  MZ670924   90.54%    failed      2.53%
- 580  MZ670867   90.54%    failed      0.66%
- 581  AJ244050   90.91%    failed      4.15%
- 582  AJ244051   90.91%    failed      4.15%
- 583  AJ244053   90.91%    failed      4.15%
- 584  AJ244052   90.91%    passed     13.12%
- 585  MZ670808   90.54%    failed      1.20%
- 586  MZ670925   90.54%    failed      0.03%
- 587  MZ670862   90.54%    failed      0.05%
- 588  MZ670863   90.54%    failed      0.06%
-WARNING: 587 sequences contain more than 50% gaps/ambiguity
-****  TOTAL      90.77%  416 sequences failed composition chi2 test (p-value<5%; df=3)
-NOTE: MZ670877 is identical to MZ670876 but kept for subsequent analysis
-NOTE: MZ670890 is identical to MZ670889 but kept for subsequent analysis
+   2  U42596     90.54%    failed      1.21%
+   3  AJ244059   90.54%    failed      0.65%
+   4  AJ244058   90.54%    failed      2.43%
+   5  AJ244064   90.54%    failed      2.58%
+   6  MZ670800   90.54%    failed      1.81%
+   7  MZ670837   90.54%    failed      2.23%
+   8  MZ695381   90.54%    failed      2.59%
+   9  MT501356   90.54%    failed      2.29%
+  10  MT542851   90.54%    failed      2.26%
+  11  MT542852   90.54%    failed      2.59%
+  12  MZ695382   90.54%    failed      1.27%
+  13  MZ695349   90.54%    failed      2.89%
+  14  MT501357   90.54%    failed      2.82%
+  15  MZ670839   90.54%    failed      1.87%
+  16  OQ677014   95.82%    passed     70.25%
+  17  OQ677016   95.82%    passed     59.99%
+  18  MT591050   90.54%    failed      1.32%
+  19  MT591058   90.54%    failed      1.37%
+  20  MK814865   95.82%    passed     59.99%
+  21  MK814866   95.82%    passed     58.33%
+  22  MK814868   95.82%    passed     55.83%
+  23  OQ677015   95.97%    passed     63.12%
+  24  OR004209   95.83%    passed     67.82%
+  25  OR004210   95.83%    passed     59.59%
+  26  OR004211   95.83%    passed     68.04%
+  27  OR004212   95.83%    passed     67.25%
+  28  OR004213   95.83%    passed     63.96%
+  29  OR004214   95.83%    passed     63.96%
+  30  OR004215   95.83%    passed     64.52%
+  31  OR004216   95.83%    passed     63.96%
+  32  MT591037   90.54%    failed      2.80%
+  33  OR004208   95.75%    passed     53.40%
+  34  MZ695341   90.54%    failed      1.56%
+  35  MZ695384   90.54%    failed      1.78%
+  36  MZ695348   90.54%    failed      2.59%
+  37  MZ695442   90.54%    failed      0.85%
+  38  MZ695340   90.54%    failed      0.75%
+  39  MZ695389   90.54%    failed      2.91%
+  40  MZ670997   90.54%    failed      0.87%
+  41  MZ671007   90.54%    failed      1.85%
+  42  MZ695342   90.54%    failed      1.74%
+  43  MZ695351   90.54%    failed      1.29%
+  44  MZ695439   90.54%    failed      1.88%
+  45  MT542854   90.54%    failed      1.37%
+  46  MT501413   90.54%    failed      1.03%
+  47  MK814867   95.82%    passed     70.38%
+  48  MZ670940   90.54%    failed      2.57%
+  49  MT542861   90.54%    failed      1.27%
+  50  OR004230   95.83%    passed     72.85%
+  51  MZ695339   90.54%    failed      1.02%
+  52  MZ695448   90.54%    failed      0.92%
+  53  MZ670854   90.54%    failed      1.03%
+  54  MT542857   90.54%    failed      4.31%
+  55  OR004231   95.83%    passed     64.42%
+  56  MZ670802   90.54%    failed      2.66%
+  57  MZ670810   90.54%    failed      3.24%
+  58  MZ670836   90.54%    failed      3.13%
+  59  MZ670892   90.54%    failed      2.60%
+  60  MZ670888   90.54%    failed      3.35%
+  61  MZ671016   90.54%    failed      2.79%
+  62  MZ670894   90.54%    failed      3.15%
+  63  MZ670842   90.54%    failed      3.09%
+  64  MT591081   90.54%    failed      2.77%
+  65  MZ670876   90.54%    failed      2.46%
+  66  MZ695390   90.54%    failed      1.16%
+  67  MZ695336   90.54%    failed      4.71%
+  68  MZ695364   90.54%    failed      2.48%
+  69  MZ695374   90.54%    failed      4.11%
+  70  OQ677004   95.82%    passed     62.83%
+  71  OQ677006   95.82%    passed     64.30%
+  72  OQ677007   95.82%    passed     64.30%
+  73  OQ677009   95.82%    passed     64.30%
+  74  OQ677011   95.82%    passed     64.30%
+  75  OQ677008   95.82%    passed     63.59%
+  76  OR004217   95.83%    passed     61.42%
+  77  OR004218   95.83%    passed     67.26%
+  78  OR004219   95.83%    passed     66.52%
+  79  OR004222   95.83%    passed     66.52%
+  80  OR004220   95.83%    passed     64.81%
+  81  OR004221   95.83%    passed     64.81%
+  82  OR004223   95.83%    passed     66.86%
+  83  OR004224   95.83%    passed     66.86%
+  84  OR004225   95.83%    passed     66.86%
+  85  OR004226   95.83%    passed     67.60%
+  86  OR004227   95.83%    passed     66.52%
+  87  OR004228   95.83%    passed     66.86%
+  88  MZ695441   90.54%    failed      3.24%
+  89  MZ695413   90.54%    failed      0.65%
+  90  MZ695445   90.54%    failed      1.53%
+  91  MZ695437   90.54%    failed      1.47%
+  92  AJ244056   90.54%    failed      1.88%
+  93  MZ695431   90.54%    failed      2.77%
+  94  MT542863   90.54%    failed      4.33%
+  95  MT501332   90.54%    failed      2.71%
+  96  MT501335   90.54%    failed      2.71%
+  97  MT501334   90.54%    failed      3.46%
+  98  MT501354   90.54%    failed      3.29%
+  99  MT591051   90.54%    failed      3.24%
+ 100  MZ695372   90.54%    failed      2.16%
+ 101  MZ670976   90.54%    failed      4.44%
+ 102  OQ677012   95.72%    passed     58.79%
+ 103  MT501419   90.54%    failed      4.16%
+ 104  MT501444   90.54%    failed      1.20%
+ 105  AJ244048   90.54%    failed      1.81%
+ 106  AJ244054   90.54%    failed      2.97%
+ 107  MT501348   90.54%    failed      4.46%
+ 108  MZ695366   90.54%    failed      2.10%
+ 109  MZ695440   90.54%    failed      1.63%
+ 110  MT542856   90.54%    failed      4.72%
+ 111  AJ244049   90.54%    failed      3.38%
+ 112  MZ695343   90.54%    failed      1.38%
+ 113  MT542858   90.54%    failed      4.28%
+ 114  MZ695433   90.54%    failed      4.13%
+ 115  MZ670816   90.54%    passed      8.07%
+ 116  OQ677010   95.82%    passed     66.58%
+ 117  MZ670841   90.54%    failed      1.74%
+ 118  OQ677005   95.69%    passed     60.20%
+ 119  MT501353   90.54%    failed      4.67%
+ 120  MZ695387   90.54%    failed      1.39%
+ 121  MZ695388   90.54%    failed      1.38%
+ 122  MT501350   90.54%    failed      2.83%
+ 123  MT591064   90.54%    failed      2.11%
+ 124  MT501333   90.54%    failed      2.59%
+ 125  OK239701   90.54%    failed      2.04%
+ 126  OK239702   90.54%    failed      2.27%
+ 127  OL739290   90.54%    failed      2.93%
+ 128  MT501336   90.54%    failed      3.71%
+ 129  MZ670922   90.54%    failed      4.71%
+ 130  MZ695391   90.54%    failed      2.17%
+ 131  MZ695392   90.54%    failed      2.90%
+ 132  MZ695446   90.54%    failed      2.93%
+ 133  MT542864   90.54%    failed      2.28%
+ 134  MZ695444   90.54%    failed      1.25%
+ 135  MT501338   90.54%    failed      1.74%
+ 136  MZ695363   90.54%    failed      1.66%
+ 137  MZ695365   90.54%    failed      2.66%
+ 138  MZ670962   90.54%    failed      1.26%
+ 139  OR004232   96.17%    passed     70.34%
+ 140  MZ695443   90.54%    failed      2.46%
+ 141  MZ695397   90.54%    failed      1.91%
+ 142  MZ695406   90.54%    failed      1.85%
+ 143  AJ238401   90.54%    failed      1.57%
+ 144  AJ244043   90.54%    failed      2.10%
+ 145  AJ244044   90.54%    failed      2.19%
+ 146  AJ244057   90.54%    failed      1.59%
+ 147  AJ244063   90.54%    failed      1.53%
+ 148  MZ670843   90.54%    failed      1.89%
+ 149  MZ670844   90.54%    failed      2.62%
+ 150  MT501399   90.54%    failed      0.76%
+ 151  AJ244047   90.54%    failed      0.87%
+ 152  MZ670845   90.54%    failed      0.65%
+ 153  MZ670943   90.54%    failed      3.40%
+ 154  MZ670933   90.54%    failed      1.92%
+ 155  MZ670955   90.54%    failed      1.99%
+ 156  MZ671006   90.54%    failed      1.81%
+ 157  MZ695402   90.54%    failed      1.59%
+ 158  MZ695393   90.54%    failed      4.52%
+ 159  MT501341   90.54%    failed      0.37%
+ 160  MT501343   90.54%    failed      4.96%
+ 161  MT501349   90.54%    failed      3.55%
+ 162  MZ695411   90.54%    failed      3.40%
+ 163  MZ695447   90.54%    passed      7.27%
+ 164  AJ244046   90.54%    failed      3.88%
+ 165  AJ244055   90.54%    failed      4.44%
+ 166  AJ244065   90.54%    failed      3.84%
+ 167  AJ244066   90.54%    failed      4.35%
+ 168  AJ244060   90.54%    failed      1.11%
+ 169  AJ244045   90.54%    failed      1.74%
+ 170  AJ244061   90.54%    failed      1.11%
+ 171  AJ244062   90.54%    failed      0.51%
+ 172  MZ695405   90.54%    failed      1.07%
+ 173  MZ670935   90.54%    failed      1.99%
+ 174  MZ670936   90.54%    failed      1.12%
+ 175  MT542859   90.54%    passed      9.44%
+ 176  MZ695408   90.54%    failed      1.37%
+ 177  AJ244050   90.91%    failed      2.70%
+ 178  AJ244051   90.91%    failed      2.70%
+ 179  AJ244053   90.91%    failed      2.70%
+ 180  AJ244052   90.91%    passed      9.15%
+WARNING: 179 sequences contain more than 50% gaps/ambiguity
+****  TOTAL      91.22%  136 sequences failed composition chi2 test (p-value<5%; df=3)
+NOTE: OR004214 is identical to OR004213 but kept for subsequent analysis
 NOTE: OQ677007 is identical to OQ677006 but kept for subsequent analysis
 NOTE: OR004222 is identical to OR004219 but kept for subsequent analysis
 NOTE: OR004221 is identical to OR004220 but kept for subsequent analysis
 NOTE: OR004224 is identical to OR004223 but kept for subsequent analysis
 NOTE: MT501335 is identical to MT501332 but kept for subsequent analysis
-NOTE: OR004214 is identical to OR004213 but kept for subsequent analysis
-NOTE: MZ670859 is identical to MZ670858 but kept for subsequent analysis
 NOTE: AJ244051 is identical to AJ244050 but kept for subsequent analysis
-NOTE: 6 identical sequences (see below) will be ignored for subsequent analysis
+NOTE: 4 identical sequences (see below) will be ignored for subsequent analysis
 NOTE: OQ677009 (identical to OQ677006) is ignored but added at the end
 NOTE: OQ677011 (identical to OQ677006) is ignored but added at the end
-NOTE: OQ677013 (identical to OQ677006) is ignored but added at the end
 NOTE: OR004225 (identical to OR004223) is ignored but added at the end
-NOTE: MT501346 (identical to MT501332) is ignored but added at the end
 NOTE: AJ244053 (identical to AJ244050) is ignored but added at the end
 Alignment was printed to results/aligned-delim.fasta.uniqueseq.phy
 
 For your convenience alignment with unique sequences printed to results/aligned-delim.fasta.uniqueseq.phy
 
-Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.106 seconds
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.015 seconds
 
-NOTE: 13 MB RAM (0 GB) is required!
+NOTE: 3 MB RAM (0 GB) is required!
 Measuring multi-threading efficiency up to 1 CPU cores
 Increase to 10 rounds for branch lengths
-6 trees examined
-Threads: 1 / Time: 1.179 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -128314
+25 trees examined
+Threads: 1 / Time: 1.012 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -47696
 BEST NUMBER OF THREADS: 1
 
 Estimate model parameters (epsilon = 0.500)
-1. Initial log-likelihood: -69323.887
-2. Current log-likelihood: -56266.589
-3. Current log-likelihood: -56260.569
-Optimal log-likelihood: -56260.545
-Rate parameters:  A-C: 0.81235  A-G: 4.02328  A-T: 1.11808  C-G: 0.51234  C-T: 5.75182  G-T: 1.00000
-Base frequencies:  A: 0.293  C: 0.216  G: 0.253  T: 0.238
-Parameters optimization took 3 rounds (0.436 sec)
+1. Initial log-likelihood: -34117.492
+2. Current log-likelihood: -28476.169
+3. Current log-likelihood: -28472.874
+Optimal log-likelihood: -28472.782
+Rate parameters:  A-C: 0.99337  A-G: 8.26361  A-T: 1.41702  C-G: 0.40581  C-T: 11.73812  G-T: 1.00000
+Base frequencies:  A: 0.291  C: 0.217  G: 0.252  T: 0.240
+Parameters optimization took 3 rounds (0.118 sec)
 Wrote distance file to... 
 Computing ML distances based on estimated model parameters...
-Calculating distance matrix: done in 0.309021 secs using 99.53% CPU
-Computing ML distances took 0.311202 sec (of wall-clock time) 0.309747 sec (of CPU time)
-Setting up auxiliary I and S matrices: done in 0.00618963 secs using 163.9% CPU
-Computing RapidNJ tree took 0.017948 sec (of wall-clock time) 0.033785 sec (of CPU time)
-Log-likelihood of RapidNJ tree: -57190.865
+Calculating distance matrix: done in 0.0286113 secs using 87.04% CPU
+Computing ML distances took 0.028907 sec (of wall-clock time) 0.024924 sec (of CPU time)
+Setting up auxiliary I and S matrices: done in 0.000962189 secs
+Computing RapidNJ tree took 0.002328 sec (of wall-clock time) 0.000003 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -28965.797
 --------------------------------------------------------------------
 |             INITIALIZING CANDIDATE TREE SET                      |
 --------------------------------------------------------------------
 
 Do NNI search on 2 best initial trees
 Estimate model parameters (epsilon = 0.500)
-BETTER TREE FOUND at iteration 1: -56195.869
+BETTER TREE FOUND at iteration 1: -28452.676
 Finish initializing candidate tree set (4)
-Current best tree score: -56195.869 / CPU time: 0.929
+Current best tree score: -28452.676 / CPU time: 0.236
 Number of iterations: 2
-TREE SEARCH COMPLETED AFTER 2 ITERATIONS / Time: 0h:0m:3s
+TREE SEARCH COMPLETED AFTER 2 ITERATIONS / Time: 0h:0m:1s
 
 --------------------------------------------------------------------
 |                    FINALIZING TREE SEARCH                        |
 --------------------------------------------------------------------
 Performs final model parameters optimization
 Estimate model parameters (epsilon = 0.050)
-1. Initial log-likelihood: -56195.869
-Optimal log-likelihood: -56195.866
-Rate parameters:  A-C: 0.80484  A-G: 4.02257  A-T: 1.11177  C-G: 0.51421  C-T: 5.76026  G-T: 1.00000
-Base frequencies:  A: 0.293  C: 0.216  G: 0.253  T: 0.238
-Parameters optimization took 1 rounds (0.061 sec)
-BEST SCORE FOUND : -56195.866
-Total tree length: 8.262
+1. Initial log-likelihood: -28452.676
+Optimal log-likelihood: -28452.662
+Rate parameters:  A-C: 0.97936  A-G: 8.22311  A-T: 1.39275  C-G: 0.40045  C-T: 11.80797  G-T: 1.00000
+Base frequencies:  A: 0.291  C: 0.217  G: 0.252  T: 0.240
+Parameters optimization took 1 rounds (0.013 sec)
+BEST SCORE FOUND : -28452.662
+Total tree length: 3.305
 
 Total number of iterations: 2
-CPU time used for tree search: 0.908 sec (0h:0m:0s)
-Wall-clock time used for tree search: 0.930 sec (0h:0m:0s)
-Total CPU time used: 3.788 sec (0h:0m:3s)
-Total wall-clock time used: 3.380 sec (0h:0m:3s)
+CPU time used for tree search: 0.233 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.237 sec (0h:0m:0s)
+Total CPU time used: 1.829 sec (0h:0m:1s)
+Total wall-clock time used: 1.502 sec (0h:0m:1s)
 
 Analysis results written to: 
   IQ-TREE report:                results/aligned-delim.fasta.iqtree
@@ -687,4 +274,4 @@ Analysis results written to:
   Likelihood distances:          results/aligned-delim.fasta.mldist
   Screen log file:               results/aligned-delim.fasta.log
 
-Date and Time: Mon Feb 23 16:11:20 2026
+Date and Time: Tue Feb 24 11:42:28 2026
