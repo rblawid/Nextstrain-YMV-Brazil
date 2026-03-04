@@ -31,7 +31,7 @@ augur refine \
   --timetree \
   --date-confidence \
   --stochastic-resolve \
-  --date-inference joint \
+  --date-inference marginal \
   --clock-rate 1.76e-3 \
   --clock-std-dev 5e-4 \
   --clock-filter-iqd 3 \
