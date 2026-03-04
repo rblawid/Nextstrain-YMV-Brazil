@@ -10,7 +10,7 @@ augur filter \
   --metadata data/metadata.tsv \
   --output-sequences results/filtered.fasta \
   --group-by country year \
-  --sequences-per-group 10
+  --sequences-per-group 20
 
 augur align \
 --sequences results/filtered.fasta \
