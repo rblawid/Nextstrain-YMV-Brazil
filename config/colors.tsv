@@ -1,34 +1,26 @@
-country	Nigeria	#1f77b4
-country	Ghana	#ff7f0e
-country	Cameroon	#2ca02c
-country	Benin	#d62728
-country	Togo	#9467bd
-country	Burkina Faso	#8c564b
-country	Ivory Coast	#e377c2
-country	Cuba	#7f7f7f
-country	France	#bcbd22
-country	USA	#17becf
-country	French Guiana	#aec7e8
-country	Brazil	#ffbb78
+country	Benin	#FF1493
+country	Brazil	#006400
+country	Burkina Faso	#8B4513
+country	Cameroon	#FFD700
+country	Cuba	#00FFFF
+country	France	#FF4500
+country	French Guiana	#9400D3
+country	Ghana	#800020
+country	Ivory Coast	#00FF00
+country	Nigeria	#000080
+country	Togo	#FF00FF
+country	USA	#000000
 		
-region	Nigeria	#1f77b4
-region	Ghana	#ff7f0e
-region	Cameroon	#2ca02c
-region	Benin	#d62728
-region	Togo	#9467bd
-region	Burkina Faso	#8c564b
-region	Ivory Coast	#e377c2
-region	Cuba	#7f7f7f
-region	Brazil	#bcbd22
-region	Puerto Rico	#17becf
-region	France:Guadeloupe	#aec7e8
-region	French Guiana	#ffbb78
+region	Africa	#8B4513
+region	Asia	#D32F2F
+region	Europe	#FBC02D
+region	North America	#2E8B57
+region	South America	#006400
+region	Oceania	#6A1B9A
 
-host	Dioscorea cayenensis subsp. rotundata	#1f77b4
-host	Dioscorea alata	#ff7f0e
-host	Dioscorea esculenta	#2ca02c
-host	Dioscorea cayenensis	#d62728
-host	Dioscorea rotundata	#9467bd
-host	Dioscorea trifida	#8c564b
-host	Dioscorea schimperiana	#e377c2
-host	Dioscorea sp.	#7f7f7f
+host	Dioscorea alata	#1B9E77
+host	Dioscorea cayenensis	#D95F02
+host	Dioscorea cayenensis subsp. rotundata	#E6AB02
+host	Dioscorea esculenta	#7570B3
+host	Dioscorea sp.	#66A61E
+host	Dioscorea trifida	#E7298A

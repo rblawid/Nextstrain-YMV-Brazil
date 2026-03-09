@@ -1,60 +1,13 @@
-country	Nigeria	9.0820	8.6753
-country	Ghana	7.9465	-1.0232
-country	Cameroon	3.8480	11.5021
 country	Benin	9.3077	2.3158
-country	Togo	8.6195	0.8248
+country	Brazil	-14.2350	-51.9253
 country	Burkina Faso	12.2383	-1.5616
-country	Ivory Coast	7.5400	-5.5471
+country	Cameroon	3.8480	11.5021
 country	Cuba	21.5218	-77.7812
 country	France	46.2276	2.2137
-country	USA	39.8283	-98.5795
 country	French Guiana	3.9339	-53.1258
-country	Brazil	-14.2350	-51.9253
+country	Ghana	7.9465	-1.0232
+country	Ivory Coast	7.5400	-5.5471
+country	Nigeria	9.0820	8.6753
+country	Togo	8.6195	0.8248
+country	USA	39.8283	-98.5795
 			
-region	Nigeria	9.0820	8.6753
-region	Ghana	7.9465	-1.0232
-region	Cameroon	3.8480	11.5021
-region	Benin	9.3077	2.3158
-region	Togo	8.6195	0.8248
-region	Burkina Faso	12.2383	-1.5616
-region	Ivory Coast	7.5400	-5.5471
-region	Cuba	21.5218	-77.7812
-region	France:Guadeloupe	16.2650	-61.5510
-region	Puerto Rico	18.2208	-66.5901
-region	French Guiana	3.9339	-53.1258
-region	Brazil	-14.2350	-51.9253
-region	Cameroon: Baigon	5.9000	10.3000
-region	Cameroon: Malarba II	7.3000	13.6000
-region	Cameroon: Ekoroko	4.7000	9.3000
-region	Cameroon: Mandjou	4.6000	14.3000
-region	Cameroon: Mayo Baleo	7.8500	12.0500
-region	Cameroon: Karna -Manga	8.2000	13.0000
-region	Cameroon: Bali	5.9000	10.0000
-region	Cameroon: Batibo	5.8000	9.8000
-region	Cameroon: Babadjou	5.6000	10.2000
-region	Cameroon: Ngaounyanga	7.4000	13.5000
-region	Cameroon: Jakiri	6.1000	10.6500
-region	Cameroon: Tagboum	7.2000	13.2000
-region	Cameroon: Nguette- Ntui	4.4500	11.6300
-region	Cameroon: Mile 40 village	5.9500	9.2500
-region	Cameroon: Kontan Bali	5.9000	10.0000
-region	Cameroon: Nem -ne	7.0000	13.4000
-region	Cameroon: Mbele Mbeke	4.8000	13.5000
-region	Cameroon: Ndji Batchinga	4.5000	11.9000
-region	Cameroon: Kella	6.2000	10.5000
-region	Cameroon: Beahango Mbangassina	4.6000	12.8000
-region	Cameroon: Bafoussam	5.4800	10.4200
-region	Cameroon: Mbonge	4.6000	9.2000
-region	Cameroon: Mankon	6.0000	10.2500
-region	Nigeria: Adaka	7.1500	8.9000
-region	Nigeria: Alumaco	7.2000	8.8000
-region	Nigeria: Faketsa	7.1000	8.8500
-region	Nigeria: Lasiri	7.2500	8.8200
-region	Nigeria: Ame	7.1800	8.8700
-region	Nigeria: Aloshi	7.1200	8.8300
-region	Nigeria: Ekpe	7.1400	8.8600
-region	Nigeria: Hembakwase	7.1600	8.8400
-region	Nigeria: Meccakusa	7.1700	8.8800
-region	Nigeria: Daribokor	7.1300	8.8100
-region	Nigeria: Makakusa	7.1900	8.8900
-region	Cuba: Villa Clara	22.4900	-79.9600
