@@ -1,272 +1,361 @@
-IQ-TREE multicore version 2.4.0 for Linux x86 64-bit built Feb 12 2025
-Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor, Heiko Schmidt,
-Dominik Schrempf, Michael Woodhams, Ly Trong Nhan, Thomas Wong
+IQ-TREE version 3.0.1 for Linux x86 64-bit built Jul  9 2025
+Developed by Bui Quang Minh, Thomas Wong, Nhan Ly-Trong, Huaiyan Ren
+Contributed by Lam-Tung Nguyen, Dominik Schrempf, Chris Bielow,
+Olga Chernomor, Michael Woodhams, Diep Thi Hoang, Heiko Schmidt
 
-Host:    rblawid (AVX2, FMA3, 47 GB RAM)
-Command: iqtree2 --threads-max 1 -s results/aligned-delim.fasta -m GTR --ninit 2 -n 2 --epsilon 0.05 -T AUTO --redo
-Seed:    462344 (Using SPRNG - Scalable Parallel Random Number Generator)
-Time:    Tue Feb 24 11:42:26 2026
-Kernel:  AVX+FMA - auto-detect threads (20 CPU cores detected)
+Host:    ideaped3i (AVX512, FMA3, 11 GB RAM)
+Command: iqtree3 --threads-max 1 -s results/aligned-delim.fasta -m GTR --ninit 2 -n 2 --epsilon 0.05 -T AUTO --redo
+Seed:    407551 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Tue Mar  3 18:22:48 2026
+Kernel:  AVX+FMA - auto-detect threads (8 CPU cores detected)
 
 Reading alignment file results/aligned-delim.fasta ... Fasta format detected
-Reading fasta file: done in 0.0116224 secs using 74.63% CPU
+Reading fasta file: done in 0.022113 secs using 91.94% CPU
 Alignment most likely contains DNA/RNA sequences
-Alignment has 180 sequences with 9608 columns, 533 distinct patterns
-407 parsimony-informative, 110 singleton sites, 9091 constant sites
-          Gap/Ambiguity  Composition  p-value
-Analyzing sequences: done in 3.0455e-05 secs using 4771% CPU
-   1  U42596.1    0.00%    failed      0.00%
-   2  U42596     90.54%    failed      1.21%
-   3  AJ244059   90.54%    failed      0.65%
-   4  AJ244058   90.54%    failed      2.43%
-   5  AJ244064   90.54%    failed      2.58%
-   6  MZ670800   90.54%    failed      1.81%
-   7  MZ670837   90.54%    failed      2.23%
-   8  MZ695381   90.54%    failed      2.59%
-   9  MT501356   90.54%    failed      2.29%
-  10  MT542851   90.54%    failed      2.26%
-  11  MT542852   90.54%    failed      2.59%
-  12  MZ695382   90.54%    failed      1.27%
-  13  MZ695349   90.54%    failed      2.89%
-  14  MT501357   90.54%    failed      2.82%
-  15  MZ670839   90.54%    failed      1.87%
-  16  OQ677014   95.82%    passed     70.25%
-  17  OQ677016   95.82%    passed     59.99%
-  18  MT591050   90.54%    failed      1.32%
-  19  MT591058   90.54%    failed      1.37%
-  20  MK814865   95.82%    passed     59.99%
-  21  MK814866   95.82%    passed     58.33%
-  22  MK814868   95.82%    passed     55.83%
-  23  OQ677015   95.97%    passed     63.12%
-  24  OR004209   95.83%    passed     67.82%
-  25  OR004210   95.83%    passed     59.59%
-  26  OR004211   95.83%    passed     68.04%
-  27  OR004212   95.83%    passed     67.25%
-  28  OR004213   95.83%    passed     63.96%
-  29  OR004214   95.83%    passed     63.96%
-  30  OR004215   95.83%    passed     64.52%
-  31  OR004216   95.83%    passed     63.96%
-  32  MT591037   90.54%    failed      2.80%
-  33  OR004208   95.75%    passed     53.40%
-  34  MZ695341   90.54%    failed      1.56%
-  35  MZ695384   90.54%    failed      1.78%
-  36  MZ695348   90.54%    failed      2.59%
-  37  MZ695442   90.54%    failed      0.85%
-  38  MZ695340   90.54%    failed      0.75%
-  39  MZ695389   90.54%    failed      2.91%
-  40  MZ670997   90.54%    failed      0.87%
-  41  MZ671007   90.54%    failed      1.85%
-  42  MZ695342   90.54%    failed      1.74%
-  43  MZ695351   90.54%    failed      1.29%
-  44  MZ695439   90.54%    failed      1.88%
-  45  MT542854   90.54%    failed      1.37%
-  46  MT501413   90.54%    failed      1.03%
-  47  MK814867   95.82%    passed     70.38%
-  48  MZ670940   90.54%    failed      2.57%
-  49  MT542861   90.54%    failed      1.27%
-  50  OR004230   95.83%    passed     72.85%
-  51  MZ695339   90.54%    failed      1.02%
-  52  MZ695448   90.54%    failed      0.92%
-  53  MZ670854   90.54%    failed      1.03%
-  54  MT542857   90.54%    failed      4.31%
-  55  OR004231   95.83%    passed     64.42%
-  56  MZ670802   90.54%    failed      2.66%
-  57  MZ670810   90.54%    failed      3.24%
-  58  MZ670836   90.54%    failed      3.13%
-  59  MZ670892   90.54%    failed      2.60%
-  60  MZ670888   90.54%    failed      3.35%
-  61  MZ671016   90.54%    failed      2.79%
-  62  MZ670894   90.54%    failed      3.15%
-  63  MZ670842   90.54%    failed      3.09%
-  64  MT591081   90.54%    failed      2.77%
-  65  MZ670876   90.54%    failed      2.46%
-  66  MZ695390   90.54%    failed      1.16%
-  67  MZ695336   90.54%    failed      4.71%
-  68  MZ695364   90.54%    failed      2.48%
-  69  MZ695374   90.54%    failed      4.11%
-  70  OQ677004   95.82%    passed     62.83%
-  71  OQ677006   95.82%    passed     64.30%
-  72  OQ677007   95.82%    passed     64.30%
-  73  OQ677009   95.82%    passed     64.30%
-  74  OQ677011   95.82%    passed     64.30%
-  75  OQ677008   95.82%    passed     63.59%
-  76  OR004217   95.83%    passed     61.42%
-  77  OR004218   95.83%    passed     67.26%
-  78  OR004219   95.83%    passed     66.52%
-  79  OR004222   95.83%    passed     66.52%
-  80  OR004220   95.83%    passed     64.81%
-  81  OR004221   95.83%    passed     64.81%
-  82  OR004223   95.83%    passed     66.86%
-  83  OR004224   95.83%    passed     66.86%
-  84  OR004225   95.83%    passed     66.86%
-  85  OR004226   95.83%    passed     67.60%
-  86  OR004227   95.83%    passed     66.52%
-  87  OR004228   95.83%    passed     66.86%
-  88  MZ695441   90.54%    failed      3.24%
-  89  MZ695413   90.54%    failed      0.65%
-  90  MZ695445   90.54%    failed      1.53%
-  91  MZ695437   90.54%    failed      1.47%
-  92  AJ244056   90.54%    failed      1.88%
-  93  MZ695431   90.54%    failed      2.77%
-  94  MT542863   90.54%    failed      4.33%
-  95  MT501332   90.54%    failed      2.71%
-  96  MT501335   90.54%    failed      2.71%
-  97  MT501334   90.54%    failed      3.46%
-  98  MT501354   90.54%    failed      3.29%
-  99  MT591051   90.54%    failed      3.24%
- 100  MZ695372   90.54%    failed      2.16%
- 101  MZ670976   90.54%    failed      4.44%
- 102  OQ677012   95.72%    passed     58.79%
- 103  MT501419   90.54%    failed      4.16%
- 104  MT501444   90.54%    failed      1.20%
- 105  AJ244048   90.54%    failed      1.81%
- 106  AJ244054   90.54%    failed      2.97%
- 107  MT501348   90.54%    failed      4.46%
- 108  MZ695366   90.54%    failed      2.10%
- 109  MZ695440   90.54%    failed      1.63%
- 110  MT542856   90.54%    failed      4.72%
- 111  AJ244049   90.54%    failed      3.38%
- 112  MZ695343   90.54%    failed      1.38%
- 113  MT542858   90.54%    failed      4.28%
- 114  MZ695433   90.54%    failed      4.13%
- 115  MZ670816   90.54%    passed      8.07%
- 116  OQ677010   95.82%    passed     66.58%
- 117  MZ670841   90.54%    failed      1.74%
- 118  OQ677005   95.69%    passed     60.20%
- 119  MT501353   90.54%    failed      4.67%
- 120  MZ695387   90.54%    failed      1.39%
- 121  MZ695388   90.54%    failed      1.38%
- 122  MT501350   90.54%    failed      2.83%
- 123  MT591064   90.54%    failed      2.11%
- 124  MT501333   90.54%    failed      2.59%
- 125  OK239701   90.54%    failed      2.04%
- 126  OK239702   90.54%    failed      2.27%
- 127  OL739290   90.54%    failed      2.93%
- 128  MT501336   90.54%    failed      3.71%
- 129  MZ670922   90.54%    failed      4.71%
- 130  MZ695391   90.54%    failed      2.17%
- 131  MZ695392   90.54%    failed      2.90%
- 132  MZ695446   90.54%    failed      2.93%
- 133  MT542864   90.54%    failed      2.28%
- 134  MZ695444   90.54%    failed      1.25%
- 135  MT501338   90.54%    failed      1.74%
- 136  MZ695363   90.54%    failed      1.66%
- 137  MZ695365   90.54%    failed      2.66%
- 138  MZ670962   90.54%    failed      1.26%
- 139  OR004232   96.17%    passed     70.34%
- 140  MZ695443   90.54%    failed      2.46%
- 141  MZ695397   90.54%    failed      1.91%
- 142  MZ695406   90.54%    failed      1.85%
- 143  AJ238401   90.54%    failed      1.57%
- 144  AJ244043   90.54%    failed      2.10%
- 145  AJ244044   90.54%    failed      2.19%
- 146  AJ244057   90.54%    failed      1.59%
- 147  AJ244063   90.54%    failed      1.53%
- 148  MZ670843   90.54%    failed      1.89%
- 149  MZ670844   90.54%    failed      2.62%
- 150  MT501399   90.54%    failed      0.76%
- 151  AJ244047   90.54%    failed      0.87%
- 152  MZ670845   90.54%    failed      0.65%
- 153  MZ670943   90.54%    failed      3.40%
- 154  MZ670933   90.54%    failed      1.92%
- 155  MZ670955   90.54%    failed      1.99%
- 156  MZ671006   90.54%    failed      1.81%
- 157  MZ695402   90.54%    failed      1.59%
- 158  MZ695393   90.54%    failed      4.52%
- 159  MT501341   90.54%    failed      0.37%
- 160  MT501343   90.54%    failed      4.96%
- 161  MT501349   90.54%    failed      3.55%
- 162  MZ695411   90.54%    failed      3.40%
- 163  MZ695447   90.54%    passed      7.27%
- 164  AJ244046   90.54%    failed      3.88%
- 165  AJ244055   90.54%    failed      4.44%
- 166  AJ244065   90.54%    failed      3.84%
- 167  AJ244066   90.54%    failed      4.35%
- 168  AJ244060   90.54%    failed      1.11%
- 169  AJ244045   90.54%    failed      1.74%
- 170  AJ244061   90.54%    failed      1.11%
- 171  AJ244062   90.54%    failed      0.51%
- 172  MZ695405   90.54%    failed      1.07%
- 173  MZ670935   90.54%    failed      1.99%
- 174  MZ670936   90.54%    failed      1.12%
- 175  MT542859   90.54%    passed      9.44%
- 176  MZ695408   90.54%    failed      1.37%
- 177  AJ244050   90.91%    failed      2.70%
- 178  AJ244051   90.91%    failed      2.70%
- 179  AJ244053   90.91%    failed      2.70%
- 180  AJ244052   90.91%    passed      9.15%
-WARNING: 179 sequences contain more than 50% gaps/ambiguity
-****  TOTAL      91.22%  136 sequences failed composition chi2 test (p-value<5%; df=3)
-NOTE: OR004214 is identical to OR004213 but kept for subsequent analysis
-NOTE: OQ677007 is identical to OQ677006 but kept for subsequent analysis
-NOTE: OR004222 is identical to OR004219 but kept for subsequent analysis
-NOTE: OR004221 is identical to OR004220 but kept for subsequent analysis
-NOTE: OR004224 is identical to OR004223 but kept for subsequent analysis
-NOTE: MT501335 is identical to MT501332 but kept for subsequent analysis
-NOTE: AJ244051 is identical to AJ244050 but kept for subsequent analysis
-NOTE: 4 identical sequences (see below) will be ignored for subsequent analysis
-NOTE: OQ677009 (identical to OQ677006) is ignored but added at the end
-NOTE: OQ677011 (identical to OQ677006) is ignored but added at the end
-NOTE: OR004225 (identical to OR004223) is ignored but added at the end
-NOTE: AJ244053 (identical to AJ244050) is ignored but added at the end
+Constructing alignment: done in 0.0201722 secs using 533.9% CPU
+Alignment has 260 sequences with 9608 columns, 607 distinct patterns
+456 parsimony-informative, 144 singleton sites, 9008 constant sites
+                                                                                               Gap/Ambiguity  Composition  p-value
+Analyzing sequences: done in 7.3273e-05 secs using 2409% CPU
+   1  U42596.1                                                                                         0.00%    failed      0.00%
+   2  Ivory-Coast_U42596_Dioscorea-sp._Ivory-Coast_1977                                               90.54%    failed      1.47%
+   3  CKA1_DELIM-0x2f_C11_AJ244059_Dioscorea-cayenensis-subsp.-rotundata_Ivory-Coast_1994             90.54%    failed      0.79%
+   4  CID3_DELIM-0x2f_C12_AJ244058_Dioscorea-cayenensis-subsp.-rotundata_Ivory-Coast_1994             90.54%    failed      2.88%
+   5  POGNON_DELIM-0x2f_C1_AJ244064_Dioscorea-cayenensis-subsp.-rotundata_France_1994                 90.54%    failed      3.04%
+   6  R-Sep-20-500-1_MZ670796_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020                      90.54%    failed      1.80%
+   7  R-Sep-20-500-2_MZ670797_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020                      90.54%    failed      1.49%
+   8  N323-29_MZ695389_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2012                             90.54%    failed      3.51%
+   9  R-Nov-17-YB20_MZ670831_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017                       90.54%    failed      1.49%
+  10  N7-5_MZ695340_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2014                                90.54%    failed      0.91%
+  11  MK-GWAD-2_MT542850_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2016                           90.54%    failed      1.64%
+  12  N3_OQ677014_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2022                                    95.82%    passed     72.82%
+  13  N5_OQ677016_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2022                                  95.82%    passed     62.83%
+  14  8_StoDgo_MK814865_Dioscorea-esculenta_Cuba_2011                                                 95.82%    passed     62.83%
+  15  9_StoDgo_MK814866_Dioscorea-esculenta_Cuba_2011                                                 95.82%    passed     61.17%
+  16  M4_StoDgo_MK814868_Dioscorea-cayenensis-subsp.-rotundata_Cuba_2014                              95.82%    passed     58.62%
+  17  N4_OQ677015_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2022                                  95.97%    passed     65.48%
+  18  Cam2_OR004209_Dioscorea-cayenensis-subsp.-rotundata_Cameroon_1996                               95.83%    passed     70.51%
+  19  Gh28_OR004210_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2021                                  95.83%    passed     62.39%
+  20  Gh34_OR004211_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2021                                  95.83%    passed     70.79%
+  21  Nig10_OR004212_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2022                               95.83%    passed     70.04%
+  22  Nig5_OR004213_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2022                                95.83%    passed     66.77%
+  23  Nig13_OR004214_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2022                               95.83%    passed     66.77%
+  24  Nig11_OR004215_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2022                               95.83%    passed     67.23%
+  25  Nig12_OR004216_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2022                               95.83%    passed     66.77%
+  26  Cam1_OR004208_Dioscorea-cayenensis-subsp.-rotundata_Cameroon_1996                               95.75%    passed     56.24%
+  27  R-Aug-18-5-pT8_MZ670906_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018                      90.54%    failed      1.57%
+  28  N63-7_MZ695383_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2012                               90.54%    failed      1.29%
+  29  G31-2_MZ695442_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2012                                 90.54%    failed      1.02%
+  30  N9-7_MZ695341_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2014                                90.54%    failed      1.89%
+  31  N131-12_MZ695384_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2012                             90.54%    failed      2.17%
+  32  N3-14_MZ695348_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013                               90.54%    failed      3.13%
+  33  N9-16_MZ695350_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013                               90.54%    failed      2.30%
+  34  N19-40_MZ695376_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013                              90.54%    failed      3.80%
+  35  N8-30_MZ695362_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013                               90.54%    failed      1.89%
+  36  F-Apr-18-5-L1-2_MZ670838_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018                     90.54%    failed      3.22%
+  37  R-Aug-18-5-pT9_MZ670915_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018                      90.54%    failed      3.60%
+  38  R-Oct-18-5-pT2_MZ670916_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018                      90.54%    failed      3.16%
+  39  YMVcp-HB160_MT501356_Dioscorea-esculenta_Cameroon_2016                                          90.54%    failed      2.77%
+  40  N18-3_MZ695381_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2012                               90.54%    failed      3.12%
+  41  EK-ILUSHI-1_MT542851_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2016                         90.54%    failed      2.68%
+  42  EK-ILUSHI-2_MT542852_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2016                         90.54%    failed      3.12%
+  43  N21-3_MZ695382_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2012                               90.54%    failed      1.55%
+  44  R-Sep-20-2-V1BB-1_MZ670986_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020                   90.54%    failed      2.30%
+  45  R-Aug-20-2-V1BB-1_MZ671018_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020                   90.54%    failed      2.33%
+  46  N6-15_MZ695349_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013                               90.54%    failed      3.50%
+  47  YMVcp-HM190_MT501357_Dioscorea-cayenensis-subsp.-rotundata_Cameroon_2016                        90.54%    failed      3.41%
+  48  F-Apr-18-5-2_MZ670839_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018                        90.54%    failed      2.26%
+  49  R-Dec-16-pT2-1_MZ670850_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2016                      90.54%    failed      2.82%
+  50  R-Feb-17-m1-4_MZ670861_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017                       90.54%    failed      4.49%
+  51  R-Mar-17-pT3-2_MZ670866_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017                      90.54%    failed      2.51%
+  52  Au-Sc2-18-3_MT501450_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018                         90.54%    failed      2.38%
+  53  N12-22_MZ695355_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013                              90.54%    failed      1.35%
+  54  R-Sep-20-1000-7_MZ670799_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020                     90.54%    failed      1.17%
+  55  N15-7_MZ695342_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2014                               90.54%    failed      2.12%
+  56  G20-2_MZ695398_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013                                 90.54%    failed      1.55%
+  57  G10-1_MZ695439_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2012                                 90.54%    failed      2.30%
+  58  Hem-Sc2-17-2_MT501423_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017                        90.54%    failed      2.59%
+  59  ALU-ILUSHI-1_MT542854_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2016                        90.54%    failed      1.67%
+  60  ALU-ILUSHI-2_MT542855_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2016                        90.54%    failed      1.74%
+  61  Al-Sc2-18-2_MT501435_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018                         90.54%    failed      1.27%
+  62  EK-NTEJE-1_MT542853_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2016                          90.54%    failed      2.29%
+  63  M1_StoDgo_MK814867_Dioscorea-cayenensis-subsp.-rotundata_Cuba_2014                              95.82%    passed     73.05%
+  64  R-Oct-19-50-pT3_MZ670940_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2019                     90.54%    failed      3.07%
+  65  R-Dec-16-pT2-2_MZ670851_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2016                      90.54%    failed      1.12%
+  66  R-Feb-17-pT1-1_MZ670854_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017                      90.54%    failed      1.25%
+  67  R-Jan-17-pT1-1_MZ670853_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017                      90.54%    failed      1.30%
+  68  R-Apr-17-m2-1_MZ670868_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017                       90.54%    failed      1.39%
+  69  R-Oct-18-5-pT12_MZ670918_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018                     90.54%    failed      1.18%
+  70  YMVcp-GS156_MT501339_Dioscorea-cayenensis-subsp.-rotundata_Cameroon_2016                        90.54%    failed      2.51%
+  71  AL-AGYAGU-2_MT542861_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2016                         90.54%    failed      1.55%
+  72  N1-33_DELIM-0x2a__MZ695367_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013                   90.54%    failed      1.82%
+  73  Tog1_OR004230_Dioscorea-cayenensis-subsp.-rotundata_Togo_1996                                   95.83%    passed     75.35%
+  74  N19-3_MZ695339_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2014                               90.54%    failed      1.21%
+  75  G84-10_MZ695448_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2012                                90.54%    failed      1.10%
+  76  Cam3_OR004231_Dioscorea-cayenensis-subsp.-rotundata_Cameroon_1996                               95.83%    passed     66.91%
+  77  R-Oct-18-5-pT4_MZ670922_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018                      90.54%    passed      5.52%
+  78  N354-31a_MZ695391_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2012                            90.54%    failed      2.58%
+  79  N354-31b_MZ695392_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2012                            90.54%    failed      3.41%
+  80  G220-25_MZ695446_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2012                               90.54%    failed      3.45%
+  81  Hem-AGYAGU-1_MT542864_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2016                        90.54%    failed      2.67%
+  82  YMV_DR2_OK239701_Dioscorea-cayenensis-subsp.-rotundata_Brazil_2019                              90.54%    failed      2.46%
+  83  YMV_Dsp_OK239702_Dioscorea-sp._Brazil_2014                                                      90.54%    failed      2.74%
+  84  YMV_I4_OL739290_Dioscorea-cayenensis-subsp.-rotundata_Brazil_2019                               90.54%    failed      3.53%
+  85  F-May-20-300-2_MZ670812_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020                      90.54%    failed      4.40%
+  86  N294-26_MZ695385_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2012                             90.54%    failed      3.67%
+  87  F-Apr-18-5-L3-1_MZ670834_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018                     90.54%    failed      2.33%
+  88  Yooo34_MT591055_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017                              90.54%    failed      2.61%
+  89  19177Y_MT591080_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2019                              90.54%    failed      2.61%
+  90  YMVCNb_MT591059_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017                              90.54%    failed      3.16%
+  91  R-Sep-18-5-pT1_MZ670875_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018                      90.54%    failed      3.07%
+  92  2665Y_MT591081_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2019                               90.54%    failed      3.31%
+  93  MISG_MT591082_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2019                                90.54%    failed      3.69%
+  94  R-Sep-18-5-pT10_MZ670876_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018                     90.54%    failed      2.95%
+  95  R-Aug-18-5-pT1_MZ670878_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018                      90.54%    failed      2.79%
+  96  R-Sep-20-2-V1BC-2_MZ670998_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020                   90.54%    failed      3.55%
+  97  N9-25_MZ695359_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013                               90.54%    failed      3.32%
+  98  AME-GWADALAD-3_MT542862_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2016                      90.54%    failed      4.78%
+  99  F-May-20-2-X2B_MZ670848_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020                      90.54%    failed      2.42%
+ 100  R-Aug-18-5-pT4_MZ670889_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018                      90.54%    failed      3.35%
+ 101  R-Aug-20-2-V1TC-1_MZ671016_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020                   90.54%    failed      3.35%
+ 102  R-Sep-19-50-pT3_MZ670927_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2019                     90.54%    failed      2.72%
+ 103  ADK-nteje-2_MT553854_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2016                         90.54%    failed      2.60%
+ 104  R-Aug-19-50-pT2_MZ670926_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2019                     90.54%    failed      2.47%
+ 105  R-Oct-19-50-pT42_MZ670929_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2019                    90.54%    failed      2.30%
+ 106  N3-34_MZ695369_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013                               90.54%    failed      2.54%
+ 107  N344-31_MZ695390_Dioscorea-esculenta_Nigeria_2012                                               90.54%    failed      1.41%
+ 108  YMVHNb_MT591063_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017                              90.54%    failed      3.67%
+ 109  N6-41_MZ695379_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013                               90.54%    failed      3.65%
+ 110  R-Oct-20-2-V1TD-2_MZ670966_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020                   90.54%    failed      3.69%
+ 111  R-Mar-17-m2-3_MZ670871_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017                       90.54%    failed      2.18%
+ 112  N3-3_MZ695336_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013                                90.54%    passed      5.52%
+ 113  AL-AGYAGU-1_MT542860_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2016                         90.54%    failed      3.16%
+ 114  Am-Sc2-18-3_MT501430_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018                         90.54%    failed      1.39%
+ 115  R-Aug-18-5-pT2_MZ670898_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018                      90.54%    failed      2.67%
+ 116  AL-Sc2-17-3_MT501422_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017                         90.54%    failed      3.51%
+ 117  CBE6b_DELIM-0x2f_C3_AJ244056_Dioscorea-cayenensis-subsp.-rotundata_Benin_1994                   90.54%    failed      2.28%
+ 118  G1_OQ677004_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2022                                    95.82%    passed     65.69%
+ 119  G3_OQ677006_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2022                                    95.82%    passed     66.94%
+ 120  G4_OQ677007_Dioscorea-alata_Ghana_2022                                                          95.82%    passed     66.94%
+ 121  G6_OQ677009_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2022                                    95.82%    passed     66.94%
+ 122  G9_OQ677011_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2022                                    95.82%    passed     66.94%
+ 123  N2_OQ677013_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2022                                    95.82%    passed     66.94%
+ 124  G5_OQ677008_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2022                                    95.82%    passed     66.30%
+ 125  N1_OQ677012_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2022                                    95.72%    passed     61.62%
+ 126  Ben1_OR004217_Dioscorea-cayenensis-subsp.-rotundata_Benin_1996                                  95.83%    passed     64.06%
+ 127  Cam4_OR004218_Dioscorea-cayenensis-subsp.-rotundata_Cameroon_1996                               95.83%    passed     69.97%
+ 128  Gh27_OR004219_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2021                                  95.83%    passed     69.16%
+ 129  Gh35_OR004222_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2021                                  95.83%    passed     69.16%
+ 130  Gh30_OR004220_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2021                                  95.83%    passed     67.34%
+ 131  Nig4_OR004221_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2022                                95.83%    passed     67.34%
+ 132  Gh32_OR004223_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2021                                  95.83%    passed     69.42%
+ 133  Gh36_OR004224_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2021                                  95.83%    passed     69.42%
+ 134  Gh33_OR004225_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2021                                  95.83%    passed     69.42%
+ 135  Nig6_OR004226_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_1996                                95.83%    passed     70.24%
+ 136  Tog2_OR004227_Dioscorea-cayenensis-subsp.-rotundata_Togo_1996                                   95.83%    passed     69.16%
+ 137  Gh29_OR004229_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2022                                  95.83%    passed     69.76%
+ 138  Nig3_OR004228_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2022                                95.83%    passed     69.42%
+ 139  G15-16_MZ695413_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013                                90.54%    failed      0.79%
+ 140  G153-18_MZ695445_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2012                               90.54%    failed      1.85%
+ 141  G9-21_MZ695422_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013                                 90.54%    failed      0.98%
+ 142  G25-33_MZ695437_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013                                90.54%    failed      1.78%
+ 143  G8-10_MZ695407_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013                                 90.54%    passed      5.32%
+ 144  G3-13_MZ695412_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013                                 90.54%    failed      4.47%
+ 145  G16-2_MZ695441_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2012                                 90.54%    failed      3.86%
+ 146  AME-GWADALAD-1_MT542863_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2016                      90.54%    passed      5.10%
+ 147  G2-33_MZ695435_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013                                 90.54%    failed      2.98%
+ 148  G4-28_MZ695431_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013                                 90.54%    failed      3.31%
+ 149  YMVcp-GS172b_MT501334_Dioscorea-cayenensis-subsp.-rotundata_Cameroon_2016                       90.54%    failed      4.10%
+ 150  YMVcp-WH214b_MT501335_Dioscorea-cayenensis_Cameroon_2016                                        90.54%    failed      3.22%
+ 151  YMVcp-GS280_MT501346_Dioscorea-cayenensis-subsp.-rotundata_Cameroon_2016                        90.54%    failed      3.22%
+ 152  YMVcp-HB290_MT501352_Dioscorea-cayenensis_Cameroon_2016                                         90.54%    failed      2.59%
+ 153  YMVcp-HB295_MT501354_Dioscorea-cayenensis-subsp.-rotundata_Cameroon_2016                        90.54%    failed      3.95%
+ 154  N7-26_MZ695361_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013                               90.54%    failed      1.95%
+ 155  N7-33_MZ695368_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013                               90.54%    passed      7.64%
+ 156  N1-41_MZ695378_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013                               90.54%    passed      5.60%
+ 157  N376-34_MZ695394_Dioscorea-cayenensis_Nigeria_2012                                              90.54%    failed      4.44%
+ 158  G8-33_MZ695436_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013                                 90.54%    failed      2.39%
+ 159  N2-4_MZ695337_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013                                90.54%    failed      3.60%
+ 160  YMVcp-HB96_MT501337_Dioscorea-cayenensis-subsp.-rotundata_Cameroon_2016                         90.54%    passed      5.11%
+ 161  YMVcp-GS258_MT501351_Dioscorea-cayenensis_Cameroon_2016                                         90.54%    failed      4.65%
+ 162  G4-18_MZ695416_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013                                 90.54%    failed      4.42%
+ 163  Am-Sc2-17-2_MT501436_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017                         90.54%    failed      3.12%
+ 164  Ak-Sc2-18-4_MT501432_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018                         90.54%    failed      3.12%
+ 165  B1_DELIM-0x2f_C1_AJ244048_Dioscorea-cayenensis-subsp.-rotundata_Benin_1994                      90.54%    failed      2.18%
+ 166  YMVcp-HM26_MT501348_Dioscorea-cayenensis-subsp.-rotundata_Cameroon_2016                         90.54%    passed      5.32%
+ 167  ADK-NTEJE-1_MT542856_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2016                         90.54%    passed      5.58%
+ 168  Las-Sc2-17-2_MT501448_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017                        90.54%    failed      2.86%
+ 169  N24-7_MZ695343_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2014                               90.54%    failed      1.63%
+ 170  N12-40_MZ695375_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013                              90.54%    failed      2.30%
+ 171  CAM1_DELIM-0x2f_C1_AJ244054_Dioscorea-cayenensis-subsp.-rotundata_Cameroon_1994                 90.54%    failed      3.55%
+ 172  R-Apr-17-pT2-3_MZ670874_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017                      90.54%    passed      6.30%
+ 173  R-Oct-19-50-pT8_MZ670930_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2019                     90.54%    passed      7.14%
+ 174  G3-17_MZ695415_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013                                 90.54%    failed      4.36%
+ 175  G6-19_MZ695419_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013                                 90.54%    failed      2.02%
+ 176  G14-2_MZ695440_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2012                                 90.54%    failed      1.97%
+ 177  R-Aug-20-2-V2TD-1_MZ671011_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020                   90.54%    failed      3.77%
+ 178  G2_OQ677005_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2022                                    95.69%    passed     62.70%
+ 179  YMVcp-HB298_MT501353_Dioscorea-cayenensis-subsp.-rotundata_Cameroon_2016                        90.54%    passed      5.48%
+ 180  N299-26_MZ695386_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2012                             90.54%    failed      1.81%
+ 181  N301-26_MZ695388_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2012                             90.54%    failed      1.68%
+ 182  N300-26_MZ695387_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2012                             90.54%    failed      1.70%
+ 183  MK-GWAD-1_MT542849_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2016                           90.54%    failed      2.67%
+ 184  Au-Sc3-17-1_MT501406_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017                         90.54%    failed      1.50%
+ 185  Au-Sc2-18-6_MT501434_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018                         90.54%    failed      1.76%
+ 186  YMVcp-GS183_MT501350_Dioscorea-cayenensis-subsp.-rotundata_Cameroon_2016                        90.54%    failed      3.41%
+ 187  AL-Sc2-17-1_MT501404_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017                         90.54%    failed      3.41%
+ 188  B14_AJ244049_Dioscorea-cayenensis-subsp.-rotundata_Benin_1994                                   90.54%    failed      4.05%
+ 189  R-Oct-18-5-pT13_MZ670923_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018                     90.54%    passed      8.26%
+ 190  G7_OQ677010_Dioscorea-alata_Ghana_2022                                                          95.82%    passed     69.39%
+ 191  R-Oct-20-2-V1TB-1_MZ670954_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020                   90.54%    passed      7.83%
+ 192  N22-30_MZ695363_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013                              90.54%    failed      1.97%
+ 193  G4-12_MZ695410_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013                                 90.54%    failed      2.77%
+ 194  G66-8_MZ695444_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2012                                 90.54%    failed      1.48%
+ 195  YMVcp-GS100_MT501338_Dioscorea-cayenensis-subsp.-rotundata_Cameroon_2016                        90.54%    failed      2.07%
+ 196  YMVcp-GS218_MT501333_Dioscorea-cayenensis_Cameroon_2016                                         90.54%    failed      3.12%
+ 197  FAK-ZAKI-1_MT542857_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2016                          90.54%    passed      5.11%
+ 198  R-Oct-20-2-V1BB-1_MZ670959_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020                   90.54%    failed      1.76%
+ 199  R-Oct-20-2-V2BB-2_MZ670974_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020                   90.54%    failed      1.20%
+ 200  N1-24_MZ695357_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013                               90.54%    failed      3.45%
+ 201  N6-35_MZ695370_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013                               90.54%    passed      5.74%
+ 202  MAK-PAK-3_MT542858_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2016                           90.54%    passed      5.11%
+ 203  Nig2_OR004232_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_1996                                96.17%    passed     72.89%
+ 204  G46-5_MZ695443_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2012                                 90.54%    failed      2.88%
+ 205  R-Aug-19-50-pT6_MZ670943_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2019                     90.54%    failed      4.02%
+ 206  R-Sep-20-2-V2TD-1_MZ670992_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020                   90.54%    failed      1.39%
+ 207  R-Aug-20-2-V1TB-1_MZ671012_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020                   90.54%    failed      2.18%
+ 208  R-Aug-18-5-pT6_MZ670921_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018                      90.54%    failed      1.21%
+ 209  R-Sep-19-50-pT7_MZ670933_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2019                     90.54%    failed      2.25%
+ 210  N375-34_MZ695393_Dioscorea-cayenensis_Nigeria_2012                                              90.54%    passed      5.27%
+ 211  Trifida_DELIM-0x2f_C5_AJ238401_Dioscorea-trifida_France_1986                                    90.54%    failed      1.87%
+ 212  AID10_DELIM-0x2f_C5_AJ244043_Dioscorea-alata_USA_1994                                           90.54%    failed      2.51%
+ 213  CGU2_DELIM-0x2f_C4_AJ244044_Dioscorea-cayenensis-subsp.-rotundata_France_1994                   90.54%    failed      2.62%
+ 214  CGU1_DELIM-0x2f_C18_AJ244057_Dioscorea-cayenensis-subsp.-rotundata_France_1994                  90.54%    failed      1.91%
+ 215  GR_DELIM-0x2f_SAVANE_DELIM-0x2f_C4_AJ244063_Dioscorea-cayenensis-subsp.-rotundata_France_1991   90.54%    failed      1.85%
+ 216  F-Apr-19-50-S4_MZ670843_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2019                      90.54%    failed      2.22%
+ 217  F-Apr-19-50-S5_MZ670844_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2019                      90.54%    failed      3.08%
+ 218  Au-Sc2-17-1_MT501399_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017                         90.54%    failed      0.92%
+ 219  608_AJ244047_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_1992                                 90.54%    failed      1.04%
+ 220  R-Oct-19-50-PT5_MZ670941_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2019                     90.54%    failed      2.12%
+ 221  R-Oct-20-2-V2BA-1_MZ670963_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020                   90.54%    failed      2.97%
+ 222  YMVcp-HB303_MT501347_Dioscorea-cayenensis_Cameroon_2016                                         90.54%    failed      3.81%
+ 223  YMVcp-GS233_MT501344_Dioscorea-cayenensis-subsp.-rotundata_Cameroon_2016                        90.54%    failed      1.30%
+ 224  YMVcp-GS143_MT501343_Dioscorea-cayenensis-subsp.-rotundata_Cameroon_2016                        90.54%    passed      5.81%
+ 225  YMVcp-WH201b_MT501358_Dioscorea-cayenensis_Cameroon_2016                                        90.54%    failed      3.65%
+ 226  YMVcp-WH132_MT501349_Dioscorea-cayenensis_Cameroon_2016                                         90.54%    failed      4.19%
+ 227  F-Apr-19-50-S3_MZ670845_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2019                      90.54%    failed      0.79%
+ 228  G2-4_MZ695403_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013                                  90.54%    passed     13.79%
+ 229  G1-32_MZ695434_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013                                 90.54%    failed      1.38%
+ 230  G1-23_MZ695425_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013                                 90.54%    failed      2.13%
+ 231  G5-27_MZ695429_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013                                 90.54%    passed      9.34%
+ 232  G267-31_MZ695447_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2012                               90.54%    passed      8.47%
+ 233  G2-13_MZ695411_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013                                 90.54%    failed      4.02%
+ 234  N4-23_MZ695356_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013                               90.54%    failed      1.78%
+ 235  R-Sep-19-50-pT53_MZ670944_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2019                    90.54%    failed      4.50%
+ 236  R-Sep-20-2-V1BD-2_MZ670987_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020                   90.54%    failed      4.14%
+ 237  SOA-AI_DELIM-0x2f_C1_AJ244065_Dioscorea-alata_Burkina-Faso_1992                                 90.54%    failed      4.39%
+ 238  SOA2_DELIM-0x2f_C1_AJ244066_Dioscorea-alata_Burkina-Faso_1992                                   90.54%    passed      5.08%
+ 239  174_DELIM-0x2f_C1_AJ244046_Dioscorea-cayenensis-subsp.-rotundata_Benin_1994                     90.54%    failed      4.48%
+ 240  CAM2_DELIM-0x2f_C31_AJ244055_Dioscorea-cayenensis-subsp.-rotundata_Cameroon_1994                90.54%    passed      5.15%
+ 241  R-Oct-19-50-pT6_MZ670932_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2019                     90.54%    failed      4.60%
+ 242  R-Oct-19-50-pT1_MZ670947_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2019                     90.54%    failed      3.05%
+ 243  R-Aug-19-50-pT7_MZ670934_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2019                     90.54%    failed      3.14%
+ 244  R-Oct-19-50-pT51_MZ670945_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2019                    90.54%    passed     13.13%
+ 245  G1-28_MZ695430_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013                                 90.54%    failed      1.26%
+ 246  R-Oct-20-2-V2TB-1_MZ670964_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020                   90.54%    passed      9.52%
+ 247  Divin_AJ244060_Dioscorea-alata_France_1989                                                      90.54%    failed      1.33%
+ 248  R-Oct-19-50-pT12_MZ670950_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2019                    90.54%    passed      7.89%
+ 249  G5-20_MZ695421_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013                                 90.54%    failed      1.70%
+ 250  LAS-SARKI-3_MT542859_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2016                         90.54%    passed     10.88%
+ 251  GY_DELIM-0x2f_INRA_DELIM-0x2f_C11_AJ244045_Dioscorea-trifida_French-Guiana_1991                 90.54%    failed      2.07%
+ 252  G13_DELIM-0x2f_C1_AJ244061_Dioscorea-trifida_French-Guiana_1992                                 90.54%    failed      1.33%
+ 253  G5_DELIM-0x2f_C10_AJ244062_Dioscorea-trifida_French-Guiana_1992                                 90.54%    failed      0.62%
+ 254  BFC51_DELIM-0x2f_C11_AJ244050_Dioscorea-cayenensis-subsp.-rotundata_Burkina-Faso_1992           90.91%    failed      3.18%
+ 255  BFC54_AJ244051_Dioscorea-cayenensis-subsp.-rotundata_Burkina-Faso_1992                          90.91%    failed      3.18%
+ 256  C1_DELIM-0x2f_C3_AJ244053_Dioscorea-cayenensis-subsp.-rotundata_Burkina-Faso_1992               90.91%    failed      3.18%
+ 257  BFC56_AJ244052_Dioscorea-cayenensis-subsp.-rotundata_Burkina-Faso_1992                          90.91%    passed     10.51%
+ 258  F-May-20-300-1_MZ670808_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020                      90.54%    failed      0.85%
+ 259  R-Mar-17-pT2-1_MZ670862_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017                      90.54%    failed      0.04%
+ 260  R-Mar-17-pT2-2_MZ670863_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017                      90.54%    failed      0.04%
+WARNING: 259 sequences contain more than 50% gaps/ambiguity
+****  TOTAL                                                                                           91.05%  189 sequences failed composition chi2 test (p-value<5%; df=3)
+NOTE: Nig13_OR004214_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2022 is identical to Nig5_OR004213_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2022 but kept for subsequent analysis
+NOTE: G4_OQ677007_Dioscorea-alata_Ghana_2022 is identical to G3_OQ677006_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2022 but kept for subsequent analysis
+NOTE: Gh35_OR004222_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2021 is identical to Gh27_OR004219_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2021 but kept for subsequent analysis
+NOTE: Nig4_OR004221_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2022 is identical to Gh30_OR004220_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2021 but kept for subsequent analysis
+NOTE: Gh36_OR004224_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2021 is identical to Gh32_OR004223_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2021 but kept for subsequent analysis
+NOTE: YMVcp-GS280_MT501346_Dioscorea-cayenensis-subsp.-rotundata_Cameroon_2016 is identical to YMVcp-WH214b_MT501335_Dioscorea-cayenensis_Cameroon_2016 but kept for subsequent analysis
+NOTE: BFC54_AJ244051_Dioscorea-cayenensis-subsp.-rotundata_Burkina-Faso_1992 is identical to BFC51_DELIM-0x2f_C11_AJ244050_Dioscorea-cayenensis-subsp.-rotundata_Burkina-Faso_1992 but kept for subsequent analysis
+Checking for duplicate sequences: done in 0.000585346 secs using 584.1% CPU
+Identifying sites to remove: done in 0.0128785 secs using 824.7% CPU
+NOTE: 5 identical sequences (see below) will be ignored for subsequent analysis
+NOTE: G6_OQ677009_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2022 (identical to G3_OQ677006_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2022) is ignored but added at the end
+NOTE: G9_OQ677011_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2022 (identical to G3_OQ677006_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2022) is ignored but added at the end
+NOTE: N2_OQ677013_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2022 (identical to G3_OQ677006_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2022) is ignored but added at the end
+NOTE: Gh33_OR004225_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2021 (identical to Gh32_OR004223_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2021) is ignored but added at the end
+NOTE: C1_DELIM-0x2f_C3_AJ244053_Dioscorea-cayenensis-subsp.-rotundata_Burkina-Faso_1992 (identical to BFC51_DELIM-0x2f_C11_AJ244050_Dioscorea-cayenensis-subsp.-rotundata_Burkina-Faso_1992) is ignored but added at the end
 Alignment was printed to results/aligned-delim.fasta.uniqueseq.phy
 
 For your convenience alignment with unique sequences printed to results/aligned-delim.fasta.uniqueseq.phy
 
-Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.015 seconds
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.033 seconds
 
-NOTE: 3 MB RAM (0 GB) is required!
+NOTE: 5 MB RAM (0 GB) is required!
 Measuring multi-threading efficiency up to 1 CPU cores
 Increase to 10 rounds for branch lengths
-25 trees examined
-Threads: 1 / Time: 1.012 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -47696
+11 trees examined
+Threads: 1 / Time: 1.013 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -64596
+Determining AUTO threadcount: done in 1.01371 secs using 105.5% CPU
 BEST NUMBER OF THREADS: 1
 
 Estimate model parameters (epsilon = 0.500)
-1. Initial log-likelihood: -34117.492
-2. Current log-likelihood: -28476.169
-3. Current log-likelihood: -28472.874
-Optimal log-likelihood: -28472.782
-Rate parameters:  A-C: 0.99337  A-G: 8.26361  A-T: 1.41702  C-G: 0.40581  C-T: 11.73812  G-T: 1.00000
-Base frequencies:  A: 0.291  C: 0.217  G: 0.252  T: 0.240
-Parameters optimization took 3 rounds (0.118 sec)
+1. Initial log-likelihood: -41281.039
+2. Current log-likelihood: -34191.412
+3. Current log-likelihood: -34187.875
+Optimal log-likelihood: -34187.869
+Rate parameters:  A-C: 0.94922  A-G: 5.43202  A-T: 1.15851  C-G: 0.36647  C-T: 7.89643  G-T: 1.00000
+Base frequencies:  A: 0.292  C: 0.217  G: 0.253  T: 0.239
+Parameters optimization took 3 rounds (0.252 sec)
 Wrote distance file to... 
 Computing ML distances based on estimated model parameters...
-Calculating distance matrix: done in 0.0286113 secs using 87.04% CPU
-Computing ML distances took 0.028907 sec (of wall-clock time) 0.024924 sec (of CPU time)
-Setting up auxiliary I and S matrices: done in 0.000962189 secs
-Computing RapidNJ tree took 0.002328 sec (of wall-clock time) 0.000003 sec (of CPU time)
-Log-likelihood of RapidNJ tree: -28965.797
+Calculating distance matrix: done in 0.0853972 secs using 100% CPU
+Computing ML distances took 0.086980 sec (of wall-clock time) 0.086986 sec (of CPU time)
+Setting up auxiliary I and S matrices: done in 0.0010556 secs using 480.3% CPU
+Constructing RapidNJ tree: done in 0.00253143 secs using 99.98% CPU
+Computing RapidNJ tree took 0.003628 sec (of wall-clock time) 0.007642 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -34667.807
 --------------------------------------------------------------------
 |             INITIALIZING CANDIDATE TREE SET                      |
 --------------------------------------------------------------------
 
 Do NNI search on 2 best initial trees
+Optimizing NNI: done in 0.121025 secs using 93.53% CPU
 Estimate model parameters (epsilon = 0.500)
-BETTER TREE FOUND at iteration 1: -28452.676
+BETTER TREE FOUND at iteration 1: -34147.890
+Optimizing NNI: done in 0.334617 secs using 97.43% CPU
 Finish initializing candidate tree set (4)
-Current best tree score: -28452.676 / CPU time: 0.236
+Current best tree score: -34147.890 / CPU time: 0.518
 Number of iterations: 2
-TREE SEARCH COMPLETED AFTER 2 ITERATIONS / Time: 0h:0m:1s
+TREE SEARCH COMPLETED AFTER 2 ITERATIONS / Time: 0h:0m:2s
 
 --------------------------------------------------------------------
 |                    FINALIZING TREE SEARCH                        |
 --------------------------------------------------------------------
 Performs final model parameters optimization
 Estimate model parameters (epsilon = 0.050)
-1. Initial log-likelihood: -28452.676
-Optimal log-likelihood: -28452.662
-Rate parameters:  A-C: 0.97936  A-G: 8.22311  A-T: 1.39275  C-G: 0.40045  C-T: 11.80797  G-T: 1.00000
-Base frequencies:  A: 0.291  C: 0.217  G: 0.252  T: 0.240
-Parameters optimization took 1 rounds (0.013 sec)
-BEST SCORE FOUND : -28452.662
-Total tree length: 3.305
+1. Initial log-likelihood: -34147.890
+Optimal log-likelihood: -34147.887
+Rate parameters:  A-C: 0.92834  A-G: 5.41183  A-T: 1.15348  C-G: 0.36122  C-T: 7.93997  G-T: 1.00000
+Base frequencies:  A: 0.292  C: 0.217  G: 0.253  T: 0.239
+Parameters optimization took 1 rounds (0.034 sec)
+BEST SCORE FOUND : -34147.887
+Total tree length: 4.339
 
 Total number of iterations: 2
-CPU time used for tree search: 0.233 sec (0h:0m:0s)
-Wall-clock time used for tree search: 0.237 sec (0h:0m:0s)
-Total CPU time used: 1.829 sec (0h:0m:1s)
-Total wall-clock time used: 1.502 sec (0h:0m:1s)
+CPU time used for tree search: 0.502 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.518 sec (0h:0m:0s)
+Total CPU time used: 2.224 sec (0h:0m:2s)
+Total wall-clock time used: 2.082 sec (0h:0m:2s)
 
 Analysis results written to: 
   IQ-TREE report:                results/aligned-delim.fasta.iqtree
@@ -274,4 +363,4 @@ Analysis results written to:
   Likelihood distances:          results/aligned-delim.fasta.mldist
   Screen log file:               results/aligned-delim.fasta.log
 
-Date and Time: Tue Feb 24 11:42:28 2026
+Date and Time: Tue Mar  3 18:22:50 2026

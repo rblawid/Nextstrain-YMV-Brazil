@@ -73,78 +73,10 @@
   },
   "generated_by": {
     "program": "augur",
-    "version": "30.0.1"
+    "version": "33.0.0"
   },
   "nodes": {
-    "AJ238401": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "D46N",
-          "A62E",
-          "A120S",
-          "R192C",
-          "S199H",
-          "I240V",
-          "A258V",
-          "N262S",
-          "Y265N"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "AJ244043": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "A248V"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "AJ244044": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "K291N"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "AJ244045": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "P42S"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "AJ244046": {
+    "174/C1_AJ244046_Dioscorea-cayenensis-subsp.-rotundata_Benin_1994": {
       "aa_muts": {
         "6K1": [],
         "6K2": [],
@@ -160,7 +92,35 @@
         "P3": []
       }
     },
-    "AJ244047": {
+    "19177Y_MT591080_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2019": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "2665Y_MT591081_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2019": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "D2H"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "608_AJ244047_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_1992": {
       "aa_muts": {
         "6K1": [],
         "6K2": [],
@@ -180,44 +140,7 @@
         "P3": []
       }
     },
-    "AJ244048": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "V28A",
-          "G134D"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "AJ244049": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "A20V",
-          "T58A",
-          "L61S",
-          "S75Y",
-          "R232K",
-          "V264A",
-          "T281I"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "AJ244050": {
+    "8_StoDgo_MK814865_Dioscorea-esculenta_Cuba_2011": {
       "aa_muts": {
         "6K1": [],
         "6K2": [],
@@ -230,294 +153,7 @@
         "P3": []
       }
     },
-    "AJ244051": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "AJ244052": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "T11A",
-          "G19S",
-          "E49G",
-          "D171A",
-          "T173P",
-          "Q175P",
-          "T290A"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "AJ244053": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "AJ244054": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "G36S",
-          "F41S",
-          "R47K",
-          "N48S",
-          "D126N"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "AJ244055": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "A187V"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "AJ244056": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "V18I",
-          "R23K",
-          "T58K",
-          "S84N"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "AJ244057": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "R79K",
-          "S295C"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "AJ244058": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "F270L"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "AJ244059": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "S20F",
-          "S134R"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "AJ244060": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "S37N",
-          "E38G",
-          "V43E",
-          "A44T",
-          "S48N",
-          "D51E",
-          "R66K",
-          "V73A",
-          "V76I",
-          "V90I",
-          "V113I",
-          "H114Q",
-          "T123A",
-          "G134S",
-          "E139D",
-          "N148M",
-          "G149D",
-          "A285T"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "AJ244061": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "S56R",
-          "G57C",
-          "M130L",
-          "G287S"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "AJ244062": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "A44V",
-          "A62E",
-          "T63I",
-          "G74R",
-          "G134D"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "AJ244063": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "AJ244064": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "AJ244065": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "Y265S"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "AJ244066": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "N48S",
-          "T50I",
-          "R66K",
-          "G144S"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MK814865": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MK814866": {
+    "9_StoDgo_MK814866_Dioscorea-esculenta_Cuba_2011": {
       "aa_muts": {
         "6K1": [],
         "6K2": [],
@@ -532,66 +168,14 @@
         "P3": []
       }
     },
-    "MK814867": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MK814868": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MT501332": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MT501333": {
+    "ADK-NTEJE-1_MT542856_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2016": {
       "aa_muts": {
         "6K1": [],
         "6K2": [],
         "CI": [],
         "CP": [
-          "E19D",
-          "D26G",
-          "A30T",
-          "G35D",
-          "G36D",
-          "S37N",
-          "F41S",
-          "V43A",
-          "A44M",
-          "D46K",
-          "K47R",
-          "S55P",
-          "V73I",
-          "T118A",
-          "I183V"
+          "R232S",
+          "Y233S"
         ],
         "HC-Pro": [],
         "NIa": [],
@@ -600,13 +184,15 @@
         "P3": []
       }
     },
-    "MT501334": {
+    "ADK-nteje-2_MT553854_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2016": {
       "aa_muts": {
         "6K1": [],
         "6K2": [],
         "CI": [],
         "CP": [
-          "K21Q"
+          "D2E",
+          "I43V",
+          "S84N"
         ],
         "HC-Pro": [],
         "NIa": [],
@@ -615,35 +201,13 @@
         "P3": []
       }
     },
-    "MT501335": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MT501336": {
+    "AID10/C5_AJ244043_Dioscorea-alata_USA_1994": {
       "aa_muts": {
         "6K1": [],
         "6K2": [],
         "CI": [],
         "CP": [
-          "V18I",
-          "N29S",
-          "G36D",
-          "K40R",
-          "I43T",
-          "G57S",
-          "T58S",
-          "T62A",
-          "L85F",
-          "K97R"
+          "A248V"
         ],
         "HC-Pro": [],
         "NIa": [],
@@ -652,25 +216,53 @@
         "P3": []
       }
     },
-    "MT501338": {
+    "AL-AGYAGU-1_MT542860_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2016": {
       "aa_muts": {
         "6K1": [],
         "6K2": [],
         "CI": [],
         "CP": [
-          "I18T",
-          "T20I",
-          "D26G",
-          "I28V",
-          "P32S",
-          "G35S",
-          "R45K",
-          "K47R",
-          "V60I",
-          "A62T",
-          "A127T",
-          "G134D",
-          "F138L",
+          "T11S",
+          "K27N",
+          "N29D",
+          "S42Y",
+          "V246I"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "AL-AGYAGU-2_MT542861_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2016": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "G15V",
+          "D26S",
+          "P31Q",
+          "G58S",
+          "M151I"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "AL-Sc2-17-1_MT501404_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "K25R",
+          "E49G",
+          "T58I",
           "A173T"
         ],
         "HC-Pro": [],
@@ -680,15 +272,13 @@
         "P3": []
       }
     },
-    "MT501341": {
+    "AL-Sc2-17-3_MT501422_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017": {
       "aa_muts": {
         "6K1": [],
         "6K2": [],
         "CI": [],
         "CP": [
-          "V113I",
-          "S134N",
-          "T290N"
+          "V18I"
         ],
         "HC-Pro": [],
         "NIa": [],
@@ -697,92 +287,7 @@
         "P3": []
       }
     },
-    "MT501343": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "V94I",
-          "K97R",
-          "D126E",
-          "I130S",
-          "I132L",
-          "I183V",
-          "E278D"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MT501348": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "A30T",
-          "F41S",
-          "T50P",
-          "A127T",
-          "M130T"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MT501349": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "S37N",
-          "L85F",
-          "A123T",
-          "A127T",
-          "F138L",
-          "E139G",
-          "V264A",
-          "K266R"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MT501350": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "E8D",
-          "S17N",
-          "K21R",
-          "K27R",
-          "N37D",
-          "T44M",
-          "V90T",
-          "P98S",
-          "E141G"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MT501353": {
+    "ALU-ILUSHI-1_MT542854_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2016": {
       "aa_muts": {
         "6K1": [],
         "6K2": [],
@@ -795,14 +300,15 @@
         "P3": []
       }
     },
-    "MT501354": {
+    "ALU-ILUSHI-2_MT542855_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2016": {
       "aa_muts": {
         "6K1": [],
         "6K2": [],
         "CI": [],
         "CP": [
-          "K107R",
-          "G134C"
+          "G261V",
+          "H284L",
+          "R300K"
         ],
         "HC-Pro": [],
         "NIa": [],
@@ -811,13 +317,16 @@
         "P3": []
       }
     },
-    "MT501356": {
+    "AME-GWADALAD-1_MT542863_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2016": {
       "aa_muts": {
         "6K1": [],
         "6K2": [],
         "CI": [],
         "CP": [
-          "I151M"
+          "S9G",
+          "V44M",
+          "D46G",
+          "N48D"
         ],
         "HC-Pro": [],
         "NIa": [],
@@ -826,14 +335,13 @@
         "P3": []
       }
     },
-    "MT501357": {
+    "AME-GWADALAD-3_MT542862_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2016": {
       "aa_muts": {
         "6K1": [],
         "6K2": [],
         "CI": [],
         "CP": [
-          "E19G",
-          "R34H"
+          "G261V"
         ],
         "HC-Pro": [],
         "NIa": [],
@@ -842,7 +350,80 @@
         "P3": []
       }
     },
-    "MT501399": {
+    "Ak-Sc2-18-4_MT501432_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "V28F",
+          "V43E",
+          "A44T",
+          "N48E",
+          "T62A"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "Al-Sc2-18-2_MT501435_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "A44T",
+          "N48K"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "Am-Sc2-17-2_MT501436_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "S32F",
+          "E38V",
+          "L61I",
+          "G74R",
+          "S84C"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "Am-Sc2-18-3_MT501430_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "D8N",
+          "S37R",
+          "G57S",
+          "N101K",
+          "V246I"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "Au-Sc2-17-1_MT501399_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017": {
       "aa_muts": {
         "6K1": [],
         "6K2": [],
@@ -865,18 +446,16 @@
         "P3": []
       }
     },
-    "MT501413": {
+    "Au-Sc2-18-3_MT501450_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018": {
       "aa_muts": {
         "6K1": [],
         "6K2": [],
         "CI": [],
         "CP": [
-          "A30V",
-          "G35S",
-          "S42F",
-          "A43P",
-          "R66K",
-          "P98S"
+          "A43V",
+          "M195I",
+          "H197R",
+          "S199R"
         ],
         "HC-Pro": [],
         "NIa": [],
@@ -885,18 +464,14 @@
         "P3": []
       }
     },
-    "MT501419": {
+    "Au-Sc2-18-6_MT501434_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018": {
       "aa_muts": {
         "6K1": [],
         "6K2": [],
         "CI": [],
         "CP": [
-          "V28F",
-          "I43V",
-          "A44T",
-          "N48D",
-          "T62A",
-          "G261V"
+          "N37K",
+          "S48R"
         ],
         "HC-Pro": [],
         "NIa": [],
@@ -905,20 +480,51 @@
         "P3": []
       }
     },
-    "MT501444": {
+    "Au-Sc3-17-1_MT501406_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017": {
       "aa_muts": {
         "6K1": [],
         "6K2": [],
         "CI": [],
         "CP": [
-          "V28I",
-          "A30S",
-          "S37N",
+          "S17R"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "B1/C1_AJ244048_Dioscorea-cayenensis-subsp.-rotundata_Benin_1994": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "V28A",
+          "G134D",
+          "A173T"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "B14_AJ244049_Dioscorea-cayenensis-subsp.-rotundata_Benin_1994": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "A20V",
           "T58A",
-          "L61I",
-          "L85F",
-          "K256I",
-          "A258V"
+          "L61S",
+          "S75Y",
+          "R232K",
+          "V264A",
+          "T281I"
         ],
         "HC-Pro": [],
         "NIa": [],
@@ -927,13 +533,283 @@
         "P3": []
       }
     },
-    "MT542851": {
+    "BFC51/C11_AJ244050_Dioscorea-cayenensis-subsp.-rotundata_Burkina-Faso_1992": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "BFC54_AJ244051_Dioscorea-cayenensis-subsp.-rotundata_Burkina-Faso_1992": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "BFC56_AJ244052_Dioscorea-cayenensis-subsp.-rotundata_Burkina-Faso_1992": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "T11A",
+          "G19S",
+          "G48D",
+          "E49G",
+          "D171A",
+          "T173P",
+          "Q175P",
+          "T290A"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "Ben1_OR004217_Dioscorea-cayenensis-subsp.-rotundata_Benin_1996": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "C1/C3_AJ244053_Dioscorea-cayenensis-subsp.-rotundata_Burkina-Faso_1992": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "CAM1/C1_AJ244054_Dioscorea-cayenensis-subsp.-rotundata_Cameroon_1994": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "G36S",
+          "F41S",
+          "R47K",
+          "N48S",
+          "D126N"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "CAM2/C31_AJ244055_Dioscorea-cayenensis-subsp.-rotundata_Cameroon_1994": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "A187V"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "CBE6b/C3_AJ244056_Dioscorea-cayenensis-subsp.-rotundata_Benin_1994": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "V18I",
+          "R23K",
+          "T58K",
+          "S84N"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "CGU1/C18_AJ244057_Dioscorea-cayenensis-subsp.-rotundata_France_1994": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "R79K",
+          "S295C"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "CGU2/C4_AJ244044_Dioscorea-cayenensis-subsp.-rotundata_France_1994": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "K291N"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "CID3/C12_AJ244058_Dioscorea-cayenensis-subsp.-rotundata_Ivory-Coast_1994": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "F270L"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "CKA1/C11_AJ244059_Dioscorea-cayenensis-subsp.-rotundata_Ivory-Coast_1994": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "S20F",
+          "S134R"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "Cam1_OR004208_Dioscorea-cayenensis-subsp.-rotundata_Cameroon_1996": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "Cam2_OR004209_Dioscorea-cayenensis-subsp.-rotundata_Cameroon_1996": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "Cam3_OR004231_Dioscorea-cayenensis-subsp.-rotundata_Cameroon_1996": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "Cam4_OR004218_Dioscorea-cayenensis-subsp.-rotundata_Cameroon_1996": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "Divin_AJ244060_Dioscorea-alata_France_1989": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "S9G",
+          "S37N",
+          "E38G",
+          "A44T",
+          "D51E",
+          "R66K",
+          "V73A",
+          "V76I",
+          "V90I",
+          "V113I",
+          "H114Q",
+          "E139D",
+          "N148M",
+          "G149D",
+          "A285T"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "EK-ILUSHI-1_MT542851_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2016": {
       "aa_muts": {
         "6K1": [],
         "6K2": [],
         "CI": [],
         "CP": [
           "A30V",
+          "L32S",
           "G261V",
           "N262D",
           "K266I"
@@ -945,43 +821,33 @@
         "P3": []
       }
     },
-    "MT542852": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MT542854": {
+    "EK-ILUSHI-2_MT542852_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2016": {
       "aa_muts": {
         "6K1": [],
         "6K2": [],
         "CI": [],
         "CP": [
-          "S42Y"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MT542856": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
+          "K25R",
+          "A30V",
+          "G37D",
           "M151I",
+          "I183V"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "EK-NTEJE-1_MT542853_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2016": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
           "R232S",
-          "Y233S"
+          "Y233N"
         ],
         "HC-Pro": [],
         "NIa": [],
@@ -990,352 +856,12 @@
         "P3": []
       }
     },
-    "MT542857": {
+    "F-Apr-18-5-2_MZ670839_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018": {
       "aa_muts": {
         "6K1": [],
         "6K2": [],
         "CI": [],
         "CP": [
-          "D2G",
-          "I18D",
-          "T20A",
-          "K23R",
-          "I28V",
-          "S29N",
-          "P31S",
-          "T159S"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MT542858": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "D8E",
-          "K21R",
-          "V28S",
-          "S31P",
-          "E38Q",
-          "A44S",
-          "R82K",
-          "L85P",
-          "L91P",
-          "V183I",
-          "K256R"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MT542859": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "S9G",
-          "V18A",
-          "A20T",
-          "S42P",
-          "N48S",
-          "D51G",
-          "G57D",
-          "Y215F",
-          "K256R",
-          "A257S",
-          "Y265T",
-          "K266N",
-          "M267V",
-          "K273E",
-          "E279D",
-          "G287A",
-          "D292T",
-          "H294R",
-          "S295N"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MT542861": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "G15V",
-          "D26S",
-          "P31Q",
-          "G58S",
-          "M151I"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MT542863": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "S9G",
-          "T44M",
-          "D46G",
-          "N48D"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MT542864": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "T50A",
-          "S173A",
-          "G261V"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MT591037": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MT591050": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "Q4H",
-          "T44A"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MT591051": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "K45N",
-          "D51N",
-          "V274L"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MT591058": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "E8D",
-          "E19G",
-          "Q277H"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MT591064": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "V18I",
-          "K27R",
-          "P31S",
-          "V43A",
-          "G58S",
-          "T63I",
-          "A127T",
-          "V183I",
-          "V264I",
-          "M299I"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MT591081": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "D2H"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MZ670800": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "K21R",
-          "A43T",
-          "A62T",
-          "R97K",
-          "S134N",
-          "K266I",
-          "H284R",
-          "M302W"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MZ670802": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "S17N",
-          "A30V",
-          "R34H",
-          "S41F",
-          "K266I",
-          "G275W",
-          "T281S"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MZ670810": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "D2A",
-          "M302W"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MZ670816": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MZ670836": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MZ670837": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "S32L",
-          "P98S"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MZ670839": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "A30V",
-          "G36S",
-          "A62V",
           "R97K"
         ],
         "HC-Pro": [],
@@ -1345,14 +871,26 @@
         "P3": []
       }
     },
-    "MZ670841": {
+    "F-Apr-18-5-L1-2_MZ670838_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "F-Apr-18-5-L3-1_MZ670834_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018": {
       "aa_muts": {
         "6K1": [],
         "6K2": [],
         "CI": [],
         "CP": [
-          "D46N",
-          "R226K"
+          "A44T"
         ],
         "HC-Pro": [],
         "NIa": [],
@@ -1361,66 +899,7 @@
         "P3": []
       }
     },
-    "MZ670842": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "T55A",
-          "H252P",
-          "R300K"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MZ670843": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "T28I",
-          "F41S",
-          "P42S",
-          "V60I",
-          "P245T",
-          "H252P",
-          "A258V",
-          "A264T",
-          "A286T",
-          "N295I"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MZ670844": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "E282G",
-          "V285G",
-          "A286E",
-          "H294Q"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MZ670845": {
+    "F-Apr-19-50-S3_MZ670845_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2019": {
       "aa_muts": {
         "6K1": [],
         "6K2": [],
@@ -1451,551 +930,25 @@
         "P3": []
       }
     },
-    "MZ670854": {
+    "F-Apr-19-50-S4_MZ670843_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2019": {
       "aa_muts": {
         "6K1": [],
         "6K2": [],
         "CI": [],
         "CP": [
-          "D2N",
-          "S32L",
-          "N262Y",
-          "T281L"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MZ670876": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "A123T"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MZ670888": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "T58A",
-          "D126N",
-          "K266I"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MZ670892": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MZ670894": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "Q39C",
-          "A44T"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MZ670922": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "T50A",
-          "T123L",
-          "F135S"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MZ670933": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "T130M",
-          "M196L",
-          "S295T"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MZ670935": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "V18K",
-          "A20E",
-          "R23K",
-          "A44T",
-          "T190P",
-          "S199R",
-          "E213K",
-          "I221F",
-          "Q222P",
-          "Y233N",
-          "E239K",
-          "A248G",
-          "R249G",
-          "M255K",
-          "A259P",
-          "I260F",
-          "H284P",
-          "A285P",
-          "S295T",
-          "R300K"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MZ670936": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "T190P",
-          "R192C",
-          "S242F",
-          "H252P",
-          "G261V",
-          "E282V",
-          "H284L",
-          "A285F",
-          "A286P"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MZ670940": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "D8A",
-          "S9N",
-          "A173T"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MZ670955": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "D2H",
-          "N262K",
-          "S276P",
-          "E278G",
-          "E279K"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MZ670962": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "D2E",
-          "A30V",
-          "G36S",
-          "T50K",
-          "I60V",
-          "E282V",
-          "M293I",
-          "H294Y"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MZ670976": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "D2R",
-          "V28A",
-          "R47K",
-          "T58A"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MZ670997": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "D7E",
-          "M151I",
-          "T281L",
-          "E282G",
-          "M302L"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MZ671006": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "D2A",
-          "T3K",
-          "V289F",
-          "M302W"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MZ671007": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "T18S",
-          "T60I",
-          "H284L"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MZ671016": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "T3K",
-          "H284L"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MZ695336": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "A53V",
-          "T60A",
-          "P98S",
-          "R232S",
-          "Y233F",
-          "K266I"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MZ695339": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MZ695340": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "T123M",
-          "V289F",
-          "D292K"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MZ695341": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MZ695342": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "A30T",
-          "T50A",
-          "A62T",
-          "K97R",
-          "H294P",
-          "G301R"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MZ695343": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "P31S",
-          "I43T",
-          "A44V",
-          "S84N",
-          "M267L",
-          "D292E"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MZ695348": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "T20A",
-          "E49G"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MZ695349": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "T20A",
-          "R40K",
-          "A43V"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MZ695351": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "S32P",
-          "A43V",
-          "T264I",
-          "L296P"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MZ695363": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "A14G",
-          "G15W",
-          "E16R",
-          "A30V",
-          "V43A",
-          "V60A",
-          "A62V",
-          "S134N",
-          "H294Q"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MZ695364": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "P31S",
-          "R300K"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MZ695365": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "Q10R",
-          "V18A",
-          "E19G",
-          "S37N",
-          "A44V",
-          "R45K",
-          "R47G",
-          "G57S",
-          "D288E"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MZ695366": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "D8E",
-          "S17G",
-          "V28F",
           "F41S",
-          "A285S",
+          "S134G",
+          "T190P",
+          "P245T",
+          "H252P",
+          "A258V",
+          "G261V",
+          "N262D",
+          "G269A",
+          "H284L",
+          "A285V",
           "A286T",
-          "R300K"
+          "S295I"
         ],
         "HC-Pro": [],
         "NIa": [],
@@ -2004,17 +957,22 @@
         "P3": []
       }
     },
-    "MZ695372": {
+    "F-Apr-19-50-S5_MZ670844_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2019": {
       "aa_muts": {
         "6K1": [],
         "6K2": [],
         "CI": [],
         "CP": [
-          "S32P",
-          "G35D",
-          "K45R",
-          "G134S",
-          "A258V"
+          "T190P",
+          "G261V",
+          "N262D",
+          "G269A",
+          "E282G",
+          "H284L",
+          "A285G",
+          "A286E",
+          "H294Q",
+          "S295N"
         ],
         "HC-Pro": [],
         "NIa": [],
@@ -2023,15 +981,15 @@
         "P3": []
       }
     },
-    "MZ695374": {
+    "F-May-20-2-X2B_MZ670848_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020": {
       "aa_muts": {
         "6K1": [],
         "6K2": [],
         "CI": [],
         "CP": [
-          "L297W",
-          "G298A",
-          "M299L"
+          "I60T",
+          "T123A",
+          "G134S"
         ],
         "HC-Pro": [],
         "NIa": [],
@@ -2040,15 +998,13 @@
         "P3": []
       }
     },
-    "MZ695381": {
+    "F-May-20-300-2_MZ670812_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020": {
       "aa_muts": {
         "6K1": [],
         "6K2": [],
         "CI": [],
         "CP": [
-          "S32L",
-          "A62T",
-          "I183V"
+          "T281S"
         ],
         "HC-Pro": [],
         "NIa": [],
@@ -2057,79 +1013,22 @@
         "P3": []
       }
     },
-    "MZ695382": {
+    "FAK-ZAKI-1_MT542857_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2016": {
       "aa_muts": {
         "6K1": [],
         "6K2": [],
         "CI": [],
         "CP": [
-          "T63I",
-          "S134R",
-          "G144S",
-          "I151M",
-          "R300K",
-          "G301S"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MZ695384": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MZ695387": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "L296P",
-          "R300K"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MZ695388": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MZ695389": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
+          "D2G",
+          "E8D",
+          "T18D",
+          "T20A",
+          "K23R",
+          "R27K",
           "I28V",
+          "S29N",
           "P31S",
-          "E33G",
-          "D51G",
-          "V73I"
+          "T159S"
         ],
         "HC-Pro": [],
         "NIa": [],
@@ -2138,167 +1037,20 @@
         "P3": []
       }
     },
-    "MZ695390": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "A30T",
-          "R223S"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MZ695391": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "S17K"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MZ695392": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "I12F"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MZ695393": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "K25R",
-          "M43T",
-          "A44T",
-          "E51G",
-          "T62A",
-          "M196L",
-          "R232S",
-          "S242C",
-          "M267T",
-          "Q277L",
-          "E279D"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MZ695402": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "I12L",
-          "S37G",
-          "F41Y",
-          "M151I",
-          "E282V",
-          "H294P"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MZ695405": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "G35S",
-          "A127T",
-          "V246S",
-          "A248G",
-          "R249S",
-          "E250A",
-          "A251D",
-          "H253S",
-          "V264A",
-          "V289F",
-          "D292E"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MZ695408": {
+    "G1-23_MZ695425_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013": {
       "aa_muts": {
         "6K1": [],
         "6K2": [],
         "CI": [],
         "CP": [
           "S9N",
-          "S29G",
-          "G35S",
-          "S37G",
-          "V43M",
-          "T50A",
-          "D51E",
-          "H284I",
-          "G287D",
-          "D288T",
-          "V289Q",
-          "T290P",
-          "K291D"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MZ695411": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "E16G",
-          "S17R",
+          "I18V",
+          "D29G",
           "S31P",
-          "N37T",
-          "F41Y",
-          "S42P",
-          "A43V",
-          "N48D",
-          "G57S",
-          "L85F",
-          "K97R",
-          "T123I"
+          "R34L",
+          "A43T",
+          "D51E",
+          "K97R"
         ],
         "HC-Pro": [],
         "NIa": [],
@@ -2307,7 +1059,54 @@
         "P3": []
       }
     },
-    "MZ695413": {
+    "G1-28_MZ695430_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "I12F",
+          "S17N",
+          "T20I",
+          "S29T",
+          "S31P",
+          "Q39K",
+          "A43E",
+          "P44V",
+          "D51S",
+          "G57D",
+          "P98S",
+          "A173S",
+          "I183V",
+          "K291R"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "G1-32_MZ695434_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "G37S",
+          "A43I",
+          "T44I",
+          "A50S",
+          "G287S"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "G10-1_MZ695439_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2012": {
       "aa_muts": {
         "6K1": [],
         "6K2": [],
@@ -2320,15 +1119,16 @@
         "P3": []
       }
     },
-    "MZ695431": {
+    "G13/C1_AJ244061_Dioscorea-trifida_French-Guiana_1992": {
       "aa_muts": {
         "6K1": [],
         "6K2": [],
         "CI": [],
         "CP": [
-          "K40R",
-          "S42P",
-          "A111T"
+          "S56R",
+          "G57C",
+          "M130L",
+          "G287S"
         ],
         "HC-Pro": [],
         "NIa": [],
@@ -2337,56 +1137,7 @@
         "P3": []
       }
     },
-    "MZ695433": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "S31T",
-          "I43M",
-          "E203D"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MZ695437": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "S9N",
-          "G36D",
-          "E38G",
-          "A53V",
-          "V73I"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MZ695439": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MZ695440": {
+    "G14-2_MZ695440_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2012": {
       "aa_muts": {
         "6K1": [],
         "6K2": [],
@@ -2406,7 +1157,7 @@
         "P3": []
       }
     },
-    "MZ695441": {
+    "G15-16_MZ695413_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013": {
       "aa_muts": {
         "6K1": [],
         "6K2": [],
@@ -2419,69 +1170,7 @@
         "P3": []
       }
     },
-    "MZ695442": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "A44V",
-          "M196L"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MZ695443": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "S9N",
-          "A20V",
-          "A30T",
-          "G35S",
-          "P42S",
-          "S44P",
-          "R45K",
-          "D46G",
-          "K52T",
-          "S55P",
-          "G58S",
-          "V90I",
-          "A127T"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MZ695444": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "D26E",
-          "K40E",
-          "S44L",
-          "S134N",
-          "M151I"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "MZ695445": {
+    "G153-18_MZ695445_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2012": {
       "aa_muts": {
         "6K1": [],
         "6K2": [],
@@ -2497,7 +1186,118 @@
         "P3": []
       }
     },
-    "MZ695446": {
+    "G16-2_MZ695441_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2012": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "A44G",
+          "R66K"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "G1_OQ677004_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2022": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "G2-13_MZ695411_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "E16G",
+          "S17R",
+          "S31P",
+          "N37T",
+          "F41Y",
+          "A43V",
+          "N48D",
+          "G57S",
+          "L85F",
+          "K97R",
+          "T123I"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "G2-33_MZ695435_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "I43M",
+          "K256M"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "G2-4_MZ695403_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "N22T",
+          "N29S",
+          "N48Y",
+          "L61I",
+          "R66K",
+          "K97R",
+          "G144D",
+          "Q277R"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "G20-2_MZ695398_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "S9G",
+          "R95Q",
+          "E282V",
+          "G287S",
+          "D292E"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "G220-25_MZ695446_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2012": {
       "aa_muts": {
         "6K1": [],
         "6K2": [],
@@ -2512,21 +1312,36 @@
         "P3": []
       }
     },
-    "MZ695447": {
+    "G25-33_MZ695437_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "V73I"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "G267-31_MZ695447_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2012": {
       "aa_muts": {
         "6K1": [],
         "6K2": [],
         "CI": [],
         "CP": [
           "S9G",
-          "V18A",
+          "T18A",
           "D26G",
           "R34H",
           "E38G",
           "K40R",
           "D46G",
           "G58D",
-          "V60T",
+          "I60T",
           "S84N",
           "V90I",
           "A111S"
@@ -2538,7 +1353,342 @@
         "P3": []
       }
     },
-    "MZ695448": {
+    "G2_OQ677005_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2022": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "G3-13_MZ695412_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "G3-17_MZ695415_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "R23K",
+          "Q39H",
+          "I43V",
+          "M151I"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "G31-2_MZ695442_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2012": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "M196L"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "G3_OQ677006_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2022": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "G4-12_MZ695410_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "S32P",
+          "R34C",
+          "K52R"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "G4-18_MZ695416_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "T58A",
+          "S134R",
+          "D292T"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "G4-28_MZ695431_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "K40R",
+          "S42P",
+          "A111T"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "G46-5_MZ695443_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2012": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "S9N",
+          "A20V",
+          "A30T",
+          "G35S",
+          "P42S",
+          "S44P",
+          "D46G",
+          "K52T",
+          "S55P",
+          "G58S",
+          "V90I",
+          "A127T",
+          "I183V"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "G4_OQ677007_Dioscorea-alata_Ghana_2022": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "G5-20_MZ695421_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "T40P",
+          "V43A",
+          "D46S",
+          "G58D",
+          "V113I",
+          "R223C",
+          "T290N"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "G5-27_MZ695429_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "I18T",
+          "E19D",
+          "D26G",
+          "D46E",
+          "A53T",
+          "N87S",
+          "A123T",
+          "V289F"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "G5/C10_AJ244062_Dioscorea-trifida_French-Guiana_1992": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "A44V",
+          "A62E",
+          "T63I",
+          "G74R",
+          "G134D"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "G5_OQ677008_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2022": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "G6-19_MZ695419_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "G74R",
+          "G134S"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "G66-8_MZ695444_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2012": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "K40E",
+          "P42S",
+          "S44L",
+          "S134N",
+          "M151I"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "G6_OQ677009_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2022": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "G7_OQ677010_Dioscorea-alata_Ghana_2022": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "G8-10_MZ695407_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "R23K",
+          "P31L",
+          "G36D",
+          "I43T",
+          "K266I",
+          "R283K"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "G8-33_MZ695436_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "D292E",
+          "L296P"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "G84-10_MZ695448_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2012": {
       "aa_muts": {
         "6K1": [],
         "6K2": [],
@@ -2548,6 +1698,1128 @@
           "N22D",
           "A123T"
         ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "G9-21_MZ695422_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "D292E"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "G9_OQ677011_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2022": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "GR/SAVANE/C4_AJ244063_Dioscorea-cayenensis-subsp.-rotundata_France_1991": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "GY/INRA/C11_AJ244045_Dioscorea-trifida_French-Guiana_1991": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "P42S"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "Gh27_OR004219_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2021": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "Gh29_OR004229_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2022": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "Gh30_OR004220_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2021": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "Gh32_OR004223_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2021": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "Gh33_OR004225_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2021": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "Gh34_OR004211_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2021": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "Gh35_OR004222_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2021": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "Gh36_OR004224_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2021": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "Hem-AGYAGU-1_MT542864_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2016": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "T50A",
+          "S173A",
+          "G261V"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "Hem-Sc2-17-2_MT501423_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "E8D",
+          "R40K",
+          "F41V",
+          "T50S",
+          "T123M",
+          "S295T"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "Ivory-Coast_U42596_Dioscorea-sp._Ivory-Coast_1977": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "N29D",
+          "I68T",
+          "Q142E",
+          "S276L",
+          "Q277P"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "LAS-SARKI-3_MT542859_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2016": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "S9G",
+          "V18A",
+          "A20T",
+          "S31P",
+          "N48S",
+          "D51G",
+          "G57D",
+          "Y215F",
+          "K256R",
+          "A257S",
+          "Y265T",
+          "K266N",
+          "M267V",
+          "K273E",
+          "E279D",
+          "G287A",
+          "D292T",
+          "H294R",
+          "S295N"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "Las-Sc2-17-2_MT501448_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "V28S",
+          "A258V",
+          "G261V"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "M1_StoDgo_MK814867_Dioscorea-cayenensis-subsp.-rotundata_Cuba_2014": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "M4_StoDgo_MK814868_Dioscorea-cayenensis-subsp.-rotundata_Cuba_2014": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "MAK-PAK-3_MT542858_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2016": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "D8E",
+          "K21R",
+          "V28S",
+          "S31P",
+          "E38Q",
+          "A44S",
+          "R82K",
+          "L85P",
+          "L91P",
+          "V183I",
+          "K256R"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "MISG_MT591082_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2019": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "MK-GWAD-1_MT542849_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2016": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "G15R",
+          "N37D",
+          "E38G",
+          "R232S",
+          "Y233F"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "MK-GWAD-2_MT542850_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2016": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "G261V",
+          "K266I",
+          "G275C"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "N1-24_MZ695357_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "V28I",
+          "A30V",
+          "I43V",
+          "T58V",
+          "I60T",
+          "P98S",
+          "R249P",
+          "G269V",
+          "D280E",
+          "H284P",
+          "T290P",
+          "R300K"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "N1-33*_MZ695367_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "S17G",
+          "N22K",
+          "N101K",
+          "T123M",
+          "T127A",
+          "D288E",
+          "L296P",
+          "R300K",
+          "G301R"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "N1-41_MZ695378_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "E38D",
+          "G134D",
+          "R300K"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "N12-22_MZ695355_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "V289F",
+          "D292E",
+          "H294P",
+          "R300K"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "N12-40_MZ695375_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "R300K"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "N131-12_MZ695384_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2012": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "N15-7_MZ695342_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2014": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "A30T",
+          "T50A",
+          "A62T",
+          "H294P",
+          "G301R"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "N18-3_MZ695381_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2012": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "A62T",
+          "I183V"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "N19-3_MZ695339_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2014": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "N19-40_MZ695376_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "T18A",
+          "Q39H",
+          "A44V",
+          "G57S",
+          "L296F"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "N1_OQ677012_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2022": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "N2-4_MZ695337_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "V18I",
+          "N48S",
+          "V113I",
+          "A173T",
+          "V264T",
+          "S276F",
+          "V289F",
+          "T290S"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "N21-3_MZ695382_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2012": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "T63I",
+          "S134R",
+          "G144S",
+          "R300K",
+          "G301S"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "N22-30_MZ695363_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "A14G",
+          "G15W",
+          "E16R",
+          "A30V",
+          "V43A",
+          "T60A",
+          "H294Q"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "N24-7_MZ695343_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2014": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "M267L",
+          "D292E"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "N294-26_MZ695385_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2012": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "N299-26_MZ695386_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2012": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "N2_OQ677013_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2022": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "N3-14_MZ695348_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "T20A",
+          "E49G"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "N3-34_MZ695369_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "A53V"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "N3-3_MZ695336_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "A53V",
+          "T60A",
+          "P98S",
+          "R232S",
+          "Y233F",
+          "K266I"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "N300-26_MZ695387_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2012": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "L296P",
+          "R300K"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "N301-26_MZ695388_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2012": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "N323-29_MZ695389_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2012": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "I28V",
+          "P31S",
+          "E33G",
+          "D51G",
+          "V73I"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "N344-31_MZ695390_Dioscorea-esculenta_Nigeria_2012": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "A30T",
+          "R223S"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "N354-31a_MZ695391_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2012": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "S17K"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "N354-31b_MZ695392_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2012": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "I12F"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "N375-34_MZ695393_Dioscorea-cayenensis_Nigeria_2012": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "K25R",
+          "M43T",
+          "A44T",
+          "E51G",
+          "R232S",
+          "S242C",
+          "M267T",
+          "Q277L",
+          "E279D"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "N376-34_MZ695394_Dioscorea-cayenensis_Nigeria_2012": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "D51N"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "N3_OQ677014_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2022": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "A285S"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "N4-23_MZ695356_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "I28S",
+          "E38G",
+          "R47G",
+          "N134S",
+          "R223C",
+          "V246I",
+          "G261V",
+          "D280V",
+          "D292E",
+          "M293L"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "N4_OQ677015_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2022": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "N5_OQ677016_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2022": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "N6-15_MZ695349_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "T20A",
+          "R40K",
+          "A43V"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "N6-35_MZ695370_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "D8E",
+          "S9I",
+          "G15W",
+          "V18G",
+          "P31T",
+          "S32A",
+          "I43L",
+          "A44T",
+          "R47K",
+          "I60T",
+          "V289D",
+          "T290P",
+          "M293L",
+          "S295R"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "N6-41_MZ695379_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "T58A",
+          "H294P",
+          "R300K"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "N63-7_MZ695383_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2012": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "N7-26_MZ695361_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "V28I",
+          "G272C",
+          "D280E",
+          "R300K"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "N7-33_MZ695368_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "I43T",
+          "E49G",
+          "K52R",
+          "I60V",
+          "V113I"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "N7-5_MZ695340_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2014": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "V289F",
+          "D292K"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "N8-30_MZ695362_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "D7G",
+          "A30T",
+          "G35S",
+          "D46E",
+          "I99V",
+          "F135L",
+          "A285S",
+          "R300K"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "N9-16_MZ695350_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "V76I",
+          "D292E"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "N9-25_MZ695359_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "G15E",
+          "E16K",
+          "S17G",
+          "S37G",
+          "A81V",
+          "R300K"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "N9-7_MZ695341_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2014": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
         "HC-Pro": [],
         "NIa": [],
         "NIb": [],
@@ -5380,7 +5652,7 @@
         "6K1": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
         "6K2": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
         "CI": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
-        "CP": "ADTQPDDDGQTIDAGESTGTKNKGKDETNTSSEHNNAEKKTPVSEDRNETNKAQSSGDGILATRDRDIDAGTVGSVLPRLARKNLSNKMVLPMVRGKPILNLDHLVKYEPAQVHLSNTRATQAQFDAWYMAIKSFYELEDEQMGMIMNGLMVWCIENGTSPNLSGMWTMMDGAEQVEYPLKPIIENAKPTFRQIMMHFSDAAEAYIELRNSKEPYMPRYGIQRNLRDYSLARYAFDFLEITSKTPVRAREAHHQMKAAAIGNKVYKMFGFDGKVGSQEEDTERHAAGDVTKDMHSLLGMRGM*",
+        "CP": "ADTQPDDDGQTIDAGESTGTRNKGKGKTNTSSEHSNAGKKTPISEDRSETNKAQSSGDGILATRDRDIDAGTVGSVLPRLARKSLSNKMVLPMVRGKPILNLDHLVKYEPAQVHLSNTRATQAQFDAWYMAIKSFYELEDEQMGMIMNGLMVWCIENGTSPNLSGMWTMMDGAEQVEYPLKPIIENAKPTFRQIMMHFSDAAEAYIELRNSKEPYMPRYGIQRNLRDYSLARYAFDFLEITSKTPVRAREAHHQMKAAAIGNKVYKMFGFDGKVGSQEEDTERHAAGDVTKDMHSLLGMRGM*",
         "HC-Pro": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
         "NIa": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
         "NIb": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
@@ -5394,7 +5666,7 @@
         "6K2": [],
         "CI": [],
         "CP": [
-          "N48S",
+          "S35N",
           "A127V",
           "M170I",
           "Y265N"
@@ -5416,12 +5688,9 @@
           "Q10K",
           "E16K",
           "T20S",
-          "K21R",
           "G24E",
-          "D26G",
-          "E27V",
-          "E38G",
-          "V43I",
+          "K27V",
+          "S84N",
           "L85F",
           "P98S",
           "H114F",
@@ -5444,11 +5713,11 @@
           "T30A",
           "E33G",
           "H34Y",
-          "N35S",
           "N36D",
           "P42L",
           "I43T",
           "S44P",
+          "S48N",
           "R66K",
           "A127T",
           "M143I"
@@ -5483,9 +5752,10 @@
           "D6E",
           "E16A",
           "T18A",
-          "E27K",
+          "R21K",
+          "G26D",
           "S32P",
-          "N48D",
+          "S48G",
           "N51S",
           "G59R",
           "I60A",
@@ -5493,7 +5763,6 @@
           "A62T",
           "R64H",
           "R66K",
-          "N84S",
           "V94I",
           "K97R",
           "D126E",
@@ -5521,10 +5790,87 @@
         "CP": [
           "A14T",
           "S31P",
-          "D48G",
           "T50M",
           "M130T"
         ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000007": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000008": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "G9S",
+          "G19E",
+          "R21K",
+          "G26D",
+          "T28I",
+          "N29S",
+          "T30A",
+          "H34R",
+          "S35G",
+          "N36D",
+          "A37S",
+          "K39Q",
+          "T41F",
+          "I43V",
+          "E45K",
+          "S48N",
+          "N51D",
+          "D58G",
+          "L138F"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000009": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "A30T",
+          "P42S",
+          "V43A",
+          "S44P",
+          "A127T"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000010": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
         "HC-Pro": [],
         "NIa": [],
         "NIb": [],
@@ -5538,22 +5884,11 @@
         "6K2": [],
         "CI": [],
         "CP": [
-          "G9S",
-          "G19E",
-          "E27K",
-          "T28I",
-          "N29S",
-          "T30A",
-          "H34R",
-          "N35G",
-          "N36D",
-          "A37S",
-          "K39Q",
-          "T41F",
-          "E45R",
-          "D58G",
-          "N84S",
-          "L138F"
+          "D36H",
+          "K40T",
+          "F41H",
+          "R47G",
+          "I60V"
         ],
         "HC-Pro": [],
         "NIa": [],
@@ -5568,10 +5903,8 @@
         "6K2": [],
         "CI": [],
         "CP": [
-          "T20A",
-          "D36Y",
-          "R47G",
-          "L61V"
+          "S134N",
+          "G261V"
         ],
         "HC-Pro": [],
         "NIa": [],
@@ -5586,14 +5919,7 @@
         "6K2": [],
         "CI": [],
         "CP": [
-          "Y36H",
-          "E38G",
-          "K40T",
-          "F41H",
-          "R45K",
-          "N51D",
-          "I60V",
-          "V61I"
+          "L61I"
         ],
         "HC-Pro": [],
         "NIa": [],
@@ -5608,8 +5934,12 @@
         "6K2": [],
         "CI": [],
         "CP": [
-          "A20T",
-          "M130I"
+          "V94I",
+          "K97R",
+          "D126E",
+          "M130S",
+          "I132L",
+          "I183V"
         ],
         "HC-Pro": [],
         "NIa": [],
@@ -5624,7 +5954,7 @@
         "6K2": [],
         "CI": [],
         "CP": [
-          "S17N"
+          "G38E"
         ],
         "HC-Pro": [],
         "NIa": [],
@@ -5638,9 +5968,7 @@
         "6K1": [],
         "6K2": [],
         "CI": [],
-        "CP": [
-          "I183V"
-        ],
+        "CP": [],
         "HC-Pro": [],
         "NIa": [],
         "NIb": [],
@@ -5654,7 +5982,12 @@
         "6K2": [],
         "CI": [],
         "CP": [
-          "Y36F"
+          "S17N",
+          "T20A",
+          "D36Y",
+          "R47G",
+          "D51N",
+          "L61V"
         ],
         "HC-Pro": [],
         "NIa": [],
@@ -5664,6 +5997,22 @@
       }
     },
     "NODE_0000018": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "Y36F",
+          "K45R"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000019": {
       "aa_muts": {
         "6K1": [],
         "6K2": [],
@@ -5681,32 +6030,12 @@
         "P3": []
       }
     },
-    "NODE_0000019": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
     "NODE_0000020": {
       "aa_muts": {
         "6K1": [],
         "6K2": [],
         "CI": [],
-        "CP": [
-          "T18I",
-          "S31P",
-          "D36G",
-          "P42S",
-          "S44A",
-          "N51D"
-        ],
+        "CP": [],
         "HC-Pro": [],
         "NIa": [],
         "NIb": [],
@@ -5732,14 +6061,7 @@
         "6K1": [],
         "6K2": [],
         "CI": [],
-        "CP": [
-          "D8E",
-          "S9N",
-          "I18V",
-          "I60V",
-          "T63N",
-          "I183V"
-        ],
+        "CP": [],
         "HC-Pro": [],
         "NIa": [],
         "NIb": [],
@@ -5752,7 +6074,15 @@
         "6K1": [],
         "6K2": [],
         "CI": [],
-        "CP": [],
+        "CP": [
+          "S29N",
+          "A30T",
+          "E33G",
+          "V43A",
+          "A127T",
+          "A173S",
+          "I183V"
+        ],
         "HC-Pro": [],
         "NIa": [],
         "NIb": [],
@@ -5765,11 +6095,7 @@
         "6K1": [],
         "6K2": [],
         "CI": [],
-        "CP": [
-          "S32P",
-          "R47K",
-          "A123T"
-        ],
+        "CP": [],
         "HC-Pro": [],
         "NIa": [],
         "NIb": [],
@@ -5783,9 +6109,11 @@
         "6K2": [],
         "CI": [],
         "CP": [
-          "N48S",
-          "I60V",
-          "S134G"
+          "T18I",
+          "I28V",
+          "S37G",
+          "S44T",
+          "T50A"
         ],
         "HC-Pro": [],
         "NIa": [],
@@ -5799,7 +6127,9 @@
         "6K1": [],
         "6K2": [],
         "CI": [],
-        "CP": [],
+        "CP": [
+          "S134N"
+        ],
         "HC-Pro": [],
         "NIa": [],
         "NIb": [],
@@ -5812,7 +6142,10 @@
         "6K1": [],
         "6K2": [],
         "CI": [],
-        "CP": [],
+        "CP": [
+          "N29D",
+          "I60V"
+        ],
         "HC-Pro": [],
         "NIa": [],
         "NIb": [],
@@ -5826,7 +6159,11 @@
         "6K2": [],
         "CI": [],
         "CP": [
-          "S9G"
+          "T18N",
+          "K21R",
+          "S37N",
+          "I60V",
+          "A123T"
         ],
         "HC-Pro": [],
         "NIa": [],
@@ -5840,11 +6177,7 @@
         "6K1": [],
         "6K2": [],
         "CI": [],
-        "CP": [
-          "D8E",
-          "V60A",
-          "F138L"
-        ],
+        "CP": [],
         "HC-Pro": [],
         "NIa": [],
         "NIb": [],
@@ -5858,15 +6191,7 @@
         "6K2": [],
         "CI": [],
         "CP": [
-          "S17N",
-          "I18V",
-          "K21R",
-          "K23R",
-          "P32S",
-          "V43A",
-          "K47R",
-          "A60T",
-          "G134D"
+          "D26E"
         ],
         "HC-Pro": [],
         "NIa": [],
@@ -5881,25 +6206,9 @@
         "6K2": [],
         "CI": [],
         "CP": [
-          "I18T",
-          "T20I",
-          "S29N",
-          "A30T",
-          "P31S",
-          "E33N",
-          "K40E",
-          "S42P",
-          "V43K",
-          "D46N",
-          "A53T",
-          "R95K",
-          "K97R",
-          "N101D",
-          "D126N",
-          "P161S",
-          "I240V",
-          "N262S",
-          "Y265N"
+          "D8E",
+          "N22S",
+          "P42S"
         ],
         "HC-Pro": [],
         "NIa": [],
@@ -5926,9 +6235,7 @@
         "6K1": [],
         "6K2": [],
         "CI": [],
-        "CP": [
-          "A127T"
-        ],
+        "CP": [],
         "HC-Pro": [],
         "NIa": [],
         "NIb": [],
@@ -5941,10 +6248,7 @@
         "6K1": [],
         "6K2": [],
         "CI": [],
-        "CP": [
-          "S9G",
-          "K52R"
-        ],
+        "CP": [],
         "HC-Pro": [],
         "NIa": [],
         "NIb": [],
@@ -5958,14 +6262,11 @@
         "6K2": [],
         "CI": [],
         "CP": [
-          "D8G",
-          "I18T",
-          "E19D",
-          "G36D",
-          "D46N",
-          "N48S",
-          "G58S",
-          "V264T"
+          "T18I",
+          "S31P",
+          "D36G",
+          "P42S",
+          "S44A"
         ],
         "HC-Pro": [],
         "NIa": [],
@@ -6006,14 +6307,13 @@
         "6K2": [],
         "CI": [],
         "CP": [
-          "S17N",
-          "I28V",
-          "A30T",
-          "P32L",
-          "S37N",
-          "V43I",
-          "I60T",
-          "G287S"
+          "S9G",
+          "I18T",
+          "T20I",
+          "A62T",
+          "A123T",
+          "A127T",
+          "F138L"
         ],
         "HC-Pro": [],
         "NIa": [],
@@ -6028,7 +6328,8 @@
         "6K2": [],
         "CI": [],
         "CP": [
-          "V264T"
+          "K45R",
+          "I60V"
         ],
         "HC-Pro": [],
         "NIa": [],
@@ -6042,7 +6343,11 @@
         "6K1": [],
         "6K2": [],
         "CI": [],
-        "CP": [],
+        "CP": [
+          "S32P",
+          "V43E",
+          "R47K"
+        ],
         "HC-Pro": [],
         "NIa": [],
         "NIb": [],
@@ -6055,7 +6360,33 @@
         "6K1": [],
         "6K2": [],
         "CI": [],
-        "CP": [],
+        "CP": [
+          "D8E",
+          "I18T",
+          "T20I",
+          "S29N",
+          "A30T",
+          "P31S",
+          "E33N",
+          "K40E",
+          "S42P",
+          "E43K",
+          "D46N",
+          "N48S",
+          "A53T",
+          "V60A",
+          "R95K",
+          "K97R",
+          "N101D",
+          "A123T",
+          "D126N",
+          "S134G",
+          "F138L",
+          "P161S",
+          "I240V",
+          "N262S",
+          "Y265N"
+        ],
         "HC-Pro": [],
         "NIa": [],
         "NIb": [],
@@ -6068,11 +6399,7 @@
         "6K1": [],
         "6K2": [],
         "CI": [],
-        "CP": [
-          "P32S",
-          "R45K",
-          "V264T"
-        ],
+        "CP": [],
         "HC-Pro": [],
         "NIa": [],
         "NIb": [],
@@ -6098,11 +6425,7 @@
         "6K1": [],
         "6K2": [],
         "CI": [],
-        "CP": [
-          "T20A",
-          "A53T",
-          "G58S"
-        ],
+        "CP": [],
         "HC-Pro": [],
         "NIa": [],
         "NIb": [],
@@ -6115,13 +6438,7 @@
         "6K1": [],
         "6K2": [],
         "CI": [],
-        "CP": [
-          "I28T",
-          "S42P",
-          "I60V",
-          "S134G",
-          "T264A"
-        ],
+        "CP": [],
         "HC-Pro": [],
         "NIa": [],
         "NIb": [],
@@ -6135,13 +6452,10 @@
         "6K2": [],
         "CI": [],
         "CP": [
-          "T190P",
-          "G261V",
-          "N262D",
-          "G269A",
-          "H284L",
-          "A285V",
-          "S295N"
+          "D8E",
+          "I18V",
+          "V60T",
+          "S134N"
         ],
         "HC-Pro": [],
         "NIa": [],
@@ -6156,10 +6470,10 @@
         "6K2": [],
         "CI": [],
         "CP": [
-          "K40R",
-          "V43A",
-          "I60T",
-          "K97R"
+          "S9N",
+          "A62V",
+          "T63N",
+          "I183V"
         ],
         "HC-Pro": [],
         "NIa": [],
@@ -6174,7 +6488,11 @@
         "6K2": [],
         "CI": [],
         "CP": [
-          "K27R"
+          "S17N",
+          "K21R",
+          "K23R",
+          "A123T",
+          "F138L"
         ],
         "HC-Pro": [],
         "NIa": [],
@@ -6188,9 +6506,7 @@
         "6K1": [],
         "6K2": [],
         "CI": [],
-        "CP": [
-          "A44T"
-        ],
+        "CP": [],
         "HC-Pro": [],
         "NIa": [],
         "NIb": [],
@@ -6216,7 +6532,11 @@
         "6K1": [],
         "6K2": [],
         "CI": [],
-        "CP": [],
+        "CP": [
+          "R47K",
+          "A123T",
+          "A127T"
+        ],
         "HC-Pro": [],
         "NIa": [],
         "NIb": [],
@@ -6230,11 +6550,10 @@
         "6K2": [],
         "CI": [],
         "CP": [
-          "D8E",
-          "I18T",
-          "P31S",
-          "S37G",
-          "A62T"
+          "S9G",
+          "S32P",
+          "K45R",
+          "K52R"
         ],
         "HC-Pro": [],
         "NIa": [],
@@ -6249,8 +6568,29 @@
         "6K2": [],
         "CI": [],
         "CP": [
-          "G36D",
-          "F138L"
+          "S17N",
+          "I28V",
+          "A30T",
+          "P32L",
+          "S37N",
+          "V43I",
+          "I60T",
+          "G287S"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000054": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "V264T"
         ],
         "HC-Pro": [],
         "NIa": [],
@@ -6290,7 +6630,16 @@
         "6K1": [],
         "6K2": [],
         "CI": [],
-        "CP": [],
+        "CP": [
+          "D8G",
+          "I18T",
+          "E19D",
+          "G36D",
+          "D46N",
+          "N48S",
+          "G58S",
+          "V264T"
+        ],
         "HC-Pro": [],
         "NIa": [],
         "NIb": [],
@@ -6316,7 +6665,10 @@
         "6K1": [],
         "6K2": [],
         "CI": [],
-        "CP": [],
+        "CP": [
+          "L297I",
+          "G301V"
+        ],
         "HC-Pro": [],
         "NIa": [],
         "NIb": [],
@@ -6337,7 +6689,7 @@
         "P3": []
       }
     },
-    "NODE_0000062": {
+    "NODE_0000061": {
       "aa_muts": {
         "6K1": [],
         "6K2": [],
@@ -6363,25 +6715,6 @@
         "P3": []
       }
     },
-    "NODE_0000064": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "T20A",
-          "I28V",
-          "S37G",
-          "K47R",
-          "G58S"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
     "NODE_0000065": {
       "aa_muts": {
         "6K1": [],
@@ -6400,10 +6733,7 @@
         "6K1": [],
         "6K2": [],
         "CI": [],
-        "CP": [
-          "L297I",
-          "G301V"
-        ],
+        "CP": [],
         "HC-Pro": [],
         "NIa": [],
         "NIb": [],
@@ -6416,10 +6746,7 @@
         "6K1": [],
         "6K2": [],
         "CI": [],
-        "CP": [
-          "D8E",
-          "I18T"
-        ],
+        "CP": [],
         "HC-Pro": [],
         "NIa": [],
         "NIb": [],
@@ -6432,11 +6759,7 @@
         "6K1": [],
         "6K2": [],
         "CI": [],
-        "CP": [
-          "R27K",
-          "I28T",
-          "T60A"
-        ],
+        "CP": [],
         "HC-Pro": [],
         "NIa": [],
         "NIb": [],
@@ -6449,7 +6772,9 @@
         "6K1": [],
         "6K2": [],
         "CI": [],
-        "CP": [],
+        "CP": [
+          "V264T"
+        ],
         "HC-Pro": [],
         "NIa": [],
         "NIb": [],
@@ -6476,7 +6801,11 @@
         "6K2": [],
         "CI": [],
         "CP": [
-          "N48S"
+          "I28T",
+          "S42P",
+          "I60V",
+          "S134G",
+          "T264A"
         ],
         "HC-Pro": [],
         "NIa": [],
@@ -6503,7 +6832,11 @@
         "6K1": [],
         "6K2": [],
         "CI": [],
-        "CP": [],
+        "CP": [
+          "T20A",
+          "A53T",
+          "G58S"
+        ],
         "HC-Pro": [],
         "NIa": [],
         "NIb": [],
@@ -6517,8 +6850,13 @@
         "6K2": [],
         "CI": [],
         "CP": [
+          "D8E",
+          "I18T",
+          "K27R",
           "S37G",
-          "T60I"
+          "K40R",
+          "V43A",
+          "I60T"
         ],
         "HC-Pro": [],
         "NIa": [],
@@ -6533,7 +6871,12 @@
         "6K2": [],
         "CI": [],
         "CP": [
-          "S37G"
+          "G37D",
+          "E38G",
+          "S134N",
+          "F138L",
+          "W153R",
+          "T264V"
         ],
         "HC-Pro": [],
         "NIa": [],
@@ -6548,9 +6891,7 @@
         "6K2": [],
         "CI": [],
         "CP": [
-          "G37D",
-          "E38G",
-          "A173T"
+          "K97R"
         ],
         "HC-Pro": [],
         "NIa": [],
@@ -6565,7 +6906,10 @@
         "6K2": [],
         "CI": [],
         "CP": [
-          "R97K"
+          "R27K",
+          "I28T",
+          "G37S",
+          "T60A"
         ],
         "HC-Pro": [],
         "NIa": [],
@@ -6593,7 +6937,7 @@
         "6K2": [],
         "CI": [],
         "CP": [
-          "G261V"
+          "S32L"
         ],
         "HC-Pro": [],
         "NIa": [],
@@ -6607,7 +6951,9 @@
         "6K1": [],
         "6K2": [],
         "CI": [],
-        "CP": [],
+        "CP": [
+          "N262Y"
+        ],
         "HC-Pro": [],
         "NIa": [],
         "NIb": [],
@@ -6621,7 +6967,7 @@
         "6K2": [],
         "CI": [],
         "CP": [
-          "T173A"
+          "M196L"
         ],
         "HC-Pro": [],
         "NIa": [],
@@ -6656,27 +7002,12 @@
         "P3": []
       }
     },
-    "NODE_0000084": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
     "NODE_0000085": {
       "aa_muts": {
         "6K1": [],
         "6K2": [],
         "CI": [],
-        "CP": [
-          "M151I"
-        ],
+        "CP": [],
         "HC-Pro": [],
         "NIa": [],
         "NIb": [],
@@ -6690,10 +7021,7 @@
         "6K2": [],
         "CI": [],
         "CP": [
-          "K25R",
-          "A30V",
-          "G37D",
-          "I183V"
+          "G37S"
         ],
         "HC-Pro": [],
         "NIa": [],
@@ -6707,7 +7035,9 @@
         "6K1": [],
         "6K2": [],
         "CI": [],
-        "CP": [],
+        "CP": [
+          "N48S"
+        ],
         "HC-Pro": [],
         "NIa": [],
         "NIb": [],
@@ -6720,7 +7050,14 @@
         "6K1": [],
         "6K2": [],
         "CI": [],
-        "CP": [],
+        "CP": [
+          "K21R",
+          "A43T",
+          "A62T",
+          "R97K",
+          "S134N",
+          "M302I"
+        ],
         "HC-Pro": [],
         "NIa": [],
         "NIb": [],
@@ -6754,41 +7091,12 @@
         "P3": []
       }
     },
-    "NODE_0000091": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "I18V",
-          "I28V",
-          "R45K",
-          "A62T",
-          "I183V"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
     "NODE_0000092": {
       "aa_muts": {
         "6K1": [],
         "6K2": [],
         "CI": [],
-        "CP": [
-          "A30T",
-          "P31S",
-          "E33G",
-          "G36D",
-          "S42P",
-          "A44T",
-          "I60V",
-          "A127T",
-          "A173S"
-        ],
+        "CP": [],
         "HC-Pro": [],
         "NIa": [],
         "NIb": [],
@@ -6801,13 +7109,7 @@
         "6K1": [],
         "6K2": [],
         "CI": [],
-        "CP": [
-          "V28I",
-          "S29N",
-          "V43A",
-          "T44S",
-          "T62A"
-        ],
+        "CP": [],
         "HC-Pro": [],
         "NIa": [],
         "NIb": [],
@@ -6820,13 +7122,7 @@
         "6K1": [],
         "6K2": [],
         "CI": [],
-        "CP": [
-          "V18N",
-          "K21R",
-          "S37N",
-          "P42S",
-          "A123T"
-        ],
+        "CP": [],
         "HC-Pro": [],
         "NIa": [],
         "NIb": [],
@@ -6839,7 +7135,9 @@
         "6K1": [],
         "6K2": [],
         "CI": [],
-        "CP": [],
+        "CP": [
+          "H294P"
+        ],
         "HC-Pro": [],
         "NIa": [],
         "NIb": [],
@@ -6852,10 +7150,7 @@
         "6K1": [],
         "6K2": [],
         "CI": [],
-        "CP": [
-          "D8E",
-          "N22S"
-        ],
+        "CP": [],
         "HC-Pro": [],
         "NIa": [],
         "NIb": [],
@@ -6868,7 +7163,10 @@
         "6K1": [],
         "6K2": [],
         "CI": [],
-        "CP": [],
+        "CP": [
+          "G37D",
+          "E38G"
+        ],
         "HC-Pro": [],
         "NIa": [],
         "NIb": [],
@@ -6881,7 +7179,9 @@
         "6K1": [],
         "6K2": [],
         "CI": [],
-        "CP": [],
+        "CP": [
+          "R97K"
+        ],
         "HC-Pro": [],
         "NIa": [],
         "NIb": [],
@@ -6894,7 +7194,9 @@
         "6K1": [],
         "6K2": [],
         "CI": [],
-        "CP": [],
+        "CP": [
+          "A173T"
+        ],
         "HC-Pro": [],
         "NIa": [],
         "NIb": [],
@@ -6920,16 +7222,7 @@
         "6K1": [],
         "6K2": [],
         "CI": [],
-        "CP": [
-          "D8E",
-          "T20A",
-          "V28I",
-          "P31S",
-          "K40R",
-          "V43A",
-          "A44T",
-          "A127T"
-        ],
+        "CP": [],
         "HC-Pro": [],
         "NIa": [],
         "NIb": [],
@@ -6943,7 +7236,7 @@
         "6K2": [],
         "CI": [],
         "CP": [
-          "K23R"
+          "S42Y"
         ],
         "HC-Pro": [],
         "NIa": [],
@@ -6957,11 +7250,7 @@
         "6K1": [],
         "6K2": [],
         "CI": [],
-        "CP": [
-          "S29N",
-          "V43I",
-          "S134G"
-        ],
+        "CP": [],
         "HC-Pro": [],
         "NIa": [],
         "NIb": [],
@@ -6974,7 +7263,11 @@
         "6K1": [],
         "6K2": [],
         "CI": [],
-        "CP": [],
+        "CP": [
+          "A30V",
+          "G36S",
+          "A62V"
+        ],
         "HC-Pro": [],
         "NIa": [],
         "NIb": [],
@@ -6988,14 +7281,7 @@
         "6K2": [],
         "CI": [],
         "CP": [
-          "A30V",
-          "S42P",
-          "I43M",
-          "D51E",
-          "I60V",
-          "A123T",
-          "G134D",
-          "V264T"
+          "M151I"
         ],
         "HC-Pro": [],
         "NIa": [],
@@ -7010,8 +7296,8 @@
         "6K2": [],
         "CI": [],
         "CP": [
-          "P31Q",
-          "M130T"
+          "R192L",
+          "K263M"
         ],
         "HC-Pro": [],
         "NIa": [],
@@ -7051,10 +7337,7 @@
         "6K1": [],
         "6K2": [],
         "CI": [],
-        "CP": [
-          "T20A",
-          "G58A"
-        ],
+        "CP": [],
         "HC-Pro": [],
         "NIa": [],
         "NIb": [],
@@ -7068,11 +7351,10 @@
         "6K2": [],
         "CI": [],
         "CP": [
-          "D8G",
-          "N22S",
-          "E38G",
-          "R47G",
-          "Q54R"
+          "E8A",
+          "S9N",
+          "G37S",
+          "A173T"
         ],
         "HC-Pro": [],
         "NIa": [],
@@ -7086,9 +7368,7 @@
         "6K1": [],
         "6K2": [],
         "CI": [],
-        "CP": [
-          "A58T"
-        ],
+        "CP": [],
         "HC-Pro": [],
         "NIa": [],
         "NIb": [],
@@ -7114,7 +7394,13 @@
         "6K1": [],
         "6K2": [],
         "CI": [],
-        "CP": [],
+        "CP": [
+          "K21R",
+          "R27K",
+          "R40K",
+          "I183V",
+          "H284L"
+        ],
         "HC-Pro": [],
         "NIa": [],
         "NIb": [],
@@ -7127,7 +7413,9 @@
         "6K1": [],
         "6K2": [],
         "CI": [],
-        "CP": [],
+        "CP": [
+          "G37S"
+        ],
         "HC-Pro": [],
         "NIa": [],
         "NIb": [],
@@ -7154,8 +7442,7 @@
         "6K2": [],
         "CI": [],
         "CP": [
-          "P31S",
-          "S55T"
+          "M151I"
         ],
         "HC-Pro": [],
         "NIa": [],
@@ -7170,9 +7457,8 @@
         "6K2": [],
         "CI": [],
         "CP": [
-          "S9G",
-          "A127T",
-          "G134S"
+          "R40K",
+          "A62T"
         ],
         "HC-Pro": [],
         "NIa": [],
@@ -7186,7 +7472,9 @@
         "6K1": [],
         "6K2": [],
         "CI": [],
-        "CP": [],
+        "CP": [
+          "S32L"
+        ],
         "HC-Pro": [],
         "NIa": [],
         "NIb": [],
@@ -7212,7 +7500,10 @@
         "6K1": [],
         "6K2": [],
         "CI": [],
-        "CP": [],
+        "CP": [
+          "P98S",
+          "M302L"
+        ],
         "HC-Pro": [],
         "NIa": [],
         "NIb": [],
@@ -7225,7 +7516,9 @@
         "6K1": [],
         "6K2": [],
         "CI": [],
-        "CP": [],
+        "CP": [
+          "M151I"
+        ],
         "HC-Pro": [],
         "NIa": [],
         "NIb": [],
@@ -7238,9 +7531,7 @@
         "6K1": [],
         "6K2": [],
         "CI": [],
-        "CP": [
-          "F41S"
-        ],
+        "CP": [],
         "HC-Pro": [],
         "NIa": [],
         "NIb": [],
@@ -7253,9 +7544,20 @@
         "6K1": [],
         "6K2": [],
         "CI": [],
-        "CP": [
-          "G261V"
-        ],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000124": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
         "HC-Pro": [],
         "NIa": [],
         "NIb": [],
@@ -7268,7 +7570,11 @@
         "6K1": [],
         "6K2": [],
         "CI": [],
-        "CP": [],
+        "CP": [
+          "P31S",
+          "A44T",
+          "A62T"
+        ],
         "HC-Pro": [],
         "NIa": [],
         "NIb": [],
@@ -7281,7 +7587,9 @@
         "6K1": [],
         "6K2": [],
         "CI": [],
-        "CP": [],
+        "CP": [
+          "F138L"
+        ],
         "HC-Pro": [],
         "NIa": [],
         "NIb": [],
@@ -7290,6 +7598,21 @@
       }
     },
     "NODE_0000127": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "T123M"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000128": {
       "aa_muts": {
         "6K1": [],
         "6K2": [],
@@ -7307,9 +7630,7 @@
         "6K1": [],
         "6K2": [],
         "CI": [],
-        "CP": [
-          "S31P"
-        ],
+        "CP": [],
         "HC-Pro": [],
         "NIa": [],
         "NIb": [],
@@ -7323,9 +7644,7 @@
         "6K2": [],
         "CI": [],
         "CP": [
-          "S42P",
-          "I60T",
-          "G134S"
+          "T60I"
         ],
         "HC-Pro": [],
         "NIa": [],
@@ -7352,9 +7671,7 @@
         "6K1": [],
         "6K2": [],
         "CI": [],
-        "CP": [
-          "G261V"
-        ],
+        "CP": [],
         "HC-Pro": [],
         "NIa": [],
         "NIb": [],
@@ -7375,7 +7692,7 @@
         "P3": []
       }
     },
-    "NODE_0000138": {
+    "NODE_0000137": {
       "aa_muts": {
         "6K1": [],
         "6K2": [],
@@ -7388,15 +7705,28 @@
         "P3": []
       }
     },
-    "NODE_0000139": {
+    "NODE_0000138": {
       "aa_muts": {
         "6K1": [],
         "6K2": [],
         "CI": [],
         "CP": [
-          "A44G",
-          "R66K"
+          "G37S",
+          "A44V"
         ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000139": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
         "HC-Pro": [],
         "NIa": [],
         "NIb": [],
@@ -7410,10 +7740,10 @@
         "6K2": [],
         "CI": [],
         "CP": [
-          "A30V",
-          "S37N",
-          "V60I",
-          "S134G"
+          "I18V",
+          "T20A",
+          "A62T",
+          "I183V"
         ],
         "HC-Pro": [],
         "NIa": [],
@@ -7427,7 +7757,57 @@
         "6K1": [],
         "6K2": [],
         "CI": [],
-        "CP": [],
+        "CP": [
+          "D8E",
+          "P31S",
+          "K40R",
+          "V43A",
+          "A44T",
+          "A127T"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000142": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "K23R",
+          "I28V",
+          "S29N",
+          "S134G"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000143": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "A20T",
+          "A30V",
+          "S42P",
+          "V43M",
+          "D51E",
+          "I60V",
+          "T62A",
+          "A123T",
+          "G134D",
+          "M196L",
+          "V264T"
+        ],
         "HC-Pro": [],
         "NIa": [],
         "NIb": [],
@@ -7441,7 +7821,7 @@
         "6K2": [],
         "CI": [],
         "CP": [
-          "V113I"
+          "P31Q"
         ],
         "HC-Pro": [],
         "NIa": [],
@@ -7455,7 +7835,9 @@
         "6K1": [],
         "6K2": [],
         "CI": [],
-        "CP": [],
+        "CP": [
+          "G58T"
+        ],
         "HC-Pro": [],
         "NIa": [],
         "NIb": [],
@@ -7482,7 +7864,7 @@
         "6K2": [],
         "CI": [],
         "CP": [
-          "R23K"
+          "V246I"
         ],
         "HC-Pro": [],
         "NIa": [],
@@ -7496,22 +7878,6 @@
         "6K1": [],
         "6K2": [],
         "CI": [],
-        "CP": [
-          "P31T",
-          "V90I"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "NODE_0000149": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
         "CP": [],
         "HC-Pro": [],
         "NIa": [],
@@ -7521,19 +7887,6 @@
       }
     },
     "NODE_0000150": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "NODE_0000151": {
       "aa_muts": {
         "6K1": [],
         "6K2": [],
@@ -7577,7 +7930,19 @@
         "6K1": [],
         "6K2": [],
         "CI": [],
-        "CP": [],
+        "CP": [
+          "D7E",
+          "V18T",
+          "A20T",
+          "R23K",
+          "V28I",
+          "S37N",
+          "K40R",
+          "V43A",
+          "A44T",
+          "R47K",
+          "N48S"
+        ],
         "HC-Pro": [],
         "NIa": [],
         "NIb": [],
@@ -7590,9 +7955,7 @@
         "6K1": [],
         "6K2": [],
         "CI": [],
-        "CP": [
-          "A173T"
-        ],
+        "CP": [],
         "HC-Pro": [],
         "NIa": [],
         "NIb": [],
@@ -7606,7 +7969,9 @@
         "6K2": [],
         "CI": [],
         "CP": [
-          "F41S"
+          "N37D",
+          "V90T",
+          "P98S"
         ],
         "HC-Pro": [],
         "NIa": [],
@@ -7621,7 +7986,7 @@
         "6K2": [],
         "CI": [],
         "CP": [
-          "S37G"
+          "D8E"
         ],
         "HC-Pro": [],
         "NIa": [],
@@ -7648,7 +8013,10 @@
         "6K1": [],
         "6K2": [],
         "CI": [],
-        "CP": [],
+        "CP": [
+          "G35S",
+          "K45R"
+        ],
         "HC-Pro": [],
         "NIa": [],
         "NIb": [],
@@ -7657,74 +8025,6 @@
       }
     },
     "NODE_0000160": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "NODE_0000161": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "I43T",
-          "A44T"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "NODE_0000162": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "D7E",
-          "D8E"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "NODE_0000163": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [
-          "V18T",
-          "A20T",
-          "R23K",
-          "V28I",
-          "S37N",
-          "K40R",
-          "T43A",
-          "R47K",
-          "N48S"
-        ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "NODE_0000164": {
       "aa_muts": {
         "6K1": [],
         "6K2": [],
@@ -7739,7 +8039,74 @@
         "P3": []
       }
     },
+    "NODE_0000161": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000162": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000163": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000164": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
     "NODE_0000165": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "V43I"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000166": {
       "aa_muts": {
         "6K1": [],
         "6K2": [],
@@ -7758,34 +8125,8 @@
         "6K2": [],
         "CI": [],
         "CP": [
-          "D2E",
-          "T3K",
-          "V18T",
-          "A20T",
-          "N22K",
-          "R23K",
-          "V28I",
-          "R34S",
-          "S37N",
-          "S42F",
-          "T43A",
-          "N48S",
-          "T58A",
-          "N157K"
+          "M151I"
         ],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "NODE_0000168": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [],
         "HC-Pro": [],
         "NIa": [],
         "NIb": [],
@@ -7825,6 +8166,22 @@
         "6K2": [],
         "CI": [],
         "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000172": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "I60V",
+          "G134S"
+        ],
         "HC-Pro": [],
         "NIa": [],
         "NIb": [],
@@ -7876,7 +8233,10 @@
         "6K1": [],
         "6K2": [],
         "CI": [],
-        "CP": [],
+        "CP": [
+          "I43R",
+          "R47G"
+        ],
         "HC-Pro": [],
         "NIa": [],
         "NIb": [],
@@ -7889,6 +8249,53 @@
         "6K1": [],
         "6K2": [],
         "CI": [],
+        "CP": [
+          "S17N"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000180": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "I43T",
+          "A44V"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000181": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "P31S",
+          "S84N"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000182": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
         "CP": [],
         "HC-Pro": [],
         "NIa": [],
@@ -7897,12 +8304,42 @@
         "P3": []
       }
     },
-    "NODE_0000178": {
+    "NODE_0000183": {
       "aa_muts": {
         "6K1": [],
         "6K2": [],
         "CI": [],
         "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000184": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000185": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "N48S",
+          "D51N",
+          "I60V"
+        ],
         "HC-Pro": [],
         "NIa": [],
         "NIb": [],
@@ -7915,9 +8352,47 @@
         "6K1": [],
         "6K2": [],
         "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000187": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000188": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000190": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
         "CP": [
-          "I60V",
-          "G134S"
+          "S84N"
         ],
         "HC-Pro": [],
         "NIa": [],
@@ -7939,7 +8414,7 @@
         "P3": []
       }
     },
-    "NODE_0000200": {
+    "NODE_0000192": {
       "aa_muts": {
         "6K1": [],
         "6K2": [],
@@ -7952,7 +8427,204 @@
         "P3": []
       }
     },
+    "NODE_0000193": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000194": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000195": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000196": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "A30V",
+          "S37N"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000197": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000198": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000199": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000200": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "V113I"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000201": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000202": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000203": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "R23K"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
     "NODE_0000204": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000205": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "P31T",
+          "V90I"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000206": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "S9N",
+          "G36D",
+          "E38G",
+          "A53V"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000207": {
       "aa_muts": {
         "6K1": [],
         "6K2": [],
@@ -7991,7 +8663,24 @@
         "P3": []
       }
     },
-    "OK239701": {
+    "NODE_0000218": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "G35S",
+          "A127T",
+          "A173T"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000219": {
       "aa_muts": {
         "6K1": [],
         "6K2": [],
@@ -8004,7 +8693,7 @@
         "P3": []
       }
     },
-    "OK239702": {
+    "NODE_0000220": {
       "aa_muts": {
         "6K1": [],
         "6K2": [],
@@ -8017,7 +8706,1904 @@
         "P3": []
       }
     },
-    "OL739290": {
+    "NODE_0000222": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "I60V"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000223": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "A30V",
+          "T50K",
+          "M302R"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000224": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "S42P"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000225": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "I60T",
+          "G134S"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000226": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "G261V"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000227": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000229": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000230": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000231": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "V113I"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000232": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000233": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000234": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000235": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "R34H"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000236": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000237": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "S9G",
+          "A127T",
+          "G134S"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000238": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "F41S"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000239": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000240": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000241": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "S295I",
+          "L296F"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000242": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000243": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "G261V"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000244": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000245": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000246": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000247": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000248": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000249": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000250": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "S17R",
+          "V18I",
+          "A20E"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000251": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000252": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "H284P",
+          "A285S"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000253": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000254": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000255": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000256": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000269": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "P31S",
+          "S55T"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000270": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000274": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000275": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000283": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000288": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "A123T"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000293": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000294": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000295": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000296": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000302": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000303": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "NODE_0000305": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "Nig10_OR004212_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2022": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "Nig11_OR004215_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2022": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "Nig12_OR004216_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2022": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "Nig13_OR004214_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2022": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "Nig2_OR004232_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_1996": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "Nig3_OR004228_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2022": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "Nig4_OR004221_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2022": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "Nig5_OR004213_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2022": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "Nig6_OR004226_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_1996": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "POGNON/C1_AJ244064_Dioscorea-cayenensis-subsp.-rotundata_France_1994": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "R-Apr-17-m2-1_MZ670868_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "R-Apr-17-pT2-3_MZ670874_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "N22S",
+          "G36S",
+          "F41S",
+          "N48D",
+          "S55P",
+          "T58V",
+          "P98S",
+          "A127S",
+          "G144S",
+          "G261V"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "R-Aug-18-5-pT1_MZ670878_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "M302R"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "R-Aug-18-5-pT2_MZ670898_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "K45R"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "R-Aug-18-5-pT4_MZ670889_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "R-Aug-18-5-pT6_MZ670921_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "A127T",
+          "M151I",
+          "T159S",
+          "G261V",
+          "E282V"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "R-Aug-18-5-pT8_MZ670906_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "E8G",
+          "H284L"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "R-Aug-18-5-pT9_MZ670915_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "G261V"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "R-Aug-19-50-pT2_MZ670926_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2019": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "K25I"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "R-Aug-19-50-pT6_MZ670943_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2019": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "D2Q",
+          "D8E",
+          "S9K",
+          "T20A",
+          "G35D",
+          "D36N",
+          "K45R",
+          "T50A",
+          "L61F",
+          "S134N"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "R-Aug-19-50-pT7_MZ670934_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2019": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "D2K",
+          "T3A",
+          "Q4H",
+          "S9K",
+          "R82K",
+          "E109D",
+          "H197Y",
+          "N224I",
+          "H252P",
+          "G269V",
+          "S295T"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "R-Aug-20-2-V1BB-1_MZ671018_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "L284H"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "R-Aug-20-2-V1TB-1_MZ671012_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "Q4H",
+          "P5L",
+          "D6I",
+          "D7A",
+          "E8A",
+          "S9K",
+          "Q10A",
+          "I12L",
+          "A44T",
+          "Q142L",
+          "M147R",
+          "N148K",
+          "L150V",
+          "M151L",
+          "V152D"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "R-Aug-20-2-V1TC-1_MZ671016_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "T3K",
+          "H284L"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "R-Aug-20-2-V2TD-1_MZ671011_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "D2R",
+          "A53V",
+          "G261V",
+          "H284L",
+          "M302E"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "R-Dec-16-pT2-1_MZ670850_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2016": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "D2N",
+          "T281L"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "R-Dec-16-pT2-2_MZ670851_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2016": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "S37N"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "R-Feb-17-m1-4_MZ670861_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "V152M",
+          "M196L",
+          "A231V",
+          "K266I",
+          "T281L"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "R-Feb-17-pT1-1_MZ670854_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "D2N",
+          "T281L"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "R-Jan-17-pT1-1_MZ670853_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "R-Mar-17-m2-3_MZ670871_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "Q4H",
+          "I43T",
+          "G261V"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "R-Mar-17-pT3-2_MZ670866_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "Q193E",
+          "G261V",
+          "E278K"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "R-Nov-17-YB20_MZ670831_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "T60I",
+          "E156K"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "R-Oct-18-5-pT12_MZ670918_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "M151I"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "R-Oct-18-5-pT13_MZ670923_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "S42P",
+          "V43A",
+          "N262H"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "R-Oct-18-5-pT2_MZ670916_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "D2Q",
+          "V152M",
+          "L302M"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "R-Oct-18-5-pT4_MZ670922_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "T50A",
+          "T123L",
+          "F135S"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "R-Oct-19-50-PT5_MZ670941_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2019": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "L32S",
+          "A44T",
+          "A62V",
+          "M151I",
+          "S242Y",
+          "H252P",
+          "G261V",
+          "N262D",
+          "E282V",
+          "A285F",
+          "A286E",
+          "S295I"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "R-Oct-19-50-pT12_MZ670950_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2019": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "S9N",
+          "N22S",
+          "S31P",
+          "H36Y",
+          "G38D",
+          "H41Y",
+          "G47R",
+          "L61F",
+          "P98S",
+          "H252P",
+          "N262D",
+          "K263E",
+          "K266I",
+          "G269A",
+          "E282V",
+          "H284L"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "R-Oct-19-50-pT1_MZ670947_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2019": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "N29T",
+          "S42F",
+          "T43S",
+          "G134D",
+          "T190P",
+          "R192C",
+          "R247G",
+          "H252P",
+          "K263E",
+          "V264D",
+          "K266T",
+          "G269A",
+          "H284L",
+          "A285F",
+          "A286E",
+          "L297F"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "R-Oct-19-50-pT3_MZ670940_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2019": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "T18I",
+          "A44T"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "R-Oct-19-50-pT42_MZ670929_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2019": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "K40R"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "R-Oct-19-50-pT51_MZ670945_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2019": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "D8E",
+          "I12M",
+          "R23K",
+          "I60F",
+          "T62P",
+          "S86R",
+          "N87K",
+          "E109D",
+          "Q112H",
+          "Q124H",
+          "G134V",
+          "T159P",
+          "G269V",
+          "D280N"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "R-Oct-19-50-pT6_MZ670932_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2019": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "T3P",
+          "D7E",
+          "V18I",
+          "E33R",
+          "K40R",
+          "S42F",
+          "L85F",
+          "T159P",
+          "T190P",
+          "R192C",
+          "L238F",
+          "S242F",
+          "E250G",
+          "H252P",
+          "M255K",
+          "H284Q",
+          "A286V"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "R-Oct-19-50-pT8_MZ670930_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2019": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "S242F",
+          "H252P",
+          "G261V",
+          "K266I",
+          "E282V",
+          "P284L",
+          "S285F"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "R-Oct-20-2-V1BB-1_MZ670959_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "S31P",
+          "M151I",
+          "G261V",
+          "E282V",
+          "L297S"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "R-Oct-20-2-V1TB-1_MZ670954_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "D2P",
+          "T3S",
+          "A62T",
+          "N134D",
+          "A173T",
+          "L296V",
+          "M299L",
+          "M302W"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "R-Oct-20-2-V1TD-2_MZ670966_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "D2R",
+          "M302W"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "R-Oct-20-2-V2BA-1_MZ670963_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "D2A",
+          "T3S",
+          "G36D",
+          "Y265H",
+          "V289F",
+          "S295R",
+          "L296G"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "R-Oct-20-2-V2BB-2_MZ670974_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "T281S",
+          "D288E",
+          "V289F",
+          "S295I",
+          "L296F",
+          "R302G"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "R-Oct-20-2-V2TB-1_MZ670964_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "T3P",
+          "Q4V",
+          "P5L",
+          "D6S",
+          "D7F",
+          "A8V",
+          "N9K",
+          "Q10V",
+          "N48D",
+          "N87S"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "R-Sep-18-5-pT10_MZ670876_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "R-Sep-18-5-pT1_MZ670875_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "G261V"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "R-Sep-19-50-pT3_MZ670927_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2019": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "D7E",
+          "M302E"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "R-Sep-19-50-pT53_MZ670944_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2019": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "D8E",
+          "S9K",
+          "N17S",
+          "A30T",
+          "G47R",
+          "N51D",
+          "I60T",
+          "V61L",
+          "A123V"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "R-Sep-19-50-pT7_MZ670933_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2019": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "A62T",
+          "S295T"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "R-Sep-20-1000-7_MZ670799_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "A111D",
+          "M151I",
+          "E203D",
+          "G261V"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "R-Sep-20-2-V1BB-1_MZ670986_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "T3K"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "R-Sep-20-2-V1BC-2_MZ670998_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "A1G",
+          "D2N",
+          "M302L"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "R-Sep-20-2-V1BD-2_MZ670987_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "D2A",
+          "T3S",
+          "S37G",
+          "M196L"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "R-Sep-20-2-V2TD-1_MZ670992_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "G24E"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "R-Sep-20-500-1_MZ670796_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "A258V",
+          "A259D",
+          "I260A",
+          "G261A",
+          "N262D"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "R-Sep-20-500-2_MZ670797_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "SOA-AI/C1_AJ244065_Dioscorea-alata_Burkina-Faso_1992": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "Y265S"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "SOA2/C1_AJ244066_Dioscorea-alata_Burkina-Faso_1992": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "N48S",
+          "T50I",
+          "R66K",
+          "G144S"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "Tog2_OR004227_Dioscorea-cayenensis-subsp.-rotundata_Togo_1996": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "Trifida/C5_AJ238401_Dioscorea-trifida_France_1986": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "D46N",
+          "A62E",
+          "A120S",
+          "R192C",
+          "S199H",
+          "I240V",
+          "A258V",
+          "N262S",
+          "Y265N"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "YMVCNb_MT591059_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "V76I",
+          "M299I"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "YMVHNb_MT591063_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "V18I",
+          "R23K",
+          "T55S",
+          "T58S",
+          "V264I",
+          "M299I"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "YMV_DR2_OK239701_Dioscorea-cayenensis-subsp.-rotundata_Brazil_2019": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "YMV_Dsp_OK239702_Dioscorea-sp._Brazil_2014": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "YMV_I4_OL739290_Dioscorea-cayenensis-subsp.-rotundata_Brazil_2019": {
       "aa_muts": {
         "6K1": [],
         "6K2": [],
@@ -8032,26 +10618,18 @@
         "P3": []
       }
     },
-    "OQ677004": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "OQ677005": {
+    "YMVcp-GS100_MT501338_Dioscorea-cayenensis-subsp.-rotundata_Cameroon_2016": {
       "aa_muts": {
         "6K1": [],
         "6K2": [],
         "CI": [],
         "CP": [
-          "V183I"
+          "D26G",
+          "I28V",
+          "G35S",
+          "N48S",
+          "S134D",
+          "A173T"
         ],
         "HC-Pro": [],
         "NIa": [],
@@ -8060,65 +10638,13 @@
         "P3": []
       }
     },
-    "OQ677006": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "OQ677007": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "OQ677008": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "OQ677009": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "OQ677010": {
+    "YMVcp-GS143_MT501343_Dioscorea-cayenensis-subsp.-rotundata_Cameroon_2016": {
       "aa_muts": {
         "6K1": [],
         "6K2": [],
         "CI": [],
         "CP": [
-          "V183I"
+          "E278D"
         ],
         "HC-Pro": [],
         "NIa": [],
@@ -8127,7 +10653,114 @@
         "P3": []
       }
     },
-    "OQ677011": {
+    "YMVcp-GS156_MT501339_Dioscorea-cayenensis-subsp.-rotundata_Cameroon_2016": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "G36D",
+          "E38G",
+          "G57S",
+          "T123M"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "YMVcp-GS172b_MT501334_Dioscorea-cayenensis-subsp.-rotundata_Cameroon_2016": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "K21Q"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "YMVcp-GS183_MT501350_Dioscorea-cayenensis-subsp.-rotundata_Cameroon_2016": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "S17N",
+          "K21R",
+          "K27R",
+          "T44M",
+          "E141G"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "YMVcp-GS218_MT501333_Dioscorea-cayenensis_Cameroon_2016": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "E19D",
+          "D26G",
+          "A30T",
+          "S32P",
+          "G35D",
+          "G36D",
+          "S37N",
+          "F41S",
+          "V43A",
+          "A44M",
+          "D46K",
+          "N48S",
+          "S55P",
+          "V73I",
+          "T118A",
+          "A123T",
+          "S134G",
+          "I183V"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "YMVcp-GS233_MT501344_Dioscorea-cayenensis-subsp.-rotundata_Cameroon_2016": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "I18T",
+          "T20V",
+          "N22S",
+          "A30T",
+          "G36S",
+          "A44T",
+          "L85F",
+          "M130T",
+          "V152G"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "YMVcp-GS258_MT501351_Dioscorea-cayenensis_Cameroon_2016": {
       "aa_muts": {
         "6K1": [],
         "6K2": [],
@@ -8140,12 +10773,97 @@
         "P3": []
       }
     },
-    "OQ677012": {
+    "YMVcp-GS280_MT501346_Dioscorea-cayenensis-subsp.-rotundata_Cameroon_2016": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "YMVcp-HB160_MT501356_Dioscorea-esculenta_Cameroon_2016": {
       "aa_muts": {
         "6K1": [],
         "6K2": [],
         "CI": [],
         "CP": [
+          "L32S"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "YMVcp-HB290_MT501352_Dioscorea-cayenensis_Cameroon_2016": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "S84N"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "YMVcp-HB295_MT501354_Dioscorea-cayenensis-subsp.-rotundata_Cameroon_2016": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "K107R",
+          "G134C"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "YMVcp-HB298_MT501353_Dioscorea-cayenensis-subsp.-rotundata_Cameroon_2016": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "D8G",
+          "N22S",
+          "E38G",
+          "R47G",
+          "Q54R",
+          "T58A"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "YMVcp-HB303_MT501347_Dioscorea-cayenensis_Cameroon_2016": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "I28T",
+          "F41S",
+          "G58S",
+          "R66K",
+          "T127I",
+          "M130T",
           "V246I"
         ],
         "HC-Pro": [],
@@ -8155,13 +10873,13 @@
         "P3": []
       }
     },
-    "OQ677014": {
+    "YMVcp-HB96_MT501337_Dioscorea-cayenensis-subsp.-rotundata_Cameroon_2016": {
       "aa_muts": {
         "6K1": [],
         "6K2": [],
         "CI": [],
         "CP": [
-          "A285S"
+          "G134D"
         ],
         "HC-Pro": [],
         "NIa": [],
@@ -8170,356 +10888,96 @@
         "P3": []
       }
     },
-    "OQ677015": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "OQ677016": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "OR004208": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "OR004209": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "OR004210": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "OR004211": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "OR004212": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "OR004213": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "OR004214": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "OR004215": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "OR004216": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "OR004217": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "OR004218": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "OR004219": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "OR004220": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "OR004221": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "OR004222": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "OR004223": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "OR004224": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "OR004225": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "OR004226": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "OR004227": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "OR004228": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "OR004230": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "OR004231": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "OR004232": {
-      "aa_muts": {
-        "6K1": [],
-        "6K2": [],
-        "CI": [],
-        "CP": [],
-        "HC-Pro": [],
-        "NIa": [],
-        "NIb": [],
-        "P1": [],
-        "P3": []
-      }
-    },
-    "U42596": {
+    "YMVcp-HM190_MT501357_Dioscorea-cayenensis-subsp.-rotundata_Cameroon_2016": {
       "aa_muts": {
         "6K1": [],
         "6K2": [],
         "CI": [],
         "CP": [
-          "N29D",
-          "I68T",
-          "Q142E",
-          "S276L",
-          "Q277P"
+          "E19G",
+          "R34H"
         ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "YMVcp-HM26_MT501348_Dioscorea-cayenensis-subsp.-rotundata_Cameroon_2016": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "A30T",
+          "F41S",
+          "T50P",
+          "A127T",
+          "M130T"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "YMVcp-WH132_MT501349_Dioscorea-cayenensis_Cameroon_2016": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [
+          "T20A",
+          "S37N",
+          "L85F",
+          "A123T",
+          "A127T",
+          "F138L",
+          "E139G",
+          "V264A",
+          "K266R"
+        ],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "YMVcp-WH201b_MT501358_Dioscorea-cayenensis_Cameroon_2016": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "YMVcp-WH214b_MT501335_Dioscorea-cayenensis_Cameroon_2016": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
+        "HC-Pro": [],
+        "NIa": [],
+        "NIb": [],
+        "P1": [],
+        "P3": []
+      }
+    },
+    "Yooo34_MT591055_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017": {
+      "aa_muts": {
+        "6K1": [],
+        "6K2": [],
+        "CI": [],
+        "CP": [],
         "HC-Pro": [],
         "NIa": [],
         "NIb": [],
@@ -8532,7 +10990,7 @@
     "6K1": "SKRSEECKFEAIIAFIALVLMIFDAERSDCVYRSLTKLKSLVATTEVSHQ",
     "6K2": "SENEMSKYLGLKGRWNKQLLTKDILVMIAVFGGGVWMAYEYLVKSMETVKHQ",
     "CI": "SLDDIRTNLTEEKLTVDFELNSSDIHGSPVQEHTFQTWWDRQIVSGRTIPHYRTEGFQMEFTRATAASVVCEIVQSKHRDIMLRGAVGSGKSTGLPSLLMKHGSVLLLEPTRPLAENVAEQLRGDPFYVNATLRMRGFNRFGSAPIMIMTSGFALHYFANNPKELANYSYVLIDECHVLDSSTIAFNCLLKMYDFQGKLIKMSATPPGRECEFVPQHKVDIRVEESLSFQSFVSSQGTGSNADVIQNGNNILVYVASYNEVDTLAQMLTNAKHKVTKVDGRTMKTGKIQIVTTGTEQQKHFVVATNIIENGVTLDVDVVVDFGVKVVPEIDSDSRMIRYKKVSISYGERIQRLGRVGRNKRGVALRIGHTEKGLTEIPAVVATEAALACFAYGLPVSTQGVTTQILSECTVRQVITMFQFEISPFFMANLVRFDGSMHGKIHSILKPFKLRDSEIVLNKRAIPTCASQNWLTVAQYRLCGVKLNVDESVKIPFYVKDVPEKIMCEVWDAVVKYKNDAGFGRISSASACKVAYTLQTDAHAIPRTVKIIEALMIAERTKKEHFDSQVGNVCSSSMFSLSSITHALRARYNTNHAVENLSILQTAKDSLLEFKNLNLQGSAPDVLEPYGVLEAVHHQ",
-    "CP": "ADTQPDDDGQTIDAGESTGTKNKGKDETNTSSEHNNAEKKTPVSEDRNETNKAQSSGDGILATRDRDIDAGTVGSVLPRLARKNLSNKMVLPMVRGKPILNLDHLVKYEPAQVHLSNTRATQAQFDAWYMAIKSFYELEDEQMGMIMNGLMVWCIENGTSPNLSGMWTMMDGAEQVEYPLKPIIENAKPTFRQIMMHFSDAAEAYIELRNSKEPYMPRYGIQRNLRDYSLARYAFDFLEITSKTPVRAREAHHQMKAAAIGNKVYKMFGFDGKVGSQEEDTERHAAGDVTKDMHSLLGMRGM*",
+    "CP": "ADTQPDDDGQTIDAGESTGTRNKGKGKTNTSSEHSNAGKKTPISEDRSETNKAQSSGDGILATRDRDIDAGTVGSVLPRLARKSLSNKMVLPMVRGKPILNLDHLVKYEPAQVHLSNTRATQAQFDAWYMAIKSFYELEDEQMGMIMNGLMVWCIENGTSPNLSGMWTMMDGAEQVEYPLKPIIENAKPTFRQIMMHFSDAAEAYIELRNSKEPYMPRYGIQRNLRDYSLARYAFDFLEITSKTPVRAREAHHQMKAAAIGNKVYKMFGFDGKVGSQEEDTERHAAGDVTKDMHSLLGMRGM*",
     "HC-Pro": "SSTPLKYWEGFNEGFLEHKPKQINHTCASVLDVKACGKVAAIMYQALFQSGQITCSECIRAYMETTQTEMNARLEPVLDEKIQILSVSHPQFEHVSSMLKCYRNAIGLVNGNLQAFGEVQRIIGSYTEAPFTHLLELNNILIKGEELKRTDLERASTLVLELARYHRNRTENIKKGSLVSFRNKVSAKTHINTALMCDNQLDANGNFMWGQRGYHAKRFFSTCFKKVDPRNGYAAHRLRRSPNTVRELAIGNLIVSTNLETIRRQMRGISIVSPALTESCVSTLNGNFVYPCCCVTTDDGQPIKSELYTPTKHHLAIGNTGDTKLVDLPEDVKDELYIVEDGYCYVNIFLAMLVDVDEKDAKDFTKKVRDLVVKKLGKWPSLIDVATACAMMTIFAPSTRTSEIPRILVDHVSKTMHVLDSFGSLNTGYHILKANTVQQLIKFANDDLKSEMKDYQVG",
     "NIa": "GKNSKRKNQKLKFRDARDKKVGRIVEGDDETIEHYFGEAYTKKGKQSGRTKGMGHKTRKFINMYGYDPKEYEFIRIVDPLTGATLDENAYFDMSLVQEHFGEIRSKYIGEDLLDPQAIQSNPGLKAYFVNNTTKKALQIDLTPHIPLLTCRSGTTIAGFPEREGELRQTGPFNVITHNSVPASNEINVDQIEQATHEGKSMLAGLRDYNPIATAICMICNDSEGYQTKLFGIGFGSFLIVNQHLFKRNNGSLLTKTHHGEFLVKNSATIKISPCEGRDIALLRLPKDCPPFSQKLNFRAPEEGEKVCMVGSNFQEKSITSTVSEASITRSLPNSHFWQYWITTKEGYCGLPVVALKDGAIVGVHSLTNNNTAVNYFTDLPSNFKDSYLKAPEALTWVQHWRYNPVNIAWGNLKLVSDTPDEPFKVAKLVTDLKTELVKAQ",
     "NIb": "GLENQTWLLDSINGNLKAVGKCSNQLVTKHVVKGKCVLFDQYLATHPEEDKFFRPLMGAYQKSRLNREAYIKDIMKYSKPIVIGDVDITAFERALSATIVYMSKKGFHECEYVTDSQAILSALNMKAAVGALYSGKKKDYFENMDPELVYNHVKSSCLRLYKGKMGVWNGSLKPELRTEEKVNMNKTRTFTAAPLDTLLGGKVCVDDFNNQFYSRCIDFPWTVGMTKFYGGWNELMRKLPEGWVYVDADGSQFDSSLSPYLINAVLNIRLHFMEEWDIGEQMLRNLYTEIVYTPIATPDGTIVKKFKGNNSGQPSTVVDNTLMVMLAMYYSLEKNGLELERINEFCVFFANGDDLIIAIRPDMEHHLDTFETYFAQLGLNYEFNERTRNREDLWFMSHQAKMVSGMYIPKLEQERIVSILEWDRATKPEHRLEAICAAMVESWGYFELTHEIRKFYQWVLEQAPFNTLAEQGKAPYIAESALRALYTNQAPTSNELSKYVQHIMEDFCNEDEICYVSHQ",
