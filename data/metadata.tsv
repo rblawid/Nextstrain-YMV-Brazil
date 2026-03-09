@@ -1,588 +1,568 @@
-strain	virus	species	isolates	region	country	host	authors	date
-MZ670783	Yam mosaic virus	Potyvirus yamtesselati	R-Oct-20-300-1	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-10-01
-MZ670784	Yam mosaic virus	Potyvirus yamtesselati	R-Sep-20-1000-1	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-09-01
-MZ670785	Yam mosaic virus	Potyvirus yamtesselati	R-Oct-20-1000-1	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-10-01
-MZ670786	Yam mosaic virus	Potyvirus yamtesselati	R-Sep-20-1000-2	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-09-01
-MZ670787	Yam mosaic virus	Potyvirus yamtesselati	R-Sep-20-1000-3	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-09-01
-MZ670788	Yam mosaic virus	Potyvirus yamtesselati	R-Aug-20-300-1	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-08-01
-MZ670789	Yam mosaic virus	Potyvirus yamtesselati	R-Aug-20-300-2	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-08-01
-MZ670790	Yam mosaic virus	Potyvirus yamtesselati	R-Aug-20-300-3	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-08-01
-MZ670791	Yam mosaic virus	Potyvirus yamtesselati	R-Oct-20-500-2	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-10-01
-MZ670792	Yam mosaic virus	Potyvirus yamtesselati	R-Aug-20-500-1	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-08-01
-MZ670793	Yam mosaic virus	Potyvirus yamtesselati	R-Aug-20-500-2	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-08-01
-MZ670794	Yam mosaic virus	Potyvirus yamtesselati	R-Sep-20-300-1	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-09-01
-MZ670795	Yam mosaic virus	Potyvirus yamtesselati	R-Sep-20-300-2	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-09-01
-MZ670796	Yam mosaic virus	Potyvirus yamtesselati	R-Sep-20-500-1	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-09-01
-MZ670797	Yam mosaic virus	Potyvirus yamtesselati	R-Sep-20-500-2	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-09-01
-MZ670798	Yam mosaic virus	Potyvirus yamtesselati	R-Sep-20-500-3	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-09-01
-MZ670799	Yam mosaic virus	Potyvirus yamtesselati	R-Sep-20-1000-7	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-09-01
-MZ670800	Yam mosaic virus	Potyvirus yamtesselati	R-Sep-20-1000-8	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-09-01
-MZ670801	Yam mosaic virus	Potyvirus yamtesselati	R-Oct-20-300-3	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-10-01
-MZ670802	Yam mosaic virus	Potyvirus yamtesselati	R-Oct-20-300-4	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-10-01
-MZ670803	Yam mosaic virus	Potyvirus yamtesselati	R-Oct-20-1000-2	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-10-01
-MZ670804	Yam mosaic virus	Potyvirus yamtesselati	R-Oct-20-1000-3	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-10-01
-MZ670805	Yam mosaic virus	Potyvirus yamtesselati	R-Oct-20-500-3	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-10-01
-MZ670806	Yam mosaic virus	Potyvirus yamtesselati	R-Oct-20-500-4	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-10-01
-MZ670807	Yam mosaic virus	Potyvirus yamtesselati	F-May-20-500-1	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-08-01
-MZ670808	Yam mosaic virus	Potyvirus yamtesselati	F-May-20-300-1	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-08-01
-MZ670809	Yam mosaic virus	Potyvirus yamtesselati	F-May-20-500-2	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-08-01
-MZ670810	Yam mosaic virus	Potyvirus yamtesselati	F-Apr-20-1000-1	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-08-01
-MZ670811	Yam mosaic virus	Potyvirus yamtesselati	F-Apr-20-1000-2	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-08-01
-MZ670812	Yam mosaic virus	Potyvirus yamtesselati	F-May-20-300-2	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-08-01
-MZ670813	Yam mosaic virus	Potyvirus yamtesselati	F-May-20-300-3	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-08-01
-MZ670814	Yam mosaic virus	Potyvirus yamtesselati	F-Apr-20-1000-3	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-08-01
-MZ670815	Yam mosaic virus	Potyvirus yamtesselati	F-Apr-20-1000-4	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-08-01
-MZ670816	Yam mosaic virus	Potyvirus yamtesselati	R-Nov-17-YB2	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2017-11-14
-MZ670817	Yam mosaic virus	Potyvirus yamtesselati	R-Nov-17-YB3	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2017-11-14
-MZ670818	Yam mosaic virus	Potyvirus yamtesselati	R-Nov-17-YB4	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2017-11-14
-MZ670819	Yam mosaic virus	Potyvirus yamtesselati	R-Nov-17-YB6	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2017-11-14
-MZ670820	Yam mosaic virus	Potyvirus yamtesselati	R-Nov-17-YB7	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2017-11-14
-MZ670821	Yam mosaic virus	Potyvirus yamtesselati	R-Nov-17-YB8	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2017-11-14
-MZ670822	Yam mosaic virus	Potyvirus yamtesselati	R-Nov-17-YB9	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2017-11-14
-MZ670823	Yam mosaic virus	Potyvirus yamtesselati	R-Nov-17-YB10	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2017-11-14
-MZ670824	Yam mosaic virus	Potyvirus yamtesselati	R-Nov-17-YB11	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2017-11-14
-MZ670825	Yam mosaic virus	Potyvirus yamtesselati	R-Nov-17-YB12	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2017-11-14
-MZ670826	Yam mosaic virus	Potyvirus yamtesselati	R-Nov-17-YB13	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2017-11-14
-MZ670827	Yam mosaic virus	Potyvirus yamtesselati	R-Nov-17-YB14	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2017-11-14
-MZ670828	Yam mosaic virus	Potyvirus yamtesselati	R-Nov-17-YB16	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2017-11-14
-MZ670829	Yam mosaic virus	Potyvirus yamtesselati	R-Nov-17-YB18	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2017-11-14
-MZ670830	Yam mosaic virus	Potyvirus yamtesselati	R-Nov-17-YB19	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2017-11-14
-MZ670831	Yam mosaic virus	Potyvirus yamtesselati	R-Nov-17-YB20	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2017-11-14
-MZ670832	Yam mosaic virus	Potyvirus yamtesselati	R-Nov-17-YB21	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2017-11-14
-MZ670833	Yam mosaic virus	Potyvirus yamtesselati	F-Apr-18-5-M3	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2018-09-06
-MZ670834	Yam mosaic virus	Potyvirus yamtesselati	F-Apr-18-5-L3-1	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2018-04-15
-MZ670835	Yam mosaic virus	Potyvirus yamtesselati	F-Apr-18-5-L1-1	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2018-04-15
-MZ670836	Yam mosaic virus	Potyvirus yamtesselati	F-Apr-18-5-L3-2	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2018-04-15
-MZ670837	Yam mosaic virus	Potyvirus yamtesselati	F-Apr-18-5-L3-3	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2018-04-15
-MZ670838	Yam mosaic virus	Potyvirus yamtesselati	F-Apr-18-5-L1-2	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2018-04-15
-MZ670839	Yam mosaic virus	Potyvirus yamtesselati	F-Apr-18-5-2	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2018-04-15
-MZ670840	Yam mosaic virus	Potyvirus yamtesselati	F-Apr-18-5-L1-3	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2018-04-15
-MZ670841	Yam mosaic virus	Potyvirus yamtesselati	F-Apr-18-5-M1	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2018-04-15
-MZ670842	Yam mosaic virus	Potyvirus yamtesselati	F-Apr-19-50-S21	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2019-04-07
-MZ670843	Yam mosaic virus	Potyvirus yamtesselati	F-Apr-19-50-S4	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2019-04-07
-MZ670844	Yam mosaic virus	Potyvirus yamtesselati	F-Apr-19-50-S5	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2019-04-07
-MZ670845	Yam mosaic virus	Potyvirus yamtesselati	F-Apr-19-50-S3	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2019-04-07
-MZ670846	Yam mosaic virus	Potyvirus yamtesselati	F-May-20-2-X1D	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-05-13
-MZ670847	Yam mosaic virus	Potyvirus yamtesselati	F-May-20-2-X1B	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-05-13
-MZ670848	Yam mosaic virus	Potyvirus yamtesselati	F-May-20-2-X2B	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-05-13
-MZ670849	Yam mosaic virus	Potyvirus yamtesselati	F-May-20-2-X3C	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-05-13
-MZ670850	Yam mosaic virus	Potyvirus yamtesselati	R-Dec-16-pT2-1	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2016-12-14
-MZ670851	Yam mosaic virus	Potyvirus yamtesselati	R-Dec-16-pT2-2	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2016-12-14
-MZ670852	Yam mosaic virus	Potyvirus yamtesselati	R-Jan-17-pT2-1	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2017-01-22
-MZ670853	Yam mosaic virus	Potyvirus yamtesselati	R-Jan-17-pT1-1	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2017-01-22
-MZ670854	Yam mosaic virus	Potyvirus yamtesselati	R-Feb-17-pT1-1	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2017-02-11
-MZ670855	Yam mosaic virus	Potyvirus yamtesselati	R-Feb-17-pT3-1	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2017-02-11
-MZ670856	Yam mosaic virus	Potyvirus yamtesselati	R-Feb-17-pT1-2	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2017-02-11
-MZ670857	Yam mosaic virus	Potyvirus yamtesselati	R-Feb-17-pT3-2	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2017-02-11
-MZ670858	Yam mosaic virus	Potyvirus yamtesselati	R-Feb-17-m1-1	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2017-02-11
-MZ670859	Yam mosaic virus	Potyvirus yamtesselati	R-Feb-17-m1-2	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2017-02-11
-MZ670860	Yam mosaic virus	Potyvirus yamtesselati	R-Feb-17-m1-3	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2017-02-11
-MZ670861	Yam mosaic virus	Potyvirus yamtesselati	R-Feb-17-m1-4	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2017-02-11
-MZ670862	Yam mosaic virus	Potyvirus yamtesselati	R-Mar-17-pT2-1	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2017-03-21
-MZ670863	Yam mosaic virus	Potyvirus yamtesselati	R-Mar-17-pT2-2	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2017-03-21
-MZ670864	Yam mosaic virus	Potyvirus yamtesselati	R-Mar-17-pT2-3	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2017-03-21
-MZ670865	Yam mosaic virus	Potyvirus yamtesselati	R-Mar-17-pT3-1	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2017-03-21
-MZ670866	Yam mosaic virus	Potyvirus yamtesselati	R-Mar-17-pT3-2	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2017-03-21
-MZ670867	Yam mosaic virus	Potyvirus yamtesselati	R-Mar-17-pT2-4	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2017-03-21
-MZ670868	Yam mosaic virus	Potyvirus yamtesselati	R-Apr-17-m2-1	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2017-04-08
-MZ670869	Yam mosaic virus	Potyvirus yamtesselati	R-Apr-17-m2-2	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2017-04-08
-MZ670870	Yam mosaic virus	Potyvirus yamtesselati	R-Feb-17-pT4-1	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2017-02-06
-MZ670871	Yam mosaic virus	Potyvirus yamtesselati	R-Mar-17-m2-3	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2017-03-21
-MZ670872	Yam mosaic virus	Potyvirus yamtesselati	R-Apr-17-m2-3	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2017-04-07
-MZ670873	Yam mosaic virus	Potyvirus yamtesselati	R-Mar-17-m2-4	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2017-03-21
-MZ670874	Yam mosaic virus	Potyvirus yamtesselati	R-Apr-17-pT2-3	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2017-04-08
-MZ670875	Yam mosaic virus	Potyvirus yamtesselati	R-Sep-18-5-pT1	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2018-09-15
-MZ670876	Yam mosaic virus	Potyvirus yamtesselati	R-Sep-18-5-pT10	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2018-09-15
-MZ670877	Yam mosaic virus	Potyvirus yamtesselati	R-Sep-18-5-pT13	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2018-09-15
-MZ670878	Yam mosaic virus	Potyvirus yamtesselati	R-Aug-18-5-pT1	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2018-08-01
-MZ670879	Yam mosaic virus	Potyvirus yamtesselati	R-Aug-18-5-pT7	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2018-08-01
-MZ670880	Yam mosaic virus	Potyvirus yamtesselati	R-Jul-18-5-pT1	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2018-07-01
-MZ670881	Yam mosaic virus	Potyvirus yamtesselati	R-Jul-18-5-pT9	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2018-07-01
-MZ670882	Yam mosaic virus	Potyvirus yamtesselati	R-Oct-18-5-pT3	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2018-10-23
-MZ670883	Yam mosaic virus	Potyvirus yamtesselati	R-Oct-18-5-pT6	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2018-10-23
-MZ670884	Yam mosaic virus	Potyvirus yamtesselati	R-Aug-18-5-pT11	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2018-08-01
-MZ670885	Yam mosaic virus	Potyvirus yamtesselati	R-Oct-18-5-pT9	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2018-10-23
-MZ670886	Yam mosaic virus	Potyvirus yamtesselati	R-Sep-18-5-pT7	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2018-09-15
-MZ670887	Yam mosaic virus	Potyvirus yamtesselati	R-Sep-18-5-pT3	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2018-09-15
-MZ670888	Yam mosaic virus	Potyvirus yamtesselati	R-Oct-18-5-pT7	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2018-10-23
-MZ670889	Yam mosaic virus	Potyvirus yamtesselati	R-Aug-18-5-pT4	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2018-08-01
-MZ670890	Yam mosaic virus	Potyvirus yamtesselati	R-Jul-18-5-pT12	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2018-07-01
-MZ670891	Yam mosaic virus	Potyvirus yamtesselati	R-Aug-18-5-pT12	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2018-08-09
-MZ670892	Yam mosaic virus	Potyvirus yamtesselati	R-Jul-18-5-pT11	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2018-07-01
-MZ670893	Yam mosaic virus	Potyvirus yamtesselati	R-Aug-18-5-pT10	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2018-08-09
-MZ670894	Yam mosaic virus	Potyvirus yamtesselati	R-Jul-18-5-pT8	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2018-07-01
-MZ670895	Yam mosaic virus	Potyvirus yamtesselati	R-Jul-18-5-pT2	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2018-07-01
-MZ670896	Yam mosaic virus	Potyvirus yamtesselati	R-Sep-18-5-pT5	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2018-09-15
-MZ670897	Yam mosaic virus	Potyvirus yamtesselati	R-Jul-18-5-pT7	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2018-07-01
-MZ670898	Yam mosaic virus	Potyvirus yamtesselati	R-Aug-18-5-pT2	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2018-08-09
-MZ670899	Yam mosaic virus	Potyvirus yamtesselati	R-Sep-18-5-pT4	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2018-09-15
-MZ670900	Yam mosaic virus	Potyvirus yamtesselati	R-Oct-18-5-pT1	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2018-10-23
-MZ670901	Yam mosaic virus	Potyvirus yamtesselati	R-Jul-18-5-pT6	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2018-07-01
-MZ670902	Yam mosaic virus	Potyvirus yamtesselati	R-Oct-18-5-pT5	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2018-10-23
-MZ670903	Yam mosaic virus	Potyvirus yamtesselati	R-Sep-18-5-pT2	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2018-09-15
-MZ670904	Yam mosaic virus	Potyvirus yamtesselati	R-Sep-18-5-pT6	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2018-09-15
-MZ670905	Yam mosaic virus	Potyvirus yamtesselati	R-Sep-18-5-pT8	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2018-09-15
-MZ670906	Yam mosaic virus	Potyvirus yamtesselati	R-Aug-18-5-pT8	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2018-08-09
-MZ670907	Yam mosaic virus	Potyvirus yamtesselati	R-Oct-18-5-pT8	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2018-10-23
-MZ670908	Yam mosaic virus	Potyvirus yamtesselati	R-Jul-18-5-pT3	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2018-07-01
-MZ670909	Yam mosaic virus	Potyvirus yamtesselati	R-Aug-18-5-pT3	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2018-08-09
-MZ670910	Yam mosaic virus	Potyvirus yamtesselati	R-Jul-18-5-pT5	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2018-07-01
-MZ670911	Yam mosaic virus	Potyvirus yamtesselati	R-Jul-18-5-pT10	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2018-07-01
-MZ670912	Yam mosaic virus	Potyvirus yamtesselati	R-Sep-18-5-pT11	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2018-09-15
-MZ670913	Yam mosaic virus	Potyvirus yamtesselati	R-Sep-18-5-pT12	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2018-09-15
-MZ670914	Yam mosaic virus	Potyvirus yamtesselati	R-Oct-18-5-pT11	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2018-10-23
-MZ670915	Yam mosaic virus	Potyvirus yamtesselati	R-Aug-18-5-pT9	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2018-08-09
-MZ670916	Yam mosaic virus	Potyvirus yamtesselati	R-Oct-18-5-pT2	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2018-10-12
-MZ670917	Yam mosaic virus	Potyvirus yamtesselati	R-Jul-18-5-pT4	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2018-07-01
-MZ670918	Yam mosaic virus	Potyvirus yamtesselati	R-Oct-18-5-pT12	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2018-10-23
-MZ670919	Yam mosaic virus	Potyvirus yamtesselati	R-Jul-18-5-pT13	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2018-07-01
-MZ670920	Yam mosaic virus	Potyvirus yamtesselati	R-Oct-18-5-pT10	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2018-10-23
-MZ670921	Yam mosaic virus	Potyvirus yamtesselati	R-Aug-18-5-pT6	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2018-08-09
-MZ670922	Yam mosaic virus	Potyvirus yamtesselati	R-Oct-18-5-pT4	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2018-10-23
-MZ670923	Yam mosaic virus	Potyvirus yamtesselati	R-Oct-18-5-pT13	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2018-10-12
-MZ670924	Yam mosaic virus	Potyvirus yamtesselati	R-Aug-18-5-pT13	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2018-08-09
-MZ670925	Yam mosaic virus	Potyvirus yamtesselati	R-Aug-18-5-pT5	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2018-08-09
-MZ670926	Yam mosaic virus	Potyvirus yamtesselati	R-Aug-19-50-pT2	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2019-08-01
-MZ670927	Yam mosaic virus	Potyvirus yamtesselati	R-Sep-19-50-pT3	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2019-09-03
-MZ670928	Yam mosaic virus	Potyvirus yamtesselati	R-Oct-19-50-pT2	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2019-10-16
-MZ670929	Yam mosaic virus	Potyvirus yamtesselati	R-Oct-19-50-pT42	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2019-10-16
-MZ670930	Yam mosaic virus	Potyvirus yamtesselati	R-Oct-19-50-pT8	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2019-10-16
-MZ670931	Yam mosaic virus	Potyvirus yamtesselati	R-Aug-19-50-pT1	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2019-08-11
-MZ670932	Yam mosaic virus	Potyvirus yamtesselati	R-Oct-19-50-pT6	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2019-10-16
-MZ670933	Yam mosaic virus	Potyvirus yamtesselati	R-Sep-19-50-pT7	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2019-09-03
-MZ670934	Yam mosaic virus	Potyvirus yamtesselati	R-Aug-19-50-pT7	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2019-08-11
-MZ670935	Yam mosaic virus	Potyvirus yamtesselati	R-Oct-19-50-pT4	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2019-10-16
-MZ670936	Yam mosaic virus	Potyvirus yamtesselati	R-Sep-19-50-pT1	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2019-09-03
-MZ670937	Yam mosaic virus	Potyvirus yamtesselati	R-Aug-19-50-pT21	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2019-08-11
-MZ670938	Yam mosaic virus	Potyvirus yamtesselati	R-Sep-19-50-pT4	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2019-09-03
-MZ670939	Yam mosaic virus	Potyvirus yamtesselati	R-Sep-19-50-pT2	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2019-09-03
-MZ670940	Yam mosaic virus	Potyvirus yamtesselati	R-Oct-19-50-pT3	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2019-10-16
-MZ670941	Yam mosaic virus	Potyvirus yamtesselati	R-Oct-19-50-PT5	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2019-10-16
-MZ670942	Yam mosaic virus	Potyvirus yamtesselati	R-Sep-19-50-pT8	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2019-09-03
-MZ670943	Yam mosaic virus	Potyvirus yamtesselati	R-Aug-19-50-pT6	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2019-08-11
-MZ670944	Yam mosaic virus	Potyvirus yamtesselati	R-Sep-19-50-pT53	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2019-09-03
-MZ670945	Yam mosaic virus	Potyvirus yamtesselati	R-Oct-19-50-pT51	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2019-10-16
-MZ670946	Yam mosaic virus	Potyvirus yamtesselati	R-Oct-19-50-pT22	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2019-10-16
-MZ670947	Yam mosaic virus	Potyvirus yamtesselati	R-Oct-19-50-pT1	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2019-10-16
-MZ670948	Yam mosaic virus	Potyvirus yamtesselati	R-Oct-19-50-pT32	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2019-10-16
-MZ670949	Yam mosaic virus	Potyvirus yamtesselati	R-Aug-19-50-pT4	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2019-08-11
-MZ670950	Yam mosaic virus	Potyvirus yamtesselati	R-Oct-19-50-pT12	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2019-10-16
-MZ670951	Yam mosaic virus	Potyvirus yamtesselati	R-Aug-19-50-pT3	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2019-08-11
-MZ670952	Yam mosaic virus	Potyvirus yamtesselati	R-Oct-20-2-V1TA-1	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-10-16
-MZ670953	Yam mosaic virus	Potyvirus yamtesselati	R-Oct-20-2-V1TD-1	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-10-16
-MZ670954	Yam mosaic virus	Potyvirus yamtesselati	R-Oct-20-2-V1TB-1	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-10-16
-MZ670955	Yam mosaic virus	Potyvirus yamtesselati	R-Oct-20-2-V1TC-1	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-10-16
-MZ670956	Yam mosaic virus	Potyvirus yamtesselati	R-Oct-20-2-V1BD-1	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-10-16
-MZ670957	Yam mosaic virus	Potyvirus yamtesselati	R-Oct-20-2-V1BA-1	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-10-16
-MZ670958	Yam mosaic virus	Potyvirus yamtesselati	R-Oct-20-2-V1BC-1	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-10-16
-MZ670959	Yam mosaic virus	Potyvirus yamtesselati	R-Oct-20-2-V1BB-1	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-10-16
-MZ670960	Yam mosaic virus	Potyvirus yamtesselati	R-Oct-20-2-V1BD-2	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-10-16
-MZ670961	Yam mosaic virus	Potyvirus yamtesselati	R-Oct-20-2-V2BB-1	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-10-16
-MZ670962	Yam mosaic virus	Potyvirus yamtesselati	R-Oct-20-2-V2BC-1	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-10-16
-MZ670963	Yam mosaic virus	Potyvirus yamtesselati	R-Oct-20-2-V2BA-1	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-10-16
-MZ670964	Yam mosaic virus	Potyvirus yamtesselati	R-Oct-20-2-V2TB-1	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-10-16
-MZ670965	Yam mosaic virus	Potyvirus yamtesselati	R-Oct-20-2-V1TA-2	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-10-16
-MZ670966	Yam mosaic virus	Potyvirus yamtesselati	R-Oct-20-2-V1TD-2	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-10-16
-MZ670967	Yam mosaic virus	Potyvirus yamtesselati	R-Oct-20-2-V1TB-2	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-10-16
-MZ670968	Yam mosaic virus	Potyvirus yamtesselati	R-Oct-20-2-V1TC-2	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-10-16
-MZ670969	Yam mosaic virus	Potyvirus yamtesselati	R-Oct-20-2-V1BD-3	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-10-16
-MZ670970	Yam mosaic virus	Potyvirus yamtesselati	R-Oct-20-2-V1BA-2	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-10-16
-MZ670971	Yam mosaic virus	Potyvirus yamtesselati	R-Oct-20-2-V1BC-2	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-10-16
-MZ670972	Yam mosaic virus	Potyvirus yamtesselati	R-Oct-20-2-V1BB-2	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-10-16
-MZ670973	Yam mosaic virus	Potyvirus yamtesselati	R-Oct-20-2-V1BD-4	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-10-16
-MZ670974	Yam mosaic virus	Potyvirus yamtesselati	R-Oct-20-2-V2BB-2	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-10-16
-MZ670975	Yam mosaic virus	Potyvirus yamtesselati	R-Oct-20-2-V2BC-2	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-10-16
-MZ670976	Yam mosaic virus	Potyvirus yamtesselati	R-Oct-20-2-V2TA-1	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-10-16
-MZ670977	Yam mosaic virus	Potyvirus yamtesselati	R-Oct-20-2-V2TC-1	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-10-16
-MZ670978	Yam mosaic virus	Potyvirus yamtesselati	R-Oct-20-2-V2TB-2	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-10-16
-MZ670979	Yam mosaic virus	Potyvirus yamtesselati	R-Oct-20-2-V2TD-1	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-10-16
-MZ670980	Yam mosaic virus	Potyvirus yamtesselati	R-Sep-20-2-V1TA-1	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-09-03
-MZ670981	Yam mosaic virus	Potyvirus yamtesselati	R-Sep-20-2-V1TD-1	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-09-03
-MZ670982	Yam mosaic virus	Potyvirus yamtesselati	R-Sep-20-2-V1TB-1	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-09-03
-MZ670983	Yam mosaic virus	Potyvirus yamtesselati	R-Sep-20-2-V1BD-1	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-09-03
-MZ670984	Yam mosaic virus	Potyvirus yamtesselati	R-Sep-20-2-V1BA-1	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-09-03
-MZ670985	Yam mosaic virus	Potyvirus yamtesselati	R-Sep-20-2-V1BC-1	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-09-03
-MZ670986	Yam mosaic virus	Potyvirus yamtesselati	R-Sep-20-2-V1BB-1	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-09-03
-MZ670987	Yam mosaic virus	Potyvirus yamtesselati	R-Sep-20-2-V1BD-2	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-09-03
-MZ670988	Yam mosaic virus	Potyvirus yamtesselati	R-Sep-20-2-V2BC-1	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-09-03
-MZ670989	Yam mosaic virus	Potyvirus yamtesselati	R-Sep-20-2-V2BA-1	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-09-03
-MZ670990	Yam mosaic virus	Potyvirus yamtesselati	R-Sep-20-2-V2TA-1	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-09-03
-MZ670991	Yam mosaic virus	Potyvirus yamtesselati	R-Sep-20-2-V2TC-1	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-09-03
-MZ670992	Yam mosaic virus	Potyvirus yamtesselati	R-Sep-20-2-V2TD-1	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-09-03
-MZ670993	Yam mosaic virus	Potyvirus yamtesselati	R-Sep-20-2-V1TA-2	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-09-03
-MZ670994	Yam mosaic virus	Potyvirus yamtesselati	R-Sep-20-2-V1TD-2	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-09-03
-MZ670995	Yam mosaic virus	Potyvirus yamtesselati	R-Sep-20-2-V1TB-2	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-09-03
-MZ670996	Yam mosaic virus	Potyvirus yamtesselati	R-Sep-20-2-V1TC-1	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-09-03
-MZ670997	Yam mosaic virus	Potyvirus yamtesselati	R-Sep-20-2-V1BA-2	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-09-03
-MZ670998	Yam mosaic virus	Potyvirus yamtesselati	R-Sep-20-2-V1BC-2	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-09-03
-MZ670999	Yam mosaic virus	Potyvirus yamtesselati	R-Sep-20-2-V1BB-2	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-09-03
-MZ671000	Yam mosaic virus	Potyvirus yamtesselati	R-Sep-20-2-V1BD-3	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-09-03
-MZ671001	Yam mosaic virus	Potyvirus yamtesselati	R-Sep-20-2-V2BB-1	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-09-03
-MZ671002	Yam mosaic virus	Potyvirus yamtesselati	R-Sep-20-2-V2BC-2	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-09-03
-MZ671003	Yam mosaic virus	Potyvirus yamtesselati	R-Sep-20-2-V2BA-2	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-09-03
-MZ671004	Yam mosaic virus	Potyvirus yamtesselati	R-Oct-20-2-V2TD-2	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-10-18
-MZ671005	Yam mosaic virus	Potyvirus yamtesselati	R-Oct-20-2-V2TB-3	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-10-18
-MZ671006	Yam mosaic virus	Potyvirus yamtesselati	R-Oct-20-2-V2TC-2	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-10-18
-MZ671007	Yam mosaic virus	Potyvirus yamtesselati	R-Oct-20-2-V2TA-2	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-10-18
-MZ671008	Yam mosaic virus	Potyvirus yamtesselati	R-Aug-20-2-V2BB-2	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-08-16
-MZ671009	Yam mosaic virus	Potyvirus yamtesselati	R-Aug-20-2-V2BC-1	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-08-16
-MZ671010	Yam mosaic virus	Potyvirus yamtesselati	R-Aug-20-2-V2TC-1	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-08-16
-MZ671011	Yam mosaic virus	Potyvirus yamtesselati	R-Aug-20-2-V2TD-1	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-08-16
-MZ671012	Yam mosaic virus	Potyvirus yamtesselati	R-Aug-20-2-V1TB-1	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-08-16
-MZ671013	Yam mosaic virus	Potyvirus yamtesselati	R-Aug-20-2-V2TA-1	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-08-16
-MZ671014	Yam mosaic virus	Potyvirus yamtesselati	R-Aug-20-2-V1BA-1	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-08-16
-MZ671015	Yam mosaic virus	Potyvirus yamtesselati	R-Aug-20-2-V1TB-2	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-08-16
-MZ671016	Yam mosaic virus	Potyvirus yamtesselati	R-Aug-20-2-V1TC-1	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-08-16
-MZ671017	Yam mosaic virus	Potyvirus yamtesselati	R-Aug-20-2-V1TD-1	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-08-16
-MZ671018	Yam mosaic virus	Potyvirus yamtesselati	R-Aug-20-2-V1BB-1	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-08-16
-MZ671019	Yam mosaic virus	Potyvirus yamtesselati	R-Aug-20-2-V1BC-1	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-08-16
-MZ671020	Yam mosaic virus	Potyvirus yamtesselati	R-Aug-20-2-V1TA-1	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2020-08-16
-OQ677004	Yam mosaic virus	Potyvirus yamtesselati	G1	Ghana	Ghana	Dioscorea cayenensis subsp. rotundata	Festus et al.	2022-10-XX
-OQ677005	Yam mosaic virus	Potyvirus yamtesselati	G2	Ghana	Ghana	Dioscorea cayenensis subsp. rotundata	Festus et al.	2022-10-XX
-OQ677006	Yam mosaic virus	Potyvirus yamtesselati	G3	Ghana	Ghana	Dioscorea cayenensis subsp. rotundata	Festus et al.	2022-10-XX
-OQ677007	Yam mosaic virus	Potyvirus yamtesselati	G4	Ghana	Ghana	Dioscorea alata	Festus et al.	2022-10-XX
-OQ677008	Yam mosaic virus	Potyvirus yamtesselati	G5	Ghana	Ghana	Dioscorea cayenensis subsp. rotundata	Festus et al.	2022-10-XX
-OQ677009	Yam mosaic virus	Potyvirus yamtesselati	G6	Ghana	Ghana	Dioscorea cayenensis subsp. rotundata	Festus et al.	2022-10-XX
-OQ677010	Yam mosaic virus	Potyvirus yamtesselati	G7	Ghana	Ghana	Dioscorea alata	Festus et al.	2022-10-XX
-OQ677011	Yam mosaic virus	Potyvirus yamtesselati	G9	Ghana	Ghana	Dioscorea cayenensis subsp. rotundata	Festus et al.	2022-10-XX
-OQ677012	Yam mosaic virus	Potyvirus yamtesselati	N1	Ghana	Ghana	Dioscorea cayenensis subsp. rotundata	Festus et al.	2022-06-XX
-OQ677013	Yam mosaic virus	Potyvirus yamtesselati	N2	Ghana	Ghana	Dioscorea cayenensis subsp. rotundata	Festus et al.	2022-06-XX
-OQ677014	Yam mosaic virus	Potyvirus yamtesselati	N3	Ghana	Ghana	Dioscorea cayenensis subsp. rotundata	Festus et al.	2022-06-XX
-OQ677015	Yam mosaic virus	Potyvirus yamtesselati	N4	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Festus et al.	2022-08-XX
-OQ677016	Yam mosaic virus	Potyvirus yamtesselati	N5	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Festus et al.	2022-08-XX
-OR004208	Yam mosaic virus	Potyvirus yamtesselati	Cam1	Cameroon	Cameroon	Dioscorea cayenensis subsp. rotundata	Festus et al.	1996-XX-XX
-OR004209	Yam mosaic virus	Potyvirus yamtesselati	Cam2	Cameroon	Cameroon	Dioscorea cayenensis subsp. rotundata	Festus et al.	1996-XX-XX
-OR004210	Yam mosaic virus	Potyvirus yamtesselati	Gh28	Ghana	Ghana	Dioscorea cayenensis subsp. rotundata	Festus et al.	2021-XX-XX
-OR004211	Yam mosaic virus	Potyvirus yamtesselati	Gh34	Ghana	Ghana	Dioscorea cayenensis subsp. rotundata	Festus et al.	2021-XX-XX
-OR004212	Yam mosaic virus	Potyvirus yamtesselati	Nig10	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Festus et al.	2022-XX-XX
-OR004213	Yam mosaic virus	Potyvirus yamtesselati	Nig5	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Festus et al.	2022-XX-XX
-OR004214	Yam mosaic virus	Potyvirus yamtesselati	Nig13	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Festus et al.	2022-XX-XX
-OR004215	Yam mosaic virus	Potyvirus yamtesselati	Nig11	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Festus et al.	2022-XX-XX
-OR004216	Yam mosaic virus	Potyvirus yamtesselati	Nig12	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Festus et al.	2022-XX-XX
-OR004217	Yam mosaic virus	Potyvirus yamtesselati	Ben1	Benin	Benin	Dioscorea cayenensis subsp. rotundata	Festus et al.	1996-XX-XX
-OR004218	Yam mosaic virus	Potyvirus yamtesselati	Cam4	Cameroon	Cameroon	Dioscorea cayenensis subsp. rotundata	Festus et al.	1996-XX-XX
-OR004219	Yam mosaic virus	Potyvirus yamtesselati	Gh27	Ghana	Ghana	Dioscorea cayenensis subsp. rotundata	Festus et al.	2021-XX-XX
-OR004220	Yam mosaic virus	Potyvirus yamtesselati	Gh30	Ghana	Ghana	Dioscorea cayenensis subsp. rotundata	Festus et al.	2021-XX-XX
-OR004221	Yam mosaic virus	Potyvirus yamtesselati	Nig4	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Festus et al.	2022-XX-XX
-OR004222	Yam mosaic virus	Potyvirus yamtesselati	Gh35	Ghana	Ghana	Dioscorea cayenensis subsp. rotundata	Festus et al.	2021-XX-XX
-OR004223	Yam mosaic virus	Potyvirus yamtesselati	Gh32	Ghana	Ghana	Dioscorea cayenensis subsp. rotundata	Festus et al.	2021-XX-XX
-OR004224	Yam mosaic virus	Potyvirus yamtesselati	Gh36	Ghana	Ghana	Dioscorea cayenensis subsp. rotundata	Festus et al.	2021-XX-XX
-OR004225	Yam mosaic virus	Potyvirus yamtesselati	Gh33	Ghana	Ghana	Dioscorea cayenensis subsp. rotundata	Festus et al.	2021-XX-XX
-OR004226	Yam mosaic virus	Potyvirus yamtesselati	Nig6	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Festus et al.	1996-XX-XX
-OR004227	Yam mosaic virus	Potyvirus yamtesselati	Tog2	Togo	Togo	Dioscorea cayenensis subsp. rotundata	Festus et al.	1996-XX-XX
-OR004228	Yam mosaic virus	Potyvirus yamtesselati	Nig3	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Festus et al.	2022-XX-XX
-OR004229	Yam mosaic virus	Potyvirus yamtesselati	Gh29	Ghana	Ghana	Dioscorea cayenensis subsp. rotundata	Festus et al.	2022-XX-XX
-OR004230	Yam mosaic virus	Potyvirus yamtesselati	Tog1	Togo	Togo	Dioscorea cayenensis subsp. rotundata	Festus et al.	1996-XX-XX
-OR004231	Yam mosaic virus	Potyvirus yamtesselati	Cam3	Cameroon	Cameroon	Dioscorea cayenensis subsp. rotundata	Festus et al.	1996-XX-XX
-OR004232	Yam mosaic virus	Potyvirus yamtesselati	Nig2	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Festus et al.	1996-XX-XX
-MZ695335	Yam mosaic virus	Potyvirus yamtesselati	N1-3	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-09-15
-MZ695336	Yam mosaic virus	Potyvirus yamtesselati	N3-3	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-09-15
-MZ695337	Yam mosaic virus	Potyvirus yamtesselati	N2-4	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-09-15
-MZ695338	Yam mosaic virus	Potyvirus yamtesselati	N2-5	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-09-15
-MZ695339	Yam mosaic virus	Potyvirus yamtesselati	N19-3	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2014-09-16
-MZ695340	Yam mosaic virus	Potyvirus yamtesselati	N7-5	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2014-09-16
-MZ695341	Yam mosaic virus	Potyvirus yamtesselati	N9-7	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2014-09-16
-MZ695342	Yam mosaic virus	Potyvirus yamtesselati	N15-7	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2014-09-16
-MZ695343	Yam mosaic virus	Potyvirus yamtesselati	N24-7	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2014-09-16
-MZ695344	Yam mosaic virus	Potyvirus yamtesselati	N8-9	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-09-18
-MZ695345	Yam mosaic virus	Potyvirus yamtesselati	N5-11	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-09-18
-MZ695346	Yam mosaic virus	Potyvirus yamtesselati	N10-12	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-09-18
-MZ695347	Yam mosaic virus	Potyvirus yamtesselati	N27-12	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-09-18
-MZ695348	Yam mosaic virus	Potyvirus yamtesselati	N3-14	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-09-18
-MZ695349	Yam mosaic virus	Potyvirus yamtesselati	N6-15	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-09-19
-MZ695350	Yam mosaic virus	Potyvirus yamtesselati	N9-16	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-09-19
-MZ695351	Yam mosaic virus	Potyvirus yamtesselati	N2-17	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-09-19
-MZ695352	Yam mosaic virus	Potyvirus yamtesselati	N4-17	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-09-19
-MZ695353	Yam mosaic virus	Potyvirus yamtesselati	N1-18*	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-09-19
-MZ695354	Yam mosaic virus	Potyvirus yamtesselati	N5-19	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-09-20
-MZ695355	Yam mosaic virus	Potyvirus yamtesselati	N12-22	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-09-20
-MZ695356	Yam mosaic virus	Potyvirus yamtesselati	N4-23	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-09-20
-MZ695357	Yam mosaic virus	Potyvirus yamtesselati	N1-24	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-09-20
-MZ695358	Yam mosaic virus	Potyvirus yamtesselati	N6-25	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-09-20
-MZ695359	Yam mosaic virus	Potyvirus yamtesselati	N9-25	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-09-20
-MZ695360	Yam mosaic virus	Potyvirus yamtesselati	N1-26	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-09-20
-MZ695361	Yam mosaic virus	Potyvirus yamtesselati	N7-26	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-09-20
-MZ695362	Yam mosaic virus	Potyvirus yamtesselati	N8-30	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-09-21
-MZ695363	Yam mosaic virus	Potyvirus yamtesselati	N22-30	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-09-21
-MZ695364	Yam mosaic virus	Potyvirus yamtesselati	N25-30	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-09-21
-MZ695365	Yam mosaic virus	Potyvirus yamtesselati	N24-31	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-09-21
-MZ695366	Yam mosaic virus	Potyvirus yamtesselati	N4-32*	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-09-21
-MZ695367	Yam mosaic virus	Potyvirus yamtesselati	N1-33*	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-09-21
-MZ695368	Yam mosaic virus	Potyvirus yamtesselati	N7-33	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-09-21
-MZ695369	Yam mosaic virus	Potyvirus yamtesselati	N3-34	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-09-21
-MZ695370	Yam mosaic virus	Potyvirus yamtesselati	N6-35	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-09-22
-MZ695371	Yam mosaic virus	Potyvirus yamtesselati	N4-36	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-09-22
-MZ695372	Yam mosaic virus	Potyvirus yamtesselati	N3-37	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-09-22
-MZ695373	Yam mosaic virus	Potyvirus yamtesselati	N5-38	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-09-23
-MZ695374	Yam mosaic virus	Potyvirus yamtesselati	N8-40	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-09-23
-MZ695375	Yam mosaic virus	Potyvirus yamtesselati	N12-40	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-09-23
-MZ695376	Yam mosaic virus	Potyvirus yamtesselati	N19-40	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-09-23
-MZ695377	Yam mosaic virus	Potyvirus yamtesselati	N24-40	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-09-23
-MZ695378	Yam mosaic virus	Potyvirus yamtesselati	N1-41	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-09-24
-MZ695379	Yam mosaic virus	Potyvirus yamtesselati	N6-41	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-09-24
-MZ695380	Yam mosaic virus	Potyvirus yamtesselati	N3-21	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-09-24
-MZ695381	Yam mosaic virus	Potyvirus yamtesselati	N18-3	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2012-11-01
-MZ695382	Yam mosaic virus	Potyvirus yamtesselati	N21-3	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2012-11-01
-MZ695383	Yam mosaic virus	Potyvirus yamtesselati	N63-7	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2012-11-01
-MZ695384	Yam mosaic virus	Potyvirus yamtesselati	N131-12	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2012-11-02
-MZ695385	Yam mosaic virus	Potyvirus yamtesselati	N294-26	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2012-11-02
-MZ695386	Yam mosaic virus	Potyvirus yamtesselati	N299-26	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2012-11-02
-MZ695387	Yam mosaic virus	Potyvirus yamtesselati	N300-26	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2012-11-02
-MZ695388	Yam mosaic virus	Potyvirus yamtesselati	N301-26	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2012-11-02
-MZ695389	Yam mosaic virus	Potyvirus yamtesselati	N323-29	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2012-11-03
-MZ695390	Yam mosaic virus	Potyvirus yamtesselati	N344-31	Nigeria	Nigeria	Dioscorea esculenta	Nkere et al.	2012-11-03
-MZ695391	Yam mosaic virus	Potyvirus yamtesselati	N354-31a	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2012-11-03
-MZ695392	Yam mosaic virus	Potyvirus yamtesselati	N354-31b	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2012-11-03
-MZ695393	Yam mosaic virus	Potyvirus yamtesselati	N375-34	Nigeria	Nigeria	Dioscorea cayenensis	Nkere et al.	2012-11-04
-MZ695394	Yam mosaic virus	Potyvirus yamtesselati	N376-34	Nigeria	Nigeria	Dioscorea cayenensis	Nkere et al.	2012-11-04
-MZ695395	Yam mosaic virus	Potyvirus yamtesselati	G11-1	Ghana	Ghana	Dioscorea cayenensis	Nkere et al.	2013-08-03
-MZ695396	Yam mosaic virus	Potyvirus yamtesselati	G40-1	Ghana	Ghana	Dioscorea alata	Nkere et al.	2013-08-03
-MZ695397	Yam mosaic virus	Potyvirus yamtesselati	G5-2	Ghana	Ghana	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-08-03
-MZ695398	Yam mosaic virus	Potyvirus yamtesselati	G20-2	Ghana	Ghana	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-08-03
-MZ695399	Yam mosaic virus	Potyvirus yamtesselati	G21-2	Ghana	Ghana	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-08-03
-MZ695400	Yam mosaic virus	Potyvirus yamtesselati	G3-3	Ghana	Ghana	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-08-04
-MZ695401	Yam mosaic virus	Potyvirus yamtesselati	G4-3	Ghana	Ghana	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-08-04
-MZ695402	Yam mosaic virus	Potyvirus yamtesselati	G8-3	Ghana	Ghana	Dioscorea alata	Nkere et al.	2013-08-04
-MZ695403	Yam mosaic virus	Potyvirus yamtesselati	G2-4	Ghana	Ghana	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-08-04
-MZ695404	Yam mosaic virus	Potyvirus yamtesselati	G5-5	Ghana	Ghana	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-08-04
-MZ695405	Yam mosaic virus	Potyvirus yamtesselati	G15-6	Ghana	Ghana	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-08-05
-MZ695406	Yam mosaic virus	Potyvirus yamtesselati	G17-6	Ghana	Ghana	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-08-05
-MZ695407	Yam mosaic virus	Potyvirus yamtesselati	G8-10	Ghana	Ghana	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-08-05
-MZ695408	Yam mosaic virus	Potyvirus yamtesselati	G1-11	Ghana	Ghana	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-08-05
-MZ695409	Yam mosaic virus	Potyvirus yamtesselati	G4-11	Ghana	Ghana	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-08-06
-MZ695410	Yam mosaic virus	Potyvirus yamtesselati	G4-12	Ghana	Ghana	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-08-06
-MZ695411	Yam mosaic virus	Potyvirus yamtesselati	G2-13	Ghana	Ghana	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-08-06
-MZ695412	Yam mosaic virus	Potyvirus yamtesselati	G3-13	Ghana	Ghana	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-08-06
-MZ695413	Yam mosaic virus	Potyvirus yamtesselati	G15-16	Ghana	Ghana	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-08-07
-MZ695414	Yam mosaic virus	Potyvirus yamtesselati	G2-17	Ghana	Ghana	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-08-07
-MZ695415	Yam mosaic virus	Potyvirus yamtesselati	G3-17	Ghana	Ghana	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-08-07
-MZ695416	Yam mosaic virus	Potyvirus yamtesselati	G4-18	Ghana	Ghana	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-08-07
-MZ695417	Yam mosaic virus	Potyvirus yamtesselati	G5-18	Ghana	Ghana	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-08-07
-MZ695418	Yam mosaic virus	Potyvirus yamtesselati	G2-19	Ghana	Ghana	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-08-07
-MZ695419	Yam mosaic virus	Potyvirus yamtesselati	G6-19	Ghana	Ghana	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-08-08
-MZ695420	Yam mosaic virus	Potyvirus yamtesselati	G1-20	Ghana	Ghana	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-08-08
-MZ695421	Yam mosaic virus	Potyvirus yamtesselati	G5-20	Ghana	Ghana	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-08-08
-MZ695422	Yam mosaic virus	Potyvirus yamtesselati	G9-21	Ghana	Ghana	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-08-08
-MZ695423	Yam mosaic virus	Potyvirus yamtesselati	G1-22	Ghana	Ghana	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-08-08
-MZ695424	Yam mosaic virus	Potyvirus yamtesselati	G10-22	Ghana	Ghana	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-08-09
-MZ695425	Yam mosaic virus	Potyvirus yamtesselati	G1-23	Ghana	Ghana	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-08-09
-MZ695426	Yam mosaic virus	Potyvirus yamtesselati	G5-25	Ghana	Ghana	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-08-09
-MZ695427	Yam mosaic virus	Potyvirus yamtesselati	G2-26	Ghana	Ghana	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-08-09
-MZ695428	Yam mosaic virus	Potyvirus yamtesselati	G4-27	Ghana	Ghana	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-08-09
-MZ695429	Yam mosaic virus	Potyvirus yamtesselati	G5-27	Ghana	Ghana	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-08-10
-MZ695430	Yam mosaic virus	Potyvirus yamtesselati	G1-28	Ghana	Ghana	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-08-10
-MZ695431	Yam mosaic virus	Potyvirus yamtesselati	G4-28	Ghana	Ghana	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-08-10
-MZ695432	Yam mosaic virus	Potyvirus yamtesselati	G5-29	Ghana	Ghana	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-08-10
-MZ695433	Yam mosaic virus	Potyvirus yamtesselati	G8-31	Ghana	Ghana	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-08-11
-MZ695434	Yam mosaic virus	Potyvirus yamtesselati	G1-32	Ghana	Ghana	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-08-11
-MZ695435	Yam mosaic virus	Potyvirus yamtesselati	G2-33	Ghana	Ghana	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-08-11
-MZ695436	Yam mosaic virus	Potyvirus yamtesselati	G8-33	Ghana	Ghana	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-08-12
-MZ695437	Yam mosaic virus	Potyvirus yamtesselati	G25-33	Ghana	Ghana	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-08-12
-MZ695438	Yam mosaic virus	Potyvirus yamtesselati	G1-34	Ghana	Ghana	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2013-08-12
-MZ695439	Yam mosaic virus	Potyvirus yamtesselati	G10-1	Ghana	Ghana	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2012-10-04
-MZ695440	Yam mosaic virus	Potyvirus yamtesselati	G14-2	Ghana	Ghana	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2012-10-04
-MZ695441	Yam mosaic virus	Potyvirus yamtesselati	G16-2	Ghana	Ghana	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2012-10-05
-MZ695442	Yam mosaic virus	Potyvirus yamtesselati	G31-2	Ghana	Ghana	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2012-10-05
-MZ695443	Yam mosaic virus	Potyvirus yamtesselati	G46-5	Ghana	Ghana	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2012-10-05
-MZ695444	Yam mosaic virus	Potyvirus yamtesselati	G66-8	Ghana	Ghana	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2012-10-05
-MZ695445	Yam mosaic virus	Potyvirus yamtesselati	G153-18	Ghana	Ghana	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2012-10-06
-MZ695446	Yam mosaic virus	Potyvirus yamtesselati	G220-25	Ghana	Ghana	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2012-10-06
-MZ695447	Yam mosaic virus	Potyvirus yamtesselati	G267-31	Ghana	Ghana	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2012-10-06
-MZ695448	Yam mosaic virus	Potyvirus yamtesselati	G84-10	Ghana	Ghana	Dioscorea cayenensis subsp. rotundata	Nkere et al.	2012-10-06
-MW835991	Yam mosaic virus	Potyvirus yamtesselati	Kil-15-C	Nigeria	Nigeria	Dioscorea rotundata	Osundahunsi et al.	
-MW835992	Yam mosaic virus	Potyvirus yamtesselati	Kil-16-C	Nigeria	Nigeria	Dioscorea rotundata	Osundahunsi et al.	
-MW835993	Yam mosaic virus	Potyvirus yamtesselati	Kil-17-C	Nigeria	Nigeria	Dioscorea rotundata	Osundahunsi et al.	
-MW835994	Yam mosaic virus	Potyvirus yamtesselati	Kwa-15-C	Nigeria	Nigeria	Dioscorea rotundata	Osundahunsi et al.	
-MW835995	Yam mosaic virus	Potyvirus yamtesselati	Kwa-16-C	Nigeria	Nigeria	Dioscorea rotundata	Osundahunsi et al.	
-MW835996	Yam mosaic virus	Potyvirus yamtesselati	Kwa-17-C	Nigeria	Nigeria	Dioscorea rotundata	Osundahunsi et al.	
-MW835997	Yam mosaic virus	Potyvirus yamtesselati	Yau-15-C	Nigeria	Nigeria	Dioscorea rotundata	Osundahunsi et al.	
-MW835998	Yam mosaic virus	Potyvirus yamtesselati	Yau-16-C	Nigeria	Nigeria	Dioscorea rotundata	Osundahunsi et al.	
-MW835999	Yam mosaic virus	Potyvirus yamtesselati	Yau-17-C	Nigeria	Nigeria	Dioscorea rotundata	Osundahunsi et al.	
-MW836000	Yam mosaic virus	Potyvirus yamtesselati	Gut-15-C	Nigeria	Nigeria	Dioscorea rotundata	Osundahunsi et al.	
-MW836001	Yam mosaic virus	Potyvirus yamtesselati	Gut-16-C	Nigeria	Nigeria	Dioscorea rotundata	Osundahunsi et al.	
-MW836002	Yam mosaic virus	Potyvirus yamtesselati	Gut-17-C	Nigeria	Nigeria	Dioscorea rotundata	Osundahunsi et al.	
-MW836003	Yam mosaic virus	Potyvirus yamtesselati	Gut-16-PS	Nigeria	Nigeria	Dioscorea rotundata	Osundahunsi et al.	
-MW836004	Yam mosaic virus	Potyvirus yamtesselati	Gut-17-PS	Nigeria	Nigeria	Dioscorea rotundata	Osundahunsi et al.	
-MW836005	Yam mosaic virus	Potyvirus yamtesselati	Kwa-16-PS	Nigeria	Nigeria	Dioscorea rotundata	Osundahunsi et al.	
-MW836006	Yam mosaic virus	Potyvirus yamtesselati	Kwa-17-PS	Nigeria	Nigeria	Dioscorea rotundata	Osundahunsi et al.	
-MW836007	Yam mosaic virus	Potyvirus yamtesselati	Yau-16-PS	Nigeria	Nigeria	Dioscorea rotundata	Osundahunsi et al.	
-MW836008	Yam mosaic virus	Potyvirus yamtesselati	Yau-17-PS	Nigeria	Nigeria	Dioscorea rotundata	Osundahunsi et al.	
-MW836009	Yam mosaic virus	Potyvirus yamtesselati	Kil-16-PS	Nigeria	Nigeria	Dioscorea rotundata	Osundahunsi et al.	
-MW836010	Yam mosaic virus	Potyvirus yamtesselati	Kil-17-PS	Nigeria	Nigeria	Dioscorea rotundata	Osundahunsi et al.	
-MT591036	Yam mosaic virus	Potyvirus yamtesselati	YMVAy	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Oyekanmi et al.	2017-06-28
-MT591037	Yam mosaic virus	Potyvirus yamtesselati	YMVBy	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Oyekanmi et al.	2017-06-28
-MT591038	Yam mosaic virus	Potyvirus yamtesselati	YMVCy	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Oyekanmi et al.	2017-06-28
-MT591039	Yam mosaic virus	Potyvirus yamtesselati	YMVDy	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Oyekanmi et al.	2017-06-28
-MT591040	Yam mosaic virus	Potyvirus yamtesselati	YMVFy	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Oyekanmi et al.	2017-06-28
-MT591041	Yam mosaic virus	Potyvirus yamtesselati	YMVGy	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Oyekanmi et al.	2017-06-28
-MT591042	Yam mosaic virus	Potyvirus yamtesselati	YMVHy	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Oyekanmi et al.	2017-06-28
-MT591043	Yam mosaic virus	Potyvirus yamtesselati	YMVIy	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Oyekanmi et al.	2017-06-28
-MT591044	Yam mosaic virus	Potyvirus yamtesselati	YMVJy	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Oyekanmi et al.	2017-06-28
-MT591045	Yam mosaic virus	Potyvirus yamtesselati	YMVKy	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Oyekanmi et al.	2017-06-28
-MT591046	Yam mosaic virus	Potyvirus yamtesselati	YMVLy	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Oyekanmi et al.	2017-06-28
-MT591047	Yam mosaic virus	Potyvirus yamtesselati	YMVMy	Nigeria	Nigeria	Dioscorea alata	Oyekanmi et al.	2017-06-28
-MT591048	Yam mosaic virus	Potyvirus yamtesselati	YMVNy	Nigeria	Nigeria	Dioscorea alata	Oyekanmi et al.	2017-06-28
-MT591049	Yam mosaic virus	Potyvirus yamtesselati	YMVQy	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Oyekanmi et al.	2017-06-28
-MT591050	Yam mosaic virus	Potyvirus yamtesselati	Yoo421	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Oyekanmi et al.	2017-06-28
-MT591051	Yam mosaic virus	Potyvirus yamtesselati	Yoju	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Oyekanmi et al.	2017-08-30
-MT591052	Yam mosaic virus	Potyvirus yamtesselati	Yoooo2	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Oyekanmi et al.	2017-08-30
-MT591053	Yam mosaic virus	Potyvirus yamtesselati	Yo2665	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Oyekanmi et al.	2017-08-30
-MT591054	Yam mosaic virus	Potyvirus yamtesselati	Yo2607	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Oyekanmi et al.	2017-08-30
-MT591055	Yam mosaic virus	Potyvirus yamtesselati	Yooo34	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Oyekanmi et al.	2017-08-30
-MT591056	Yam mosaic virus	Potyvirus yamtesselati	Yoo497	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Oyekanmi et al.	2017-08-30
-MT591057	Yam mosaic virus	Potyvirus yamtesselati	YMVANb	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Oyekanmi et al.	2017-07-10
-MT591058	Yam mosaic virus	Potyvirus yamtesselati	YMVBNb	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Oyekanmi et al.	2017-07-10
-MT591059	Yam mosaic virus	Potyvirus yamtesselati	YMVCNb	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Oyekanmi et al.	2017-07-10
-MT591060	Yam mosaic virus	Potyvirus yamtesselati	YMVDNb	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Oyekanmi et al.	2017-07-10
-MT591061	Yam mosaic virus	Potyvirus yamtesselati	YMVGNb	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Oyekanmi et al.	2017-07-10
-MT591062	Yam mosaic virus	Potyvirus yamtesselati	YMVFNb	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Oyekanmi et al.	2017-07-10
-MT591063	Yam mosaic virus	Potyvirus yamtesselati	YMVHNb	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Oyekanmi et al.	2017-07-10
-MT591064	Yam mosaic virus	Potyvirus yamtesselati	YMVJNb	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Oyekanmi et al.	2017-07-10
-MT591065	Yam mosaic virus	Potyvirus yamtesselati	YMVKNb	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Oyekanmi et al.	2017-07-10
-MT591066	Yam mosaic virus	Potyvirus yamtesselati	YMVLNb	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Oyekanmi et al.	2017-07-10
-MT591067	Yam mosaic virus	Potyvirus yamtesselati	YMVMNb	Nigeria	Nigeria	Dioscorea alata	Oyekanmi et al.	2017-07-10
-MT591068	Yam mosaic virus	Potyvirus yamtesselati	YMVNNb	Nigeria	Nigeria	Dioscorea alata	Oyekanmi et al.	2017-07-10
-MT591069	Yam mosaic virus	Potyvirus yamtesselati	YMVQNb	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Oyekanmi et al.	2017-07-10
-MT591070	Yam mosaic virus	Potyvirus yamtesselati	Nb0421	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Oyekanmi et al.	2017-08-30
-MT591071	Yam mosaic virus	Potyvirus yamtesselati	NbOju	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Oyekanmi et al.	2017-08-30
-MT591072	Yam mosaic virus	Potyvirus yamtesselati	Nb0002	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Oyekanmi et al.	2017-08-30
-MT591073	Yam mosaic virus	Potyvirus yamtesselati	NbDanc	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Oyekanmi et al.	2017-08-30
-MT591074	Yam mosaic virus	Potyvirus yamtesselati	Nb0034	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Oyekanmi et al.	2017-08-30
-MT591075	Yam mosaic virus	Potyvirus yamtesselati	Nb0497	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Oyekanmi et al.	2017-08-30
-MT591076	Yam mosaic virus	Potyvirus yamtesselati	Dan313	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Oyekanmi et al.	2017-08-30
-MT591077	Yam mosaic virus	Potyvirus yamtesselati	Dan42	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Oyekanmi et al.	2017-08-30
-MT591078	Yam mosaic virus	Potyvirus yamtesselati	Dan25	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Oyekanmi et al.	2017-08-30
-MT591079	Yam mosaic virus	Potyvirus yamtesselati	Dan18	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Oyekanmi et al.	2017-08-30
-MT591080	Yam mosaic virus	Potyvirus yamtesselati	19177Y	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Oyekanmi et al.	2019-12-11
-MT591081	Yam mosaic virus	Potyvirus yamtesselati	2665Y	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Oyekanmi et al.	2019-12-11
-MT591082	Yam mosaic virus	Potyvirus yamtesselati	MISG	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Oyekanmi et al.	2019-12-11
-MT553854	Yam mosaic virus	Potyvirus yamtesselati	ADK-nteje-2	Nigeria: Adaka	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al.	2016-XX-XX
-MT501332	Yam mosaic virus	Potyvirus yamtesselati	YMVcp-WH47b	Cameroon: Baigon	Camerrom	Dioscorea cayenensis subsp. rotundata	Azetech et al.	2016-11-01
-MT501333	Yam mosaic virus	Potyvirus yamtesselati	YMVcp-GS218	Cameroon: Baigon	Camerrom	Dioscorea cayenensis	Azetech et al.	2016-11-01
-MT501334	Yam mosaic virus	Potyvirus yamtesselati	YMVcp-GS172b	Cameroon: Malarba II	Camerrom	Dioscorea cayenensis subsp. rotundata	Azetech et al.	2016-11-01
-MT501335	Yam mosaic virus	Potyvirus yamtesselati	YMVcp-WH214b	Cameroon: Baigon	Camerrom	Dioscorea cayenensis	Azetech et al.	2016-11-02
-MT501336	Yam mosaic virus	Potyvirus yamtesselati	YMVcp-HB285b	Cameroon: Ekoroko	Camerrom	Dioscorea cayenensis	Azetech et al.	2016-11-01
-MT501337	Yam mosaic virus	Potyvirus yamtesselati	YMVcp-HB96	Cameroon: Mandjou	Cameroon	Dioscorea cayenensis subsp. rotundata	Azetech et al.	2016-11-01
-MT501338	Yam mosaic virus	Potyvirus yamtesselati	YMVcp-GS100	Cameroon: Mayo Baleo	Cameroon	Dioscorea cayenensis subsp. rotundata	Azetech et al.	2016-11-01
-MT501339	Yam mosaic virus	Potyvirus yamtesselati	YMVcp-GS156	Cameroon: Karna -Manga	Cameroon	Dioscorea cayenensis subsp. rotundata	Azetech et al.	2016-11-01
-MT501340	Yam mosaic virus	Potyvirus yamtesselati	YMVcp-WH161	Cameroon: Bali	Cameroon	Dioscorea cayenensis	Azetech et al.	2016-11-02
-MT501341	Yam mosaic virus	Potyvirus yamtesselati	YMVcp-WH194	Cameroon: Batibo	Cameroon	Dioscorea cayenensis	Azetech et al.	2016-11-02
-MT501342	Yam mosaic virus	Potyvirus yamtesselati	YMVcp-WH127	Cameroon: Babadjou	Cameroon	Dioscorea cayenensis	Azetech et al.	2016-11-02
-MT501343	Yam mosaic virus	Potyvirus yamtesselati	YMVcp-GS143	Cameroon: Mayo Baleo	Cameroon	Dioscorea cayenensis subsp. rotundata	Azetech et al.	2016-11-01
-MT501344	Yam mosaic virus	Potyvirus yamtesselati	YMVcp-GS233	Cameroon: Ngaounyanga	Cameroon	Dioscorea cayenensis subsp. rotundata	Azetech et al.	2016-11-01
-MT501345	Yam mosaic virus	Potyvirus yamtesselati	YMVcp-WH261	Cameroon: Jakiri	Cameroon	Dioscorea cayenensis	Azetech et al.	2016-11-02
-MT501346	Yam mosaic virus	Potyvirus yamtesselati	YMVcp-GS280	Cameroon: Tagboum	Cameroon	Dioscorea cayenensis subsp. rotundata	Azetech et al.	2016-11-01
-MT501347	Yam mosaic virus	Potyvirus yamtesselati	YMVcp-HB303	Cameroon: Nguette- Ntui	Cameroon	Dioscorea cayenensis	Azetech et al.	2016-11-01
-MT501348	Yam mosaic virus	Potyvirus yamtesselati	YMVcp-HM26	Cameroon: Mile 40 village	Cameroon	Dioscorea cayenensis subsp. rotundata	Azetech et al.	2016-08-16
-MT501349	Yam mosaic virus	Potyvirus yamtesselati	YMVcp-WH132	Cameroon: Kontan Bali	Cameroon	Dioscorea cayenensis	Azetech et al.	2016-08-24
-MT501350	Yam mosaic virus	Potyvirus yamtesselati	YMVcp-GS183	Cameroon: Nem -ne	Cameroon	Dioscorea cayenensis subsp. rotundata	Azetech et al.	2016-08-28
-MT501351	Yam mosaic virus	Potyvirus yamtesselati	YMVcp-GS258	Cameroon: Mbele Mbeke	Cameroon	Dioscorea cayenensis	Azetech et al.	2016-09-05
-MT501352	Yam mosaic virus	Potyvirus yamtesselati	YMVcp-HB290	Cameroon: Ndji Batchinga	Cameroon	Dioscorea cayenensis	Azetech et al.	2016-09-10
-MT501353	Yam mosaic virus	Potyvirus yamtesselati	YMVcp-HB298	Cameroon: Kella	Cameroon	Dioscorea cayenensis subsp. rotundata	Azetech et al.	2016-09-11
-MT501354	Yam mosaic virus	Potyvirus yamtesselati	YMVcp-HB295	Cameroon: Beahango Mbangassina	Cameroon	Dioscorea cayenensis subsp. rotundata	Azetech et al.	2016-09-12
-MT501355	Yam mosaic virus	Potyvirus yamtesselati	YMVcp-WH126	Cameroon: Bafoussam	Cameroon	Dioscorea schimperiana	Azetech et al.	2016-11-02
-MT501356	Yam mosaic virus	Potyvirus yamtesselati	YMVcp-HB160	Cameroon: Ekoroko	Cameroon	Dioscorea esculenta	Azetech et al.	2016-11-01
-MT501357	Yam mosaic virus	Potyvirus yamtesselati	YMVcp-HM190	Cameroon: Mbonge	Cameroon	Dioscorea cayenensis subsp. rotundata	Azetech et al.	2016-11-01
-MT501358	Yam mosaic virus	Potyvirus yamtesselati	YMVcp-WH201b	Cameroon: Mankon	Cameroon	Dioscorea cayenensis	Azetech et al.	2016-11-01
-MT501399	Yam mosaic virus	Potyvirus yamtesselati	Au-Sc2-17-1	Nigeria: Alumaco	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al. 	2017-XX-XX
-MT501400	Yam mosaic virus	Potyvirus yamtesselati	Fk-Sc2-17-2	Nigeria: Faketsa	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al. 	2017-XX-XX
-MT501401	Yam mosaic virus	Potyvirus yamtesselati	Las-Sc3-17-1	Nigeria: Lasiri	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al. 	2017-XX-XX
-MT501402	Yam mosaic virus	Potyvirus yamtesselati	Am-Sc3-17-1	Nigeria: Ame	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al. 	2017-XX-XX
-MT501403	Yam mosaic virus	Potyvirus yamtesselati	Au-Sc2-17-2	Nigeria: Alumaco	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al. 	2017-XX-XX
-MT501404	Yam mosaic virus	Potyvirus yamtesselati	AL-Sc2-17-1	Nigeria: Aloshi	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al. 	2017-XX-XX
-MT501405	Yam mosaic virus	Potyvirus yamtesselati	Las-Sc2-17-1	Nigeria: Lasiri	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al. 	2017-XX-XX
-MT501406	Yam mosaic virus	Potyvirus yamtesselati	Au-Sc3-17-1	Nigeria: Alumaco	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al. 	2017-XX-XX
-MT501407	Yam mosaic virus	Potyvirus yamtesselati	Am-Sc2-17-1	Nigeria: Ame	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al. 	2017-XX-XX
-MT501408	Yam mosaic virus	Potyvirus yamtesselati	Ek-Sc2-17-1	Nigeria: Ekpe	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al. 	2017-XX-XX
-MT501409	Yam mosaic virus	Potyvirus yamtesselati	Au-Sc3-17-2	Nigeria: Alumaco	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al. 	2017-XX-XX
-MT501410	Yam mosaic virus	Potyvirus yamtesselati	Las-Sc3-17-2	Nigeria: Lasiri	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al. 	2017-XX-XX
-MT501411	Yam mosaic virus	Potyvirus yamtesselati	Hem-Sc3-17-1	Nigeria: Hembakwase	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al. 	2017-XX-XX
-MT501412	Yam mosaic virus	Potyvirus yamtesselati	Al-Sc3-17-1	Nigeria: Aloshi	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al. 	2017-XX-XX
-MT501413	Yam mosaic virus	Potyvirus yamtesselati	Ak-Sc3-17-1	Nigeria: Adaka	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al. 	2017-XX-XX
-MT501414	Yam mosaic virus	Potyvirus yamtesselati	Al-Sc2-17-2	Nigeria: Aloshi	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al. 	2017-XX-XX
-MT501415	Yam mosaic virus	Potyvirus yamtesselati	Mk-Sc3-17-2	Nigeria: Meccakusa	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al. 	2017-XX-XX
-MT501416	Yam mosaic virus	Potyvirus yamtesselati	Mk-Sc2-17-1	Nigeria: Meccakusa	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al. 	2017-XX-XX
-MT501417	Yam mosaic virus	Potyvirus yamtesselati	Las-Sc3-17-3	Nigeria: Lasiri	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al. 	2017-XX-XX
-MT501418	Yam mosaic virus	Potyvirus yamtesselati	Mk-Sc2-17-2	Nigeria: Meccakusa	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al. 	2017-XX-XX
-MT501419	Yam mosaic virus	Potyvirus yamtesselati	Dr-Sc3-17-1	Nigeria: Daribokor	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al. 	2017-XX-XX
-MT501420	Yam mosaic virus	Potyvirus yamtesselati	Ek-Sc2-17-2	Nigeria: Ekpe	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al. 	2017-XX-XX
-MT501421	Yam mosaic virus	Potyvirus yamtesselati	Ek-Sc3-17-2	Nigeria: Ekpe	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al. 	2017-XX-XX
-MT501422	Yam mosaic virus	Potyvirus yamtesselati	AL-Sc2-17-3	Nigeria: Aloshi	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al. 	2017-XX-XX
-MT501423	Yam mosaic virus	Potyvirus yamtesselati	Hem-Sc2-17-2	Nigeria: Hembakwase	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al. 	2017-XX-XX
-MT501424	Yam mosaic virus	Potyvirus yamtesselati	Hem-Sc2-17-3	Nigeria: Hembakwase	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al. 	2017-XX-XX
-MT501425	Yam mosaic virus	Potyvirus yamtesselati	AL-Sc2-18-1	Nigeria: Aloshi	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al. 	2018-XX-XX
-MT501426	Yam mosaic virus	Potyvirus yamtesselati	Au-Sc2-18-2	Nigeria: Alumaco	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al. 	2018-XX-XX
-MT501427	Yam mosaic virus	Potyvirus yamtesselati	Fk-Sc2-18-1	Nigeria: Faketsa	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al. 	2018-XX-XX
-MT501428	Yam mosaic virus	Potyvirus yamtesselati	Hem-Sc2-18-2	Nigeria: Hembakwase	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al. 	2018-XX-XX
-MT501429	Yam mosaic virus	Potyvirus yamtesselati	AK-Sc2-18-1	Nigeria: Adaka	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al. 	2018-XX-XX
-MT501430	Yam mosaic virus	Potyvirus yamtesselati	Am-Sc2-18-3	Nigeria: Ame	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al. 	2018-XX-XX
-MT501431	Yam mosaic virus	Potyvirus yamtesselati	Ak-Sc2-18-3	Nigeria: Adaka	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al. 	2018-XX-XX
-MT501432	Yam mosaic virus	Potyvirus yamtesselati	Ak-Sc2-18-4	Nigeria: Adaka	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al. 	2018-XX-XX
-MT501433	Yam mosaic virus	Potyvirus yamtesselati	Au-Sc2-18-5	Nigeria: Alumaco	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al. 	2018-XX-XX
-MT501434	Yam mosaic virus	Potyvirus yamtesselati	Au-Sc2-18-6	Nigeria: Alumaco	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al. 	2018-XX-XX
-MT501435	Yam mosaic virus	Potyvirus yamtesselati	Al-Sc2-18-2	Nigeria: Aloshi	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al. 	2018-XX-XX
-MT501436	Yam mosaic virus	Potyvirus yamtesselati	Am-Sc2-17-2	Nigeria: Ame	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al. 	2017-XX-XX
-MT501437	Yam mosaic virus	Potyvirus yamtesselati	Au-Sc2-18-1	Nigeria: Alumaco	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al. 	2018-XX-XX
-MT501438	Yam mosaic virus	Potyvirus yamtesselati	Mk-Sc2-18-1	Nigeria: Meccakusa	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al. 	2018-XX-XX
-MT501439	Yam mosaic virus	Potyvirus yamtesselati	EK-Sc2-18-1	Nigeria: Ekpe	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al. 	2018-XX-XX
-MT501440	Yam mosaic virus	Potyvirus yamtesselati	EK-Sc3-18-1	Nigeria: Ekpe	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al. 	2018-XX-XX
-MT501441	Yam mosaic virus	Potyvirus yamtesselati	Mk-Sc2-17-3	Nigeria: Meccakusa	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al. 	2017-XX-XX
-MT501442	Yam mosaic virus	Potyvirus yamtesselati	AL-Sc3-17-2	Nigeria: Aloshi	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al. 	2017-XX-XX
-MT501443	Yam mosaic virus	Potyvirus yamtesselati	Fk-Sc2-17-1	Nigeria: Faketsa	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al. 	2017-XX-XX
-MT501444	Yam mosaic virus	Potyvirus yamtesselati	Fk-Sc2-18-2	Nigeria: Faketsa	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al. 	2018-XX-XX
-MT501445	Yam mosaic virus	Potyvirus yamtesselati	Ek-Sc3-17-1	Nigeria: Ekpe	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al. 	2017-XX-XX
-MT501446	Yam mosaic virus	Potyvirus yamtesselati	Dr-Sc2-17-2	Nigeria: Daribokor	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al. 	2017-XX-XX
-MT501447	Yam mosaic virus	Potyvirus yamtesselati	Ak-Sc2-17-1	Nigeria: Adaka	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al. 	2017-XX-XX
-MT501448	Yam mosaic virus	Potyvirus yamtesselati	Las-Sc2-17-2	Nigeria: Lasiri	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al. 	2017-XX-XX
-MT501449	Yam mosaic virus	Potyvirus yamtesselati	Mk-Sc3-17-3	Nigeria: Meccakusa	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al. 	2017-XX-XX
-MT501450	Yam mosaic virus	Potyvirus yamtesselati	Au-Sc2-18-3	Nigeria: Alumaco	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al. 	2018-XX-XX
-MT501451	Yam mosaic virus	Potyvirus yamtesselati	Hem-Sc2-17-1F	Nigeria: Hembakwase	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al. 	2017-XX-XX
-MT542849	Yam mosaic virus	Potyvirus yamtesselati	MK-GWAD-1	Nigeria: Makakusa	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al. 	2016-XX-XX
-MT542850	Yam mosaic virus	Potyvirus yamtesselati	MK-GWAD-2	Nigeria: Makakusa	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al. 	2016-XX-XX
-MT542851	Yam mosaic virus	Potyvirus yamtesselati	EK-ILUSHI-1	Nigeria: Ekpe	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al. 	2016-XX-XX
-MT542852	Yam mosaic virus	Potyvirus yamtesselati	EK-ILUSHI-2	Nigeria: Ekpe	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al. 	2016-XX-XX
-MT542853	Yam mosaic virus	Potyvirus yamtesselati	EK-NTEJE-1	Nigeria: Ekpe	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al. 	2016-XX-XX
-MT542854	Yam mosaic virus	Potyvirus yamtesselati	ALU-ILUSHI-1	Nigeria: Alumaco	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al. 	2016-XX-XX
-MT542855	Yam mosaic virus	Potyvirus yamtesselati	ALU-ILUSHI-2	Nigeria: Alumaco	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al. 	2016-XX-XX
-MT542856	Yam mosaic virus	Potyvirus yamtesselati	ADK-NTEJE-1	Nigeria: Adaka	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al. 	2016-XX-XX
-MT542857	Yam mosaic virus	Potyvirus yamtesselati	FAK-ZAKI-1	Nigeria: Faketsa	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al. 	2016-XX-XX
-MT542858	Yam mosaic virus	Potyvirus yamtesselati	MAK-PAK-3	Nigeria: Makakusa	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al. 	2016-XX-XX
-MT542859	Yam mosaic virus	Potyvirus yamtesselati	LAS-SARKI-3	Nigeria: Lasiri	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al. 	2016-XX-XX
-MT542860	Yam mosaic virus	Potyvirus yamtesselati	AL-AGYAGU-1	Nigeria: Aloshi	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al. 	2016-XX-XX
-MT542861	Yam mosaic virus	Potyvirus yamtesselati	AL-AGYAGU-2	Nigeria: Aloshi	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al. 	2016-XX-XX
-MT542862	Yam mosaic virus	Potyvirus yamtesselati	AME-GWADALAD-3	Nigeria: Ame	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al. 	2016-XX-XX
-MT542863	Yam mosaic virus	Potyvirus yamtesselati	AME-GWADALAD-1	Nigeria: Ame	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al. 	2016-XX-XX
-MT542864	Yam mosaic virus	Potyvirus yamtesselati	Hem-AGYAGU-1	Nigeria: Hembakwase	Nigeria	Dioscorea cayenensis subsp. rotundata	Osundahunsi et al. 	2016-XX-XX
-MK814865	Yam mosaic virus	Potyvirus yamtesselati	8_StoDgo	Cuba: Villa Clara	Cuba	Dioscorea esculenta	Gonzalez Ramirez et al.	2011-11-XX
-MK814866	Yam mosaic virus	Potyvirus yamtesselati	9_StoDgo	Cuba: Villa Clara	Cuba	Dioscorea esculenta	Gonzalez Ramirez et al.	2011-11-XX
-MK814867	Yam mosaic virus	Potyvirus yamtesselati	M1_StoDgo	Cuba: Villa Clara	Cuba	Dioscorea cayenensis subsp. rotundata	Gonzalez Ramirez et al.	2014-06-XX
-MK814868	Yam mosaic virus	Potyvirus yamtesselati	M4_StoDgo	Cuba: Villa Clara	Cuba	Dioscorea cayenensis subsp. rotundata	Gonzalez Ramirez et al.	2014-06-XX
-AJ238401	Yam mosaic virus	Potyvirus yamtesselati	Trifida/C5	France:Guadeloupe	France	Dioscorea trifida	Bousalem et al. 	1986-XX-XX
-AJ244043	Yam mosaic virus	Potyvirus yamtesselati	AID10/C5	Puerto Rico	USA	Dioscorea alata	Bousalem et al. 	1994-XX-XX
-AJ244044	Yam mosaic virus	Potyvirus yamtesselati	CGU2/C4	France:Guadeloupe	France	Dioscorea cayenensis subsp. rotundata	Bousalem et al. 	1994-XX-XX
-AJ244045	Yam mosaic virus	Potyvirus yamtesselati	GY/INRA/C11	French Guiana	French Guiana	Dioscorea trifida	Bousalem et al. 	1991-XX-XX
-AJ244046	Yam mosaic virus	Potyvirus yamtesselati	174/C1	Benin	Benin	Dioscorea cayenensis subsp. rotundata	Bousalem et al. 	1994-XX-XX
-AJ244047	Yam mosaic virus	Potyvirus yamtesselati	608	Nigeria	Nigeria	Dioscorea cayenensis subsp. rotundata	Bousalem et al. 	1992-XX-XX
-AJ244048	Yam mosaic virus	Potyvirus yamtesselati	B1/C1	Benin	Benin	Dioscorea cayenensis subsp. rotundata	Bousalem et al. 	1994-XX-XX
-AJ244049	Yam mosaic virus	Potyvirus yamtesselati	B14	Benin	Benin	Dioscorea cayenensis subsp. rotundata	Bousalem et al. 	1994-XX-XX
-AJ244050	Yam mosaic virus	Potyvirus yamtesselati	BFC51/C11	Burkina Faso	Burkina Faso	Dioscorea cayenensis subsp. rotundata	Bousalem et al. 	1992-XX-XX
-AJ244051	Yam mosaic virus	Potyvirus yamtesselati	BFC54	Burkina Faso	Burkina Faso	Dioscorea cayenensis subsp. rotundata	Bousalem et al. 	1992-XX-XX
-AJ244052	Yam mosaic virus	Potyvirus yamtesselati	BFC56	Burkina Faso	Burkina Faso	Dioscorea cayenensis subsp. rotundata	Bousalem et al. 	1992-XX-XX
-AJ244053	Yam mosaic virus	Potyvirus yamtesselati	C1/C3	Burkina Faso	Burkina Faso	Dioscorea cayenensis subsp. rotundata	Bousalem et al. 	1992-XX-XX
-AJ244054	Yam mosaic virus	Potyvirus yamtesselati	CAM1/C1	Cameroon	Cameroon	Dioscorea cayenensis subsp. rotundata	Bousalem et al. 	1994-XX-XX
-AJ244055	Yam mosaic virus	Potyvirus yamtesselati	CAM2/C31	Cameroon	Cameroon	Dioscorea cayenensis subsp. rotundata	Bousalem et al. 	1994-XX-XX
-AJ244056	Yam mosaic virus	Potyvirus yamtesselati	CBE6b/C3	Benin	Benin	Dioscorea cayenensis subsp. rotundata	Bousalem et al. 	1994-XX-XX
-AJ244057	Yam mosaic virus	Potyvirus yamtesselati	CGU1/C18	France:Guadeloupe	France	Dioscorea cayenensis subsp. rotundata	Bousalem et al. 	1994-XX-XX
-AJ244058	Yam mosaic virus	Potyvirus yamtesselati	CID3/C12	Ivory Coast	Ivory Coast	Dioscorea cayenensis subsp. rotundata	Bousalem et al. 	1994-XX-XX
-AJ244059	Yam mosaic virus	Potyvirus yamtesselati	CKA1/C11	Ivory Coast	Ivory Coast	Dioscorea cayenensis subsp. rotundata	Bousalem et al. 	1994-XX-XX
-AJ244060	Yam mosaic virus	Potyvirus yamtesselati	Divin	France:Guadeloupe	France	Dioscorea alata	Bousalem et al. 	1989-XX-XX
-AJ244061	Yam mosaic virus	Potyvirus yamtesselati	G13/C1	French Guiana	French Guiana	Dioscorea trifida	Bousalem et al. 	1992-XX-XX
-AJ244062	Yam mosaic virus	Potyvirus yamtesselati	G5/C10	French Guiana	French Guiana	Dioscorea trifida	Bousalem et al. 	1992-XX-XX
-AJ244063	Yam mosaic virus	Potyvirus yamtesselati	GR/SAVANE/C4	France:Guadeloupe	France	Dioscorea cayenensis subsp. rotundata	Bousalem et al. 	1991-XX-XX
-AJ244064	Yam mosaic virus	Potyvirus yamtesselati	POGNON/C1	France:Guadeloupe	France	Dioscorea cayenensis subsp. rotundata	Bousalem et al. 	1994-XX-XX
-AJ244065	Yam mosaic virus	Potyvirus yamtesselati	SOA AI/C1	Burkina Faso	Burkina Faso	Dioscorea alata	Bousalem et al. 	1992-XX-XX
-AJ244066	Yam mosaic virus	Potyvirus yamtesselati	SOA2/C1	Burkina Faso	Burkina Faso	Dioscorea alata	Bousalem et al. 	1992-XX-XX
-U42596	Yam mosaic virus	Potyvirus yamtesselati	Ivory Coast	Ivory Coast	Ivory Coast	Dioscorea sp.	Aleman et al. 	1977-XX-XX
-OK239701	Yam mosaic virus	Potyvirus yamtesselati	YMV_DR2	Brazil	Brazil	Dioscorea cayenensis subsp. rotundata	Mendoza et al.	2019-XX-XX
-OK239702	Yam mosaic virus	Potyvirus yamtesselati	YMV_Dsp	Brazil	Brazil	Dioscorea sp.	Mendoza et al.	2014-XX-XX
-OL739290	Yam mosaic virus	Potyvirus yamtesselati	YMV_I4	Brazil	Brazil	Dioscorea cayenensis subsp. rotundata	Mendoza et al.	2019-11-25
+strain	date	country	region	host	accession	isolates	authors
+R-Oct-20-300-1_MZ670783_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-10-01	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670783	R-Oct-20-300-1	Osundahunsi et al.
+R-Sep-20-1000-1_MZ670784_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-09-01	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670784	R-Sep-20-1000-1	Osundahunsi et al.
+R-Oct-20-1000-1_MZ670785_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-10-01	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670785	R-Oct-20-1000-1	Osundahunsi et al.
+R-Sep-20-1000-2_MZ670786_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-09-01	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670786	R-Sep-20-1000-2	Osundahunsi et al.
+R-Sep-20-1000-3_MZ670787_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-09-01	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670787	R-Sep-20-1000-3	Osundahunsi et al.
+R-Aug-20-300-1_MZ670788_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-08-01	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670788	R-Aug-20-300-1	Osundahunsi et al.
+R-Aug-20-300-2_MZ670789_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-08-01	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670789	R-Aug-20-300-2	Osundahunsi et al.
+R-Aug-20-300-3_MZ670790_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-08-01	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670790	R-Aug-20-300-3	Osundahunsi et al.
+R-Oct-20-500-2_MZ670791_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-10-01	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670791	R-Oct-20-500-2	Osundahunsi et al.
+R-Aug-20-500-1_MZ670792_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-08-01	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670792	R-Aug-20-500-1	Osundahunsi et al.
+R-Aug-20-500-2_MZ670793_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-08-01	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670793	R-Aug-20-500-2	Osundahunsi et al.
+R-Sep-20-300-1_MZ670794_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-09-01	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670794	R-Sep-20-300-1	Osundahunsi et al.
+R-Sep-20-300-2_MZ670795_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-09-01	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670795	R-Sep-20-300-2	Osundahunsi et al.
+R-Sep-20-500-1_MZ670796_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-09-01	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670796	R-Sep-20-500-1	Osundahunsi et al.
+R-Sep-20-500-2_MZ670797_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-09-01	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670797	R-Sep-20-500-2	Osundahunsi et al.
+R-Sep-20-500-3_MZ670798_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-09-01	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670798	R-Sep-20-500-3	Osundahunsi et al.
+R-Sep-20-1000-7_MZ670799_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-09-01	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670799	R-Sep-20-1000-7	Osundahunsi et al.
+R-Sep-20-1000-8_MZ670800_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-09-01	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670800	R-Sep-20-1000-8	Osundahunsi et al.
+R-Oct-20-300-3_MZ670801_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-10-01	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670801	R-Oct-20-300-3	Osundahunsi et al.
+R-Oct-20-300-4_MZ670802_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-10-01	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670802	R-Oct-20-300-4	Osundahunsi et al.
+R-Oct-20-1000-2_MZ670803_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-10-01	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670803	R-Oct-20-1000-2	Osundahunsi et al.
+R-Oct-20-1000-3_MZ670804_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-10-01	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670804	R-Oct-20-1000-3	Osundahunsi et al.
+R-Oct-20-500-3_MZ670805_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-10-01	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670805	R-Oct-20-500-3	Osundahunsi et al.
+R-Oct-20-500-4_MZ670806_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-10-01	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670806	R-Oct-20-500-4	Osundahunsi et al.
+F-May-20-500-1_MZ670807_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-08-01	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670807	F-May-20-500-1	Osundahunsi et al.
+F-May-20-300-1_MZ670808_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-08-01	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670808	F-May-20-300-1	Osundahunsi et al.
+F-May-20-500-2_MZ670809_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-08-01	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670809	F-May-20-500-2	Osundahunsi et al.
+F-Apr-20-1000-1_MZ670810_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-08-01	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670810	F-Apr-20-1000-1	Osundahunsi et al.
+F-Apr-20-1000-2_MZ670811_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-08-01	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670811	F-Apr-20-1000-2	Osundahunsi et al.
+F-May-20-300-2_MZ670812_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-08-01	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670812	F-May-20-300-2	Osundahunsi et al.
+F-May-20-300-3_MZ670813_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-08-01	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670813	F-May-20-300-3	Osundahunsi et al.
+F-Apr-20-1000-3_MZ670814_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-08-01	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670814	F-Apr-20-1000-3	Osundahunsi et al.
+F-Apr-20-1000-4_MZ670815_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-08-01	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670815	F-Apr-20-1000-4	Osundahunsi et al.
+R-Nov-17-YB2_MZ670816_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-11-14	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670816	R-Nov-17-YB2	Osundahunsi et al.
+R-Nov-17-YB3_MZ670817_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-11-14	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670817	R-Nov-17-YB3	Osundahunsi et al.
+R-Nov-17-YB4_MZ670818_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-11-14	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670818	R-Nov-17-YB4	Osundahunsi et al.
+R-Nov-17-YB6_MZ670819_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-11-14	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670819	R-Nov-17-YB6	Osundahunsi et al.
+R-Nov-17-YB7_MZ670820_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-11-14	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670820	R-Nov-17-YB7	Osundahunsi et al.
+R-Nov-17-YB8_MZ670821_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-11-14	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670821	R-Nov-17-YB8	Osundahunsi et al.
+R-Nov-17-YB9_MZ670822_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-11-14	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670822	R-Nov-17-YB9	Osundahunsi et al.
+R-Nov-17-YB10_MZ670823_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-11-14	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670823	R-Nov-17-YB10	Osundahunsi et al.
+R-Nov-17-YB11_MZ670824_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-11-14	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670824	R-Nov-17-YB11	Osundahunsi et al.
+R-Nov-17-YB12_MZ670825_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-11-14	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670825	R-Nov-17-YB12	Osundahunsi et al.
+R-Nov-17-YB13_MZ670826_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-11-14	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670826	R-Nov-17-YB13	Osundahunsi et al.
+R-Nov-17-YB14_MZ670827_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-11-14	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670827	R-Nov-17-YB14	Osundahunsi et al.
+R-Nov-17-YB16_MZ670828_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-11-14	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670828	R-Nov-17-YB16	Osundahunsi et al.
+R-Nov-17-YB18_MZ670829_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-11-14	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670829	R-Nov-17-YB18	Osundahunsi et al.
+R-Nov-17-YB19_MZ670830_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-11-14	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670830	R-Nov-17-YB19	Osundahunsi et al.
+R-Nov-17-YB20_MZ670831_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-11-14	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670831	R-Nov-17-YB20	Osundahunsi et al.
+R-Nov-17-YB21_MZ670832_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-11-14	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670832	R-Nov-17-YB21	Osundahunsi et al.
+F-Apr-18-5-M3_MZ670833_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018	2018-09-06	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670833	F-Apr-18-5-M3	Osundahunsi et al.
+F-Apr-18-5-L3-1_MZ670834_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018	2018-04-15	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670834	F-Apr-18-5-L3-1	Osundahunsi et al.
+F-Apr-18-5-L1-1_MZ670835_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018	2018-04-15	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670835	F-Apr-18-5-L1-1	Osundahunsi et al.
+F-Apr-18-5-L3-2_MZ670836_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018	2018-04-15	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670836	F-Apr-18-5-L3-2	Osundahunsi et al.
+F-Apr-18-5-L3-3_MZ670837_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018	2018-04-15	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670837	F-Apr-18-5-L3-3	Osundahunsi et al.
+F-Apr-18-5-L1-2_MZ670838_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018	2018-04-15	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670838	F-Apr-18-5-L1-2	Osundahunsi et al.
+F-Apr-18-5-2_MZ670839_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018	2018-04-15	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670839	F-Apr-18-5-2	Osundahunsi et al.
+F-Apr-18-5-L1-3_MZ670840_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018	2018-04-15	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670840	F-Apr-18-5-L1-3	Osundahunsi et al.
+F-Apr-18-5-M1_MZ670841_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018	2018-04-15	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670841	F-Apr-18-5-M1	Osundahunsi et al.
+F-Apr-19-50-S21_MZ670842_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2019	2019-04-07	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670842	F-Apr-19-50-S21	Osundahunsi et al.
+F-Apr-19-50-S4_MZ670843_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2019	2019-04-07	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670843	F-Apr-19-50-S4	Osundahunsi et al.
+F-Apr-19-50-S5_MZ670844_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2019	2019-04-07	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670844	F-Apr-19-50-S5	Osundahunsi et al.
+F-Apr-19-50-S3_MZ670845_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2019	2019-04-07	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670845	F-Apr-19-50-S3	Osundahunsi et al.
+F-May-20-2-X1D_MZ670846_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-05-13	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670846	F-May-20-2-X1D	Osundahunsi et al.
+F-May-20-2-X1B_MZ670847_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-05-13	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670847	F-May-20-2-X1B	Osundahunsi et al.
+F-May-20-2-X2B_MZ670848_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-05-13	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670848	F-May-20-2-X2B	Osundahunsi et al.
+F-May-20-2-X3C_MZ670849_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-05-13	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670849	F-May-20-2-X3C	Osundahunsi et al.
+R-Dec-16-pT2-1_MZ670850_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2016	2016-12-14	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670850	R-Dec-16-pT2-1	Osundahunsi et al.
+R-Dec-16-pT2-2_MZ670851_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2016	2016-12-14	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670851	R-Dec-16-pT2-2	Osundahunsi et al.
+R-Jan-17-pT2-1_MZ670852_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-01-22	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670852	R-Jan-17-pT2-1	Osundahunsi et al.
+R-Jan-17-pT1-1_MZ670853_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-01-22	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670853	R-Jan-17-pT1-1	Osundahunsi et al.
+R-Feb-17-pT1-1_MZ670854_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-02-11	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670854	R-Feb-17-pT1-1	Osundahunsi et al.
+R-Feb-17-pT3-1_MZ670855_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-02-11	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670855	R-Feb-17-pT3-1	Osundahunsi et al.
+R-Feb-17-pT1-2_MZ670856_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-02-11	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670856	R-Feb-17-pT1-2	Osundahunsi et al.
+R-Feb-17-pT3-2_MZ670857_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-02-11	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670857	R-Feb-17-pT3-2	Osundahunsi et al.
+R-Feb-17-m1-1_MZ670858_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-02-11	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670858	R-Feb-17-m1-1	Osundahunsi et al.
+R-Feb-17-m1-2_MZ670859_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-02-11	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670859	R-Feb-17-m1-2	Osundahunsi et al.
+R-Feb-17-m1-3_MZ670860_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-02-11	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670860	R-Feb-17-m1-3	Osundahunsi et al.
+R-Feb-17-m1-4_MZ670861_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-02-11	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670861	R-Feb-17-m1-4	Osundahunsi et al.
+R-Mar-17-pT2-1_MZ670862_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-03-21	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670862	R-Mar-17-pT2-1	Osundahunsi et al.
+R-Mar-17-pT2-2_MZ670863_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-03-21	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670863	R-Mar-17-pT2-2	Osundahunsi et al.
+R-Mar-17-pT2-3_MZ670864_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-03-21	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670864	R-Mar-17-pT2-3	Osundahunsi et al.
+R-Mar-17-pT3-1_MZ670865_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-03-21	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670865	R-Mar-17-pT3-1	Osundahunsi et al.
+R-Mar-17-pT3-2_MZ670866_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-03-21	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670866	R-Mar-17-pT3-2	Osundahunsi et al.
+R-Mar-17-pT2-4_MZ670867_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-03-21	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670867	R-Mar-17-pT2-4	Osundahunsi et al.
+R-Apr-17-m2-1_MZ670868_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-04-08	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670868	R-Apr-17-m2-1	Osundahunsi et al.
+R-Apr-17-m2-2_MZ670869_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-04-08	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670869	R-Apr-17-m2-2	Osundahunsi et al.
+R-Feb-17-pT4-1_MZ670870_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-02-06	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670870	R-Feb-17-pT4-1	Osundahunsi et al.
+R-Mar-17-m2-3_MZ670871_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-03-21	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670871	R-Mar-17-m2-3	Osundahunsi et al.
+R-Apr-17-m2-3_MZ670872_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-04-07	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670872	R-Apr-17-m2-3	Osundahunsi et al.
+R-Mar-17-m2-4_MZ670873_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-03-21	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670873	R-Mar-17-m2-4	Osundahunsi et al.
+R-Apr-17-pT2-3_MZ670874_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-04-08	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670874	R-Apr-17-pT2-3	Osundahunsi et al.
+R-Sep-18-5-pT1_MZ670875_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018	2018-09-15	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670875	R-Sep-18-5-pT1	Osundahunsi et al.
+R-Sep-18-5-pT10_MZ670876_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018	2018-09-15	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670876	R-Sep-18-5-pT10	Osundahunsi et al.
+R-Sep-18-5-pT13_MZ670877_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018	2018-09-15	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670877	R-Sep-18-5-pT13	Osundahunsi et al.
+R-Aug-18-5-pT1_MZ670878_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018	2018-08-01	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670878	R-Aug-18-5-pT1	Osundahunsi et al.
+R-Aug-18-5-pT7_MZ670879_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018	2018-08-01	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670879	R-Aug-18-5-pT7	Osundahunsi et al.
+R-Jul-18-5-pT1_MZ670880_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018	2018-07-01	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670880	R-Jul-18-5-pT1	Osundahunsi et al.
+R-Jul-18-5-pT9_MZ670881_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018	2018-07-01	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670881	R-Jul-18-5-pT9	Osundahunsi et al.
+R-Oct-18-5-pT3_MZ670882_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018	2018-10-23	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670882	R-Oct-18-5-pT3	Osundahunsi et al.
+R-Oct-18-5-pT6_MZ670883_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018	2018-10-23	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670883	R-Oct-18-5-pT6	Osundahunsi et al.
+R-Aug-18-5-pT11_MZ670884_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018	2018-08-01	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670884	R-Aug-18-5-pT11	Osundahunsi et al.
+R-Oct-18-5-pT9_MZ670885_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018	2018-10-23	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670885	R-Oct-18-5-pT9	Osundahunsi et al.
+R-Sep-18-5-pT7_MZ670886_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018	2018-09-15	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670886	R-Sep-18-5-pT7	Osundahunsi et al.
+R-Sep-18-5-pT3_MZ670887_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018	2018-09-15	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670887	R-Sep-18-5-pT3	Osundahunsi et al.
+R-Oct-18-5-pT7_MZ670888_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018	2018-10-23	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670888	R-Oct-18-5-pT7	Osundahunsi et al.
+R-Aug-18-5-pT4_MZ670889_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018	2018-08-01	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670889	R-Aug-18-5-pT4	Osundahunsi et al.
+R-Jul-18-5-pT12_MZ670890_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018	2018-07-01	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670890	R-Jul-18-5-pT12	Osundahunsi et al.
+R-Aug-18-5-pT12_MZ670891_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018	2018-08-09	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670891	R-Aug-18-5-pT12	Osundahunsi et al.
+R-Jul-18-5-pT11_MZ670892_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018	2018-07-01	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670892	R-Jul-18-5-pT11	Osundahunsi et al.
+R-Aug-18-5-pT10_MZ670893_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018	2018-08-09	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670893	R-Aug-18-5-pT10	Osundahunsi et al.
+R-Jul-18-5-pT8_MZ670894_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018	2018-07-01	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670894	R-Jul-18-5-pT8	Osundahunsi et al.
+R-Jul-18-5-pT2_MZ670895_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018	2018-07-01	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670895	R-Jul-18-5-pT2	Osundahunsi et al.
+R-Sep-18-5-pT5_MZ670896_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018	2018-09-15	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670896	R-Sep-18-5-pT5	Osundahunsi et al.
+R-Jul-18-5-pT7_MZ670897_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018	2018-07-01	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670897	R-Jul-18-5-pT7	Osundahunsi et al.
+R-Aug-18-5-pT2_MZ670898_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018	2018-08-09	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670898	R-Aug-18-5-pT2	Osundahunsi et al.
+R-Sep-18-5-pT4_MZ670899_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018	2018-09-15	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670899	R-Sep-18-5-pT4	Osundahunsi et al.
+R-Oct-18-5-pT1_MZ670900_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018	2018-10-23	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670900	R-Oct-18-5-pT1	Osundahunsi et al.
+R-Jul-18-5-pT6_MZ670901_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018	2018-07-01	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670901	R-Jul-18-5-pT6	Osundahunsi et al.
+R-Oct-18-5-pT5_MZ670902_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018	2018-10-23	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670902	R-Oct-18-5-pT5	Osundahunsi et al.
+R-Sep-18-5-pT2_MZ670903_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018	2018-09-15	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670903	R-Sep-18-5-pT2	Osundahunsi et al.
+R-Sep-18-5-pT6_MZ670904_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018	2018-09-15	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670904	R-Sep-18-5-pT6	Osundahunsi et al.
+R-Sep-18-5-pT8_MZ670905_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018	2018-09-15	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670905	R-Sep-18-5-pT8	Osundahunsi et al.
+R-Aug-18-5-pT8_MZ670906_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018	2018-08-09	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670906	R-Aug-18-5-pT8	Osundahunsi et al.
+R-Oct-18-5-pT8_MZ670907_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018	2018-10-23	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670907	R-Oct-18-5-pT8	Osundahunsi et al.
+R-Jul-18-5-pT3_MZ670908_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018	2018-07-01	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670908	R-Jul-18-5-pT3	Osundahunsi et al.
+R-Aug-18-5-pT3_MZ670909_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018	2018-08-09	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670909	R-Aug-18-5-pT3	Osundahunsi et al.
+R-Jul-18-5-pT5_MZ670910_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018	2018-07-01	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670910	R-Jul-18-5-pT5	Osundahunsi et al.
+R-Jul-18-5-pT10_MZ670911_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018	2018-07-01	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670911	R-Jul-18-5-pT10	Osundahunsi et al.
+R-Sep-18-5-pT11_MZ670912_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018	2018-09-15	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670912	R-Sep-18-5-pT11	Osundahunsi et al.
+R-Sep-18-5-pT12_MZ670913_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018	2018-09-15	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670913	R-Sep-18-5-pT12	Osundahunsi et al.
+R-Oct-18-5-pT11_MZ670914_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018	2018-10-23	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670914	R-Oct-18-5-pT11	Osundahunsi et al.
+R-Aug-18-5-pT9_MZ670915_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018	2018-08-09	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670915	R-Aug-18-5-pT9	Osundahunsi et al.
+R-Oct-18-5-pT2_MZ670916_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018	2018-10-12	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670916	R-Oct-18-5-pT2	Osundahunsi et al.
+R-Jul-18-5-pT4_MZ670917_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018	2018-07-01	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670917	R-Jul-18-5-pT4	Osundahunsi et al.
+R-Oct-18-5-pT12_MZ670918_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018	2018-10-23	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670918	R-Oct-18-5-pT12	Osundahunsi et al.
+R-Jul-18-5-pT13_MZ670919_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018	2018-07-01	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670919	R-Jul-18-5-pT13	Osundahunsi et al.
+R-Oct-18-5-pT10_MZ670920_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018	2018-10-23	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670920	R-Oct-18-5-pT10	Osundahunsi et al.
+R-Aug-18-5-pT6_MZ670921_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018	2018-08-09	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670921	R-Aug-18-5-pT6	Osundahunsi et al.
+R-Oct-18-5-pT4_MZ670922_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018	2018-10-23	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670922	R-Oct-18-5-pT4	Osundahunsi et al.
+R-Oct-18-5-pT13_MZ670923_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018	2018-10-12	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670923	R-Oct-18-5-pT13	Osundahunsi et al.
+R-Aug-18-5-pT13_MZ670924_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018	2018-08-09	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670924	R-Aug-18-5-pT13	Osundahunsi et al.
+R-Aug-18-5-pT5_MZ670925_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018	2018-08-09	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670925	R-Aug-18-5-pT5	Osundahunsi et al.
+R-Aug-19-50-pT2_MZ670926_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2019	2019-08-01	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670926	R-Aug-19-50-pT2	Osundahunsi et al.
+R-Sep-19-50-pT3_MZ670927_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2019	2019-09-03	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670927	R-Sep-19-50-pT3	Osundahunsi et al.
+R-Oct-19-50-pT2_MZ670928_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2019	2019-10-16	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670928	R-Oct-19-50-pT2	Osundahunsi et al.
+R-Oct-19-50-pT42_MZ670929_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2019	2019-10-16	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670929	R-Oct-19-50-pT42	Osundahunsi et al.
+R-Oct-19-50-pT8_MZ670930_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2019	2019-10-16	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670930	R-Oct-19-50-pT8	Osundahunsi et al.
+R-Aug-19-50-pT1_MZ670931_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2019	2019-08-11	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670931	R-Aug-19-50-pT1	Osundahunsi et al.
+R-Oct-19-50-pT6_MZ670932_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2019	2019-10-16	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670932	R-Oct-19-50-pT6	Osundahunsi et al.
+R-Sep-19-50-pT7_MZ670933_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2019	2019-09-03	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670933	R-Sep-19-50-pT7	Osundahunsi et al.
+R-Aug-19-50-pT7_MZ670934_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2019	2019-08-11	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670934	R-Aug-19-50-pT7	Osundahunsi et al.
+R-Oct-19-50-pT4_MZ670935_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2019	2019-10-16	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670935	R-Oct-19-50-pT4	Osundahunsi et al.
+R-Sep-19-50-pT1_MZ670936_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2019	2019-09-03	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670936	R-Sep-19-50-pT1	Osundahunsi et al.
+R-Aug-19-50-pT21_MZ670937_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2019	2019-08-11	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670937	R-Aug-19-50-pT21	Osundahunsi et al.
+R-Sep-19-50-pT4_MZ670938_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2019	2019-09-03	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670938	R-Sep-19-50-pT4	Osundahunsi et al.
+R-Sep-19-50-pT2_MZ670939_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2019	2019-09-03	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670939	R-Sep-19-50-pT2	Osundahunsi et al.
+R-Oct-19-50-pT3_MZ670940_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2019	2019-10-16	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670940	R-Oct-19-50-pT3	Osundahunsi et al.
+R-Oct-19-50-PT5_MZ670941_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2019	2019-10-16	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670941	R-Oct-19-50-PT5	Osundahunsi et al.
+R-Sep-19-50-pT8_MZ670942_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2019	2019-09-03	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670942	R-Sep-19-50-pT8	Osundahunsi et al.
+R-Aug-19-50-pT6_MZ670943_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2019	2019-08-11	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670943	R-Aug-19-50-pT6	Osundahunsi et al.
+R-Sep-19-50-pT53_MZ670944_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2019	2019-09-03	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670944	R-Sep-19-50-pT53	Osundahunsi et al.
+R-Oct-19-50-pT51_MZ670945_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2019	2019-10-16	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670945	R-Oct-19-50-pT51	Osundahunsi et al.
+R-Oct-19-50-pT22_MZ670946_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2019	2019-10-16	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670946	R-Oct-19-50-pT22	Osundahunsi et al.
+R-Oct-19-50-pT1_MZ670947_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2019	2019-10-16	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670947	R-Oct-19-50-pT1	Osundahunsi et al.
+R-Oct-19-50-pT32_MZ670948_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2019	2019-10-16	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670948	R-Oct-19-50-pT32	Osundahunsi et al.
+R-Aug-19-50-pT4_MZ670949_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2019	2019-08-11	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670949	R-Aug-19-50-pT4	Osundahunsi et al.
+R-Oct-19-50-pT12_MZ670950_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2019	2019-10-16	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670950	R-Oct-19-50-pT12	Osundahunsi et al.
+R-Aug-19-50-pT3_MZ670951_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2019	2019-08-11	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670951	R-Aug-19-50-pT3	Osundahunsi et al.
+R-Oct-20-2-V1TA-1_MZ670952_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-10-16	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670952	R-Oct-20-2-V1TA-1	Osundahunsi et al.
+R-Oct-20-2-V1TD-1_MZ670953_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-10-16	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670953	R-Oct-20-2-V1TD-1	Osundahunsi et al.
+R-Oct-20-2-V1TB-1_MZ670954_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-10-16	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670954	R-Oct-20-2-V1TB-1	Osundahunsi et al.
+R-Oct-20-2-V1TC-1_MZ670955_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-10-16	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670955	R-Oct-20-2-V1TC-1	Osundahunsi et al.
+R-Oct-20-2-V1BD-1_MZ670956_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-10-16	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670956	R-Oct-20-2-V1BD-1	Osundahunsi et al.
+R-Oct-20-2-V1BA-1_MZ670957_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-10-16	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670957	R-Oct-20-2-V1BA-1	Osundahunsi et al.
+R-Oct-20-2-V1BC-1_MZ670958_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-10-16	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670958	R-Oct-20-2-V1BC-1	Osundahunsi et al.
+R-Oct-20-2-V1BB-1_MZ670959_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-10-16	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670959	R-Oct-20-2-V1BB-1	Osundahunsi et al.
+R-Oct-20-2-V1BD-2_MZ670960_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-10-16	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670960	R-Oct-20-2-V1BD-2	Osundahunsi et al.
+R-Oct-20-2-V2BB-1_MZ670961_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-10-16	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670961	R-Oct-20-2-V2BB-1	Osundahunsi et al.
+R-Oct-20-2-V2BC-1_MZ670962_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-10-16	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670962	R-Oct-20-2-V2BC-1	Osundahunsi et al.
+R-Oct-20-2-V2BA-1_MZ670963_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-10-16	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670963	R-Oct-20-2-V2BA-1	Osundahunsi et al.
+R-Oct-20-2-V2TB-1_MZ670964_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-10-16	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670964	R-Oct-20-2-V2TB-1	Osundahunsi et al.
+R-Oct-20-2-V1TA-2_MZ670965_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-10-16	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670965	R-Oct-20-2-V1TA-2	Osundahunsi et al.
+R-Oct-20-2-V1TD-2_MZ670966_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-10-16	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670966	R-Oct-20-2-V1TD-2	Osundahunsi et al.
+R-Oct-20-2-V1TB-2_MZ670967_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-10-16	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670967	R-Oct-20-2-V1TB-2	Osundahunsi et al.
+R-Oct-20-2-V1TC-2_MZ670968_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-10-16	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670968	R-Oct-20-2-V1TC-2	Osundahunsi et al.
+R-Oct-20-2-V1BD-3_MZ670969_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-10-16	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670969	R-Oct-20-2-V1BD-3	Osundahunsi et al.
+R-Oct-20-2-V1BA-2_MZ670970_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-10-16	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670970	R-Oct-20-2-V1BA-2	Osundahunsi et al.
+R-Oct-20-2-V1BC-2_MZ670971_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-10-16	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670971	R-Oct-20-2-V1BC-2	Osundahunsi et al.
+R-Oct-20-2-V1BB-2_MZ670972_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-10-16	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670972	R-Oct-20-2-V1BB-2	Osundahunsi et al.
+R-Oct-20-2-V1BD-4_MZ670973_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-10-16	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670973	R-Oct-20-2-V1BD-4	Osundahunsi et al.
+R-Oct-20-2-V2BB-2_MZ670974_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-10-16	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670974	R-Oct-20-2-V2BB-2	Osundahunsi et al.
+R-Oct-20-2-V2BC-2_MZ670975_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-10-16	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670975	R-Oct-20-2-V2BC-2	Osundahunsi et al.
+R-Oct-20-2-V2TA-1_MZ670976_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-10-16	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670976	R-Oct-20-2-V2TA-1	Osundahunsi et al.
+R-Oct-20-2-V2TC-1_MZ670977_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-10-16	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670977	R-Oct-20-2-V2TC-1	Osundahunsi et al.
+R-Oct-20-2-V2TB-2_MZ670978_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-10-16	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670978	R-Oct-20-2-V2TB-2	Osundahunsi et al.
+R-Oct-20-2-V2TD-1_MZ670979_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-10-16	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670979	R-Oct-20-2-V2TD-1	Osundahunsi et al.
+R-Sep-20-2-V1TA-1_MZ670980_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-09-03	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670980	R-Sep-20-2-V1TA-1	Osundahunsi et al.
+R-Sep-20-2-V1TD-1_MZ670981_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-09-03	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670981	R-Sep-20-2-V1TD-1	Osundahunsi et al.
+R-Sep-20-2-V1TB-1_MZ670982_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-09-03	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670982	R-Sep-20-2-V1TB-1	Osundahunsi et al.
+R-Sep-20-2-V1BD-1_MZ670983_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-09-03	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670983	R-Sep-20-2-V1BD-1	Osundahunsi et al.
+R-Sep-20-2-V1BA-1_MZ670984_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-09-03	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670984	R-Sep-20-2-V1BA-1	Osundahunsi et al.
+R-Sep-20-2-V1BC-1_MZ670985_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-09-03	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670985	R-Sep-20-2-V1BC-1	Osundahunsi et al.
+R-Sep-20-2-V1BB-1_MZ670986_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-09-03	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670986	R-Sep-20-2-V1BB-1	Osundahunsi et al.
+R-Sep-20-2-V1BD-2_MZ670987_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-09-03	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670987	R-Sep-20-2-V1BD-2	Osundahunsi et al.
+R-Sep-20-2-V2BC-1_MZ670988_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-09-03	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670988	R-Sep-20-2-V2BC-1	Osundahunsi et al.
+R-Sep-20-2-V2BA-1_MZ670989_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-09-03	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670989	R-Sep-20-2-V2BA-1	Osundahunsi et al.
+R-Sep-20-2-V2TA-1_MZ670990_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-09-03	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670990	R-Sep-20-2-V2TA-1	Osundahunsi et al.
+R-Sep-20-2-V2TC-1_MZ670991_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-09-03	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670991	R-Sep-20-2-V2TC-1	Osundahunsi et al.
+R-Sep-20-2-V2TD-1_MZ670992_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-09-03	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670992	R-Sep-20-2-V2TD-1	Osundahunsi et al.
+R-Sep-20-2-V1TA-2_MZ670993_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-09-03	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670993	R-Sep-20-2-V1TA-2	Osundahunsi et al.
+R-Sep-20-2-V1TD-2_MZ670994_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-09-03	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670994	R-Sep-20-2-V1TD-2	Osundahunsi et al.
+R-Sep-20-2-V1TB-2_MZ670995_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-09-03	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670995	R-Sep-20-2-V1TB-2	Osundahunsi et al.
+R-Sep-20-2-V1TC-1_MZ670996_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-09-03	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670996	R-Sep-20-2-V1TC-1	Osundahunsi et al.
+R-Sep-20-2-V1BA-2_MZ670997_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-09-03	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670997	R-Sep-20-2-V1BA-2	Osundahunsi et al.
+R-Sep-20-2-V1BC-2_MZ670998_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-09-03	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670998	R-Sep-20-2-V1BC-2	Osundahunsi et al.
+R-Sep-20-2-V1BB-2_MZ670999_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-09-03	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ670999	R-Sep-20-2-V1BB-2	Osundahunsi et al.
+R-Sep-20-2-V1BD-3_MZ671000_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-09-03	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ671000	R-Sep-20-2-V1BD-3	Osundahunsi et al.
+R-Sep-20-2-V2BB-1_MZ671001_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-09-03	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ671001	R-Sep-20-2-V2BB-1	Osundahunsi et al.
+R-Sep-20-2-V2BC-2_MZ671002_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-09-03	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ671002	R-Sep-20-2-V2BC-2	Osundahunsi et al.
+R-Sep-20-2-V2BA-2_MZ671003_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-09-03	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ671003	R-Sep-20-2-V2BA-2	Osundahunsi et al.
+R-Oct-20-2-V2TD-2_MZ671004_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-10-18	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ671004	R-Oct-20-2-V2TD-2	Osundahunsi et al.
+R-Oct-20-2-V2TB-3_MZ671005_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-10-18	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ671005	R-Oct-20-2-V2TB-3	Osundahunsi et al.
+R-Oct-20-2-V2TC-2_MZ671006_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-10-18	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ671006	R-Oct-20-2-V2TC-2	Osundahunsi et al.
+R-Oct-20-2-V2TA-2_MZ671007_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-10-18	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ671007	R-Oct-20-2-V2TA-2	Osundahunsi et al.
+R-Aug-20-2-V2BB-2_MZ671008_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-08-16	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ671008	R-Aug-20-2-V2BB-2	Osundahunsi et al.
+R-Aug-20-2-V2BC-1_MZ671009_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-08-16	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ671009	R-Aug-20-2-V2BC-1	Osundahunsi et al.
+R-Aug-20-2-V2TC-1_MZ671010_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-08-16	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ671010	R-Aug-20-2-V2TC-1	Osundahunsi et al.
+R-Aug-20-2-V2TD-1_MZ671011_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-08-16	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ671011	R-Aug-20-2-V2TD-1	Osundahunsi et al.
+R-Aug-20-2-V1TB-1_MZ671012_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-08-16	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ671012	R-Aug-20-2-V1TB-1	Osundahunsi et al.
+R-Aug-20-2-V2TA-1_MZ671013_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-08-16	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ671013	R-Aug-20-2-V2TA-1	Osundahunsi et al.
+R-Aug-20-2-V1BA-1_MZ671014_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-08-16	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ671014	R-Aug-20-2-V1BA-1	Osundahunsi et al.
+R-Aug-20-2-V1TB-2_MZ671015_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-08-16	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ671015	R-Aug-20-2-V1TB-2	Osundahunsi et al.
+R-Aug-20-2-V1TC-1_MZ671016_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-08-16	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ671016	R-Aug-20-2-V1TC-1	Osundahunsi et al.
+R-Aug-20-2-V1TD-1_MZ671017_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-08-16	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ671017	R-Aug-20-2-V1TD-1	Osundahunsi et al.
+R-Aug-20-2-V1BB-1_MZ671018_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-08-16	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ671018	R-Aug-20-2-V1BB-1	Osundahunsi et al.
+R-Aug-20-2-V1BC-1_MZ671019_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-08-16	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ671019	R-Aug-20-2-V1BC-1	Osundahunsi et al.
+R-Aug-20-2-V1TA-1_MZ671020_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2020	2020-08-16	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ671020	R-Aug-20-2-V1TA-1	Osundahunsi et al.
+G1_OQ677004_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2022	2022-10-XX	Ghana	Africa	Dioscorea cayenensis subsp. rotundata	OQ677004	G1	Festus et al.
+G2_OQ677005_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2022	2022-10-XX	Ghana	Africa	Dioscorea cayenensis subsp. rotundata	OQ677005	G2	Festus et al.
+G3_OQ677006_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2022	2022-10-XX	Ghana	Africa	Dioscorea cayenensis subsp. rotundata	OQ677006	G3	Festus et al.
+G4_OQ677007_Dioscorea-alata_Ghana_2022	2022-10-XX	Ghana	Africa	Dioscorea alata	OQ677007	G4	Festus et al.
+G5_OQ677008_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2022	2022-10-XX	Ghana	Africa	Dioscorea cayenensis subsp. rotundata	OQ677008	G5	Festus et al.
+G6_OQ677009_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2022	2022-10-XX	Ghana	Africa	Dioscorea cayenensis subsp. rotundata	OQ677009	G6	Festus et al.
+G7_OQ677010_Dioscorea-alata_Ghana_2022	2022-10-XX	Ghana	Africa	Dioscorea alata	OQ677010	G7	Festus et al.
+G9_OQ677011_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2022	2022-10-XX	Ghana	Africa	Dioscorea cayenensis subsp. rotundata	OQ677011	G9	Festus et al.
+N1_OQ677012_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2022	2022-06-XX	Ghana	Africa	Dioscorea cayenensis subsp. rotundata	OQ677012	N1	Festus et al.
+N2_OQ677013_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2022	2022-06-XX	Ghana	Africa	Dioscorea cayenensis subsp. rotundata	OQ677013	N2	Festus et al.
+N3_OQ677014_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2022	2022-06-XX	Ghana	Africa	Dioscorea cayenensis subsp. rotundata	OQ677014	N3	Festus et al.
+N4_OQ677015_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2022	2022-08-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	OQ677015	N4	Festus et al.
+N5_OQ677016_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2022	2022-08-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	OQ677016	N5	Festus et al.
+Cam1_OR004208_Dioscorea-cayenensis-subsp.-rotundata_Cameroon_1996	1996-XX-XX	Cameroon	Unknown	Dioscorea cayenensis subsp. rotundata	OR004208	Cam1	Festus et al.
+Cam2_OR004209_Dioscorea-cayenensis-subsp.-rotundata_Cameroon_1996	1996-XX-XX	Cameroon	Unknown	Dioscorea cayenensis subsp. rotundata	OR004209	Cam2	Festus et al.
+Gh28_OR004210_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2021	2021-XX-XX	Ghana	Africa	Dioscorea cayenensis subsp. rotundata	OR004210	Gh28	Festus et al.
+Gh34_OR004211_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2021	2021-XX-XX	Ghana	Africa	Dioscorea cayenensis subsp. rotundata	OR004211	Gh34	Festus et al.
+Nig10_OR004212_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2022	2022-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	OR004212	Nig10	Festus et al.
+Nig5_OR004213_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2022	2022-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	OR004213	Nig5	Festus et al.
+Nig13_OR004214_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2022	2022-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	OR004214	Nig13	Festus et al.
+Nig11_OR004215_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2022	2022-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	OR004215	Nig11	Festus et al.
+Nig12_OR004216_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2022	2022-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	OR004216	Nig12	Festus et al.
+Ben1_OR004217_Dioscorea-cayenensis-subsp.-rotundata_Benin_1996	1996-XX-XX	Benin	Unknown	Dioscorea cayenensis subsp. rotundata	OR004217	Ben1	Festus et al.
+Cam4_OR004218_Dioscorea-cayenensis-subsp.-rotundata_Cameroon_1996	1996-XX-XX	Cameroon	Unknown	Dioscorea cayenensis subsp. rotundata	OR004218	Cam4	Festus et al.
+Gh27_OR004219_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2021	2021-XX-XX	Ghana	Africa	Dioscorea cayenensis subsp. rotundata	OR004219	Gh27	Festus et al.
+Gh30_OR004220_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2021	2021-XX-XX	Ghana	Africa	Dioscorea cayenensis subsp. rotundata	OR004220	Gh30	Festus et al.
+Nig4_OR004221_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2022	2022-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	OR004221	Nig4	Festus et al.
+Gh35_OR004222_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2021	2021-XX-XX	Ghana	Africa	Dioscorea cayenensis subsp. rotundata	OR004222	Gh35	Festus et al.
+Gh32_OR004223_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2021	2021-XX-XX	Ghana	Africa	Dioscorea cayenensis subsp. rotundata	OR004223	Gh32	Festus et al.
+Gh36_OR004224_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2021	2021-XX-XX	Ghana	Africa	Dioscorea cayenensis subsp. rotundata	OR004224	Gh36	Festus et al.
+Gh33_OR004225_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2021	2021-XX-XX	Ghana	Africa	Dioscorea cayenensis subsp. rotundata	OR004225	Gh33	Festus et al.
+Nig6_OR004226_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_1996	1996-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	OR004226	Nig6	Festus et al.
+Tog2_OR004227_Dioscorea-cayenensis-subsp.-rotundata_Togo_1996	1996-XX-XX	Togo	Unknown	Dioscorea cayenensis subsp. rotundata	OR004227	Tog2	Festus et al.
+Nig3_OR004228_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2022	2022-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	OR004228	Nig3	Festus et al.
+Gh29_OR004229_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2022	2022-XX-XX	Ghana	Africa	Dioscorea cayenensis subsp. rotundata	OR004229	Gh29	Festus et al.
+Tog1_OR004230_Dioscorea-cayenensis-subsp.-rotundata_Togo_1996	1996-XX-XX	Togo	Unknown	Dioscorea cayenensis subsp. rotundata	OR004230	Tog1	Festus et al.
+Cam3_OR004231_Dioscorea-cayenensis-subsp.-rotundata_Cameroon_1996	1996-XX-XX	Cameroon	Unknown	Dioscorea cayenensis subsp. rotundata	OR004231	Cam3	Festus et al.
+Nig2_OR004232_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_1996	1996-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	OR004232	Nig2	Festus et al.
+N1-3_MZ695335_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013	2013-09-15	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ695335	N1-3	Nkere et al.
+N3-3_MZ695336_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013	2013-09-15	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ695336	N3-3	Nkere et al.
+N2-4_MZ695337_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013	2013-09-15	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ695337	N2-4	Nkere et al.
+N2-5_MZ695338_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013	2013-09-15	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ695338	N2-5	Nkere et al.
+N19-3_MZ695339_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2014	2014-09-16	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ695339	N19-3	Nkere et al.
+N7-5_MZ695340_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2014	2014-09-16	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ695340	N7-5	Nkere et al.
+N9-7_MZ695341_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2014	2014-09-16	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ695341	N9-7	Nkere et al.
+N15-7_MZ695342_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2014	2014-09-16	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ695342	N15-7	Nkere et al.
+N24-7_MZ695343_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2014	2014-09-16	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ695343	N24-7	Nkere et al.
+N8-9_MZ695344_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013	2013-09-18	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ695344	N8-9	Nkere et al.
+N5-11_MZ695345_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013	2013-09-18	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ695345	N5-11	Nkere et al.
+N10-12_MZ695346_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013	2013-09-18	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ695346	N10-12	Nkere et al.
+N27-12_MZ695347_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013	2013-09-18	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ695347	N27-12	Nkere et al.
+N3-14_MZ695348_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013	2013-09-18	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ695348	N3-14	Nkere et al.
+N6-15_MZ695349_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013	2013-09-19	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ695349	N6-15	Nkere et al.
+N9-16_MZ695350_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013	2013-09-19	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ695350	N9-16	Nkere et al.
+N2-17_MZ695351_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013	2013-09-19	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ695351	N2-17	Nkere et al.
+N4-17_MZ695352_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013	2013-09-19	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ695352	N4-17	Nkere et al.
+N1-18*_MZ695353_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013	2013-09-19	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ695353	N1-18*	Nkere et al.
+N5-19_MZ695354_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013	2013-09-20	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ695354	N5-19	Nkere et al.
+N12-22_MZ695355_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013	2013-09-20	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ695355	N12-22	Nkere et al.
+N4-23_MZ695356_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013	2013-09-20	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ695356	N4-23	Nkere et al.
+N1-24_MZ695357_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013	2013-09-20	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ695357	N1-24	Nkere et al.
+N6-25_MZ695358_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013	2013-09-20	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ695358	N6-25	Nkere et al.
+N9-25_MZ695359_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013	2013-09-20	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ695359	N9-25	Nkere et al.
+N1-26_MZ695360_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013	2013-09-20	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ695360	N1-26	Nkere et al.
+N7-26_MZ695361_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013	2013-09-20	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ695361	N7-26	Nkere et al.
+N8-30_MZ695362_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013	2013-09-21	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ695362	N8-30	Nkere et al.
+N22-30_MZ695363_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013	2013-09-21	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ695363	N22-30	Nkere et al.
+N25-30_MZ695364_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013	2013-09-21	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ695364	N25-30	Nkere et al.
+N24-31_MZ695365_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013	2013-09-21	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ695365	N24-31	Nkere et al.
+N4-32*_MZ695366_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013	2013-09-21	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ695366	N4-32*	Nkere et al.
+N1-33*_MZ695367_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013	2013-09-21	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ695367	N1-33*	Nkere et al.
+N7-33_MZ695368_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013	2013-09-21	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ695368	N7-33	Nkere et al.
+N3-34_MZ695369_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013	2013-09-21	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ695369	N3-34	Nkere et al.
+N6-35_MZ695370_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013	2013-09-22	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ695370	N6-35	Nkere et al.
+N4-36_MZ695371_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013	2013-09-22	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ695371	N4-36	Nkere et al.
+N3-37_MZ695372_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013	2013-09-22	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ695372	N3-37	Nkere et al.
+N5-38_MZ695373_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013	2013-09-23	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ695373	N5-38	Nkere et al.
+N8-40_MZ695374_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013	2013-09-23	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ695374	N8-40	Nkere et al.
+N12-40_MZ695375_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013	2013-09-23	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ695375	N12-40	Nkere et al.
+N19-40_MZ695376_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013	2013-09-23	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ695376	N19-40	Nkere et al.
+N24-40_MZ695377_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013	2013-09-23	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ695377	N24-40	Nkere et al.
+N1-41_MZ695378_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013	2013-09-24	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ695378	N1-41	Nkere et al.
+N6-41_MZ695379_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013	2013-09-24	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ695379	N6-41	Nkere et al.
+N3-21_MZ695380_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2013	2013-09-24	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ695380	N3-21	Nkere et al.
+N18-3_MZ695381_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2012	2012-11-01	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ695381	N18-3	Nkere et al.
+N21-3_MZ695382_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2012	2012-11-01	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ695382	N21-3	Nkere et al.
+N63-7_MZ695383_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2012	2012-11-01	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ695383	N63-7	Nkere et al.
+N131-12_MZ695384_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2012	2012-11-02	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ695384	N131-12	Nkere et al.
+N294-26_MZ695385_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2012	2012-11-02	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ695385	N294-26	Nkere et al.
+N299-26_MZ695386_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2012	2012-11-02	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ695386	N299-26	Nkere et al.
+N300-26_MZ695387_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2012	2012-11-02	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ695387	N300-26	Nkere et al.
+N301-26_MZ695388_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2012	2012-11-02	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ695388	N301-26	Nkere et al.
+N323-29_MZ695389_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2012	2012-11-03	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ695389	N323-29	Nkere et al.
+N344-31_MZ695390_Dioscorea-esculenta_Nigeria_2012	2012-11-03	Nigeria	Africa	Dioscorea esculenta	MZ695390	N344-31	Nkere et al.
+N354-31a_MZ695391_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2012	2012-11-03	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ695391	N354-31a	Nkere et al.
+N354-31b_MZ695392_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2012	2012-11-03	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MZ695392	N354-31b	Nkere et al.
+N375-34_MZ695393_Dioscorea-cayenensis_Nigeria_2012	2012-11-04	Nigeria	Africa	Dioscorea cayenensis	MZ695393	N375-34	Nkere et al.
+N376-34_MZ695394_Dioscorea-cayenensis_Nigeria_2012	2012-11-04	Nigeria	Africa	Dioscorea cayenensis	MZ695394	N376-34	Nkere et al.
+G11-1_MZ695395_Dioscorea-cayenensis_Ghana_2013	2013-08-03	Ghana	Africa	Dioscorea cayenensis	MZ695395	G11-1	Nkere et al.
+G40-1_MZ695396_Dioscorea-alata_Ghana_2013	2013-08-03	Ghana	Africa	Dioscorea alata	MZ695396	G40-1	Nkere et al.
+G5-2_MZ695397_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013	2013-08-03	Ghana	Africa	Dioscorea cayenensis subsp. rotundata	MZ695397	G5-2	Nkere et al.
+G20-2_MZ695398_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013	2013-08-03	Ghana	Africa	Dioscorea cayenensis subsp. rotundata	MZ695398	G20-2	Nkere et al.
+G21-2_MZ695399_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013	2013-08-03	Ghana	Africa	Dioscorea cayenensis subsp. rotundata	MZ695399	G21-2	Nkere et al.
+G3-3_MZ695400_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013	2013-08-04	Ghana	Africa	Dioscorea cayenensis subsp. rotundata	MZ695400	G3-3	Nkere et al.
+G4-3_MZ695401_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013	2013-08-04	Ghana	Africa	Dioscorea cayenensis subsp. rotundata	MZ695401	G4-3	Nkere et al.
+G8-3_MZ695402_Dioscorea-alata_Ghana_2013	2013-08-04	Ghana	Africa	Dioscorea alata	MZ695402	G8-3	Nkere et al.
+G2-4_MZ695403_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013	2013-08-04	Ghana	Africa	Dioscorea cayenensis subsp. rotundata	MZ695403	G2-4	Nkere et al.
+G5-5_MZ695404_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013	2013-08-04	Ghana	Africa	Dioscorea cayenensis subsp. rotundata	MZ695404	G5-5	Nkere et al.
+G15-6_MZ695405_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013	2013-08-05	Ghana	Africa	Dioscorea cayenensis subsp. rotundata	MZ695405	G15-6	Nkere et al.
+G17-6_MZ695406_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013	2013-08-05	Ghana	Africa	Dioscorea cayenensis subsp. rotundata	MZ695406	G17-6	Nkere et al.
+G8-10_MZ695407_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013	2013-08-05	Ghana	Africa	Dioscorea cayenensis subsp. rotundata	MZ695407	G8-10	Nkere et al.
+G1-11_MZ695408_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013	2013-08-05	Ghana	Africa	Dioscorea cayenensis subsp. rotundata	MZ695408	G1-11	Nkere et al.
+G4-11_MZ695409_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013	2013-08-06	Ghana	Africa	Dioscorea cayenensis subsp. rotundata	MZ695409	G4-11	Nkere et al.
+G4-12_MZ695410_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013	2013-08-06	Ghana	Africa	Dioscorea cayenensis subsp. rotundata	MZ695410	G4-12	Nkere et al.
+G2-13_MZ695411_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013	2013-08-06	Ghana	Africa	Dioscorea cayenensis subsp. rotundata	MZ695411	G2-13	Nkere et al.
+G3-13_MZ695412_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013	2013-08-06	Ghana	Africa	Dioscorea cayenensis subsp. rotundata	MZ695412	G3-13	Nkere et al.
+G15-16_MZ695413_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013	2013-08-07	Ghana	Africa	Dioscorea cayenensis subsp. rotundata	MZ695413	G15-16	Nkere et al.
+G2-17_MZ695414_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013	2013-08-07	Ghana	Africa	Dioscorea cayenensis subsp. rotundata	MZ695414	G2-17	Nkere et al.
+G3-17_MZ695415_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013	2013-08-07	Ghana	Africa	Dioscorea cayenensis subsp. rotundata	MZ695415	G3-17	Nkere et al.
+G4-18_MZ695416_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013	2013-08-07	Ghana	Africa	Dioscorea cayenensis subsp. rotundata	MZ695416	G4-18	Nkere et al.
+G5-18_MZ695417_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013	2013-08-07	Ghana	Africa	Dioscorea cayenensis subsp. rotundata	MZ695417	G5-18	Nkere et al.
+G2-19_MZ695418_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013	2013-08-07	Ghana	Africa	Dioscorea cayenensis subsp. rotundata	MZ695418	G2-19	Nkere et al.
+G6-19_MZ695419_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013	2013-08-08	Ghana	Africa	Dioscorea cayenensis subsp. rotundata	MZ695419	G6-19	Nkere et al.
+G1-20_MZ695420_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013	2013-08-08	Ghana	Africa	Dioscorea cayenensis subsp. rotundata	MZ695420	G1-20	Nkere et al.
+G5-20_MZ695421_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013	2013-08-08	Ghana	Africa	Dioscorea cayenensis subsp. rotundata	MZ695421	G5-20	Nkere et al.
+G9-21_MZ695422_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013	2013-08-08	Ghana	Africa	Dioscorea cayenensis subsp. rotundata	MZ695422	G9-21	Nkere et al.
+G1-22_MZ695423_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013	2013-08-08	Ghana	Africa	Dioscorea cayenensis subsp. rotundata	MZ695423	G1-22	Nkere et al.
+G10-22_MZ695424_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013	2013-08-09	Ghana	Africa	Dioscorea cayenensis subsp. rotundata	MZ695424	G10-22	Nkere et al.
+G1-23_MZ695425_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013	2013-08-09	Ghana	Africa	Dioscorea cayenensis subsp. rotundata	MZ695425	G1-23	Nkere et al.
+G5-25_MZ695426_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013	2013-08-09	Ghana	Africa	Dioscorea cayenensis subsp. rotundata	MZ695426	G5-25	Nkere et al.
+G2-26_MZ695427_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013	2013-08-09	Ghana	Africa	Dioscorea cayenensis subsp. rotundata	MZ695427	G2-26	Nkere et al.
+G4-27_MZ695428_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013	2013-08-09	Ghana	Africa	Dioscorea cayenensis subsp. rotundata	MZ695428	G4-27	Nkere et al.
+G5-27_MZ695429_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013	2013-08-10	Ghana	Africa	Dioscorea cayenensis subsp. rotundata	MZ695429	G5-27	Nkere et al.
+G1-28_MZ695430_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013	2013-08-10	Ghana	Africa	Dioscorea cayenensis subsp. rotundata	MZ695430	G1-28	Nkere et al.
+G4-28_MZ695431_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013	2013-08-10	Ghana	Africa	Dioscorea cayenensis subsp. rotundata	MZ695431	G4-28	Nkere et al.
+G5-29_MZ695432_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013	2013-08-10	Ghana	Africa	Dioscorea cayenensis subsp. rotundata	MZ695432	G5-29	Nkere et al.
+G8-31_MZ695433_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013	2013-08-11	Ghana	Africa	Dioscorea cayenensis subsp. rotundata	MZ695433	G8-31	Nkere et al.
+G1-32_MZ695434_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013	2013-08-11	Ghana	Africa	Dioscorea cayenensis subsp. rotundata	MZ695434	G1-32	Nkere et al.
+G2-33_MZ695435_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013	2013-08-11	Ghana	Africa	Dioscorea cayenensis subsp. rotundata	MZ695435	G2-33	Nkere et al.
+G8-33_MZ695436_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013	2013-08-12	Ghana	Africa	Dioscorea cayenensis subsp. rotundata	MZ695436	G8-33	Nkere et al.
+G25-33_MZ695437_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013	2013-08-12	Ghana	Africa	Dioscorea cayenensis subsp. rotundata	MZ695437	G25-33	Nkere et al.
+G1-34_MZ695438_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2013	2013-08-12	Ghana	Africa	Dioscorea cayenensis subsp. rotundata	MZ695438	G1-34	Nkere et al.
+G10-1_MZ695439_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2012	2012-10-04	Ghana	Africa	Dioscorea cayenensis subsp. rotundata	MZ695439	G10-1	Nkere et al.
+G14-2_MZ695440_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2012	2012-10-04	Ghana	Africa	Dioscorea cayenensis subsp. rotundata	MZ695440	G14-2	Nkere et al.
+G16-2_MZ695441_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2012	2012-10-05	Ghana	Africa	Dioscorea cayenensis subsp. rotundata	MZ695441	G16-2	Nkere et al.
+G31-2_MZ695442_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2012	2012-10-05	Ghana	Africa	Dioscorea cayenensis subsp. rotundata	MZ695442	G31-2	Nkere et al.
+G46-5_MZ695443_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2012	2012-10-05	Ghana	Africa	Dioscorea cayenensis subsp. rotundata	MZ695443	G46-5	Nkere et al.
+G66-8_MZ695444_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2012	2012-10-05	Ghana	Africa	Dioscorea cayenensis subsp. rotundata	MZ695444	G66-8	Nkere et al.
+G153-18_MZ695445_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2012	2012-10-06	Ghana	Africa	Dioscorea cayenensis subsp. rotundata	MZ695445	G153-18	Nkere et al.
+G220-25_MZ695446_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2012	2012-10-06	Ghana	Africa	Dioscorea cayenensis subsp. rotundata	MZ695446	G220-25	Nkere et al.
+G267-31_MZ695447_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2012	2012-10-06	Ghana	Africa	Dioscorea cayenensis subsp. rotundata	MZ695447	G267-31	Nkere et al.
+G84-10_MZ695448_Dioscorea-cayenensis-subsp.-rotundata_Ghana_2012	2012-10-06	Ghana	Africa	Dioscorea cayenensis subsp. rotundata	MZ695448	G84-10	Nkere et al.
+YMVAy_MT591036_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-06-28	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT591036	YMVAy	Oyekanmi et al.
+YMVBy_MT591037_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-06-28	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT591037	YMVBy	Oyekanmi et al.
+YMVCy_MT591038_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-06-28	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT591038	YMVCy	Oyekanmi et al.
+YMVDy_MT591039_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-06-28	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT591039	YMVDy	Oyekanmi et al.
+YMVFy_MT591040_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-06-28	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT591040	YMVFy	Oyekanmi et al.
+YMVGy_MT591041_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-06-28	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT591041	YMVGy	Oyekanmi et al.
+YMVHy_MT591042_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-06-28	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT591042	YMVHy	Oyekanmi et al.
+YMVIy_MT591043_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-06-28	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT591043	YMVIy	Oyekanmi et al.
+YMVJy_MT591044_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-06-28	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT591044	YMVJy	Oyekanmi et al.
+YMVKy_MT591045_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-06-28	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT591045	YMVKy	Oyekanmi et al.
+YMVLy_MT591046_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-06-28	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT591046	YMVLy	Oyekanmi et al.
+YMVMy_MT591047_Dioscorea-alata_Nigeria_2017	2017-06-28	Nigeria	Africa	Dioscorea alata	MT591047	YMVMy	Oyekanmi et al.
+YMVNy_MT591048_Dioscorea-alata_Nigeria_2017	2017-06-28	Nigeria	Africa	Dioscorea alata	MT591048	YMVNy	Oyekanmi et al.
+YMVQy_MT591049_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-06-28	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT591049	YMVQy	Oyekanmi et al.
+Yoo421_MT591050_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-06-28	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT591050	Yoo421	Oyekanmi et al.
+Yoju_MT591051_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-08-30	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT591051	Yoju	Oyekanmi et al.
+Yoooo2_MT591052_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-08-30	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT591052	Yoooo2	Oyekanmi et al.
+Yo2665_MT591053_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-08-30	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT591053	Yo2665	Oyekanmi et al.
+Yo2607_MT591054_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-08-30	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT591054	Yo2607	Oyekanmi et al.
+Yooo34_MT591055_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-08-30	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT591055	Yooo34	Oyekanmi et al.
+Yoo497_MT591056_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-08-30	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT591056	Yoo497	Oyekanmi et al.
+YMVANb_MT591057_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-07-10	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT591057	YMVANb	Oyekanmi et al.
+YMVBNb_MT591058_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-07-10	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT591058	YMVBNb	Oyekanmi et al.
+YMVCNb_MT591059_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-07-10	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT591059	YMVCNb	Oyekanmi et al.
+YMVDNb_MT591060_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-07-10	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT591060	YMVDNb	Oyekanmi et al.
+YMVGNb_MT591061_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-07-10	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT591061	YMVGNb	Oyekanmi et al.
+YMVFNb_MT591062_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-07-10	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT591062	YMVFNb	Oyekanmi et al.
+YMVHNb_MT591063_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-07-10	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT591063	YMVHNb	Oyekanmi et al.
+YMVJNb_MT591064_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-07-10	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT591064	YMVJNb	Oyekanmi et al.
+YMVKNb_MT591065_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-07-10	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT591065	YMVKNb	Oyekanmi et al.
+YMVLNb_MT591066_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-07-10	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT591066	YMVLNb	Oyekanmi et al.
+YMVMNb_MT591067_Dioscorea-alata_Nigeria_2017	2017-07-10	Nigeria	Africa	Dioscorea alata	MT591067	YMVMNb	Oyekanmi et al.
+YMVNNb_MT591068_Dioscorea-alata_Nigeria_2017	2017-07-10	Nigeria	Africa	Dioscorea alata	MT591068	YMVNNb	Oyekanmi et al.
+YMVQNb_MT591069_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-07-10	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT591069	YMVQNb	Oyekanmi et al.
+Nb0421_MT591070_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-08-30	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT591070	Nb0421	Oyekanmi et al.
+NbOju_MT591071_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-08-30	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT591071	NbOju	Oyekanmi et al.
+Nb0002_MT591072_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-08-30	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT591072	Nb0002	Oyekanmi et al.
+NbDanc_MT591073_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-08-30	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT591073	NbDanc	Oyekanmi et al.
+Nb0034_MT591074_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-08-30	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT591074	Nb0034	Oyekanmi et al.
+Nb0497_MT591075_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-08-30	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT591075	Nb0497	Oyekanmi et al.
+Dan313_MT591076_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-08-30	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT591076	Dan313	Oyekanmi et al.
+Dan42_MT591077_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-08-30	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT591077	Dan42	Oyekanmi et al.
+Dan25_MT591078_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-08-30	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT591078	Dan25	Oyekanmi et al.
+Dan18_MT591079_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-08-30	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT591079	Dan18	Oyekanmi et al.
+19177Y_MT591080_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2019	2019-12-11	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT591080	19177Y	Oyekanmi et al.
+2665Y_MT591081_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2019	2019-12-11	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT591081	2665Y	Oyekanmi et al.
+MISG_MT591082_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2019	2019-12-11	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT591082	MISG	Oyekanmi et al.
+ADK-nteje-2_MT553854_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2016	2016-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT553854	ADK-nteje-2	Osundahunsi et al.
+YMVcp-WH47b_MT501332_Dioscorea-cayenensis-subsp.-rotundata_Cameroon_2016	2016-11-01	Cameroon	Unknown	Dioscorea cayenensis subsp. rotundata	MT501332	YMVcp-WH47b	Azetech et al.
+YMVcp-GS218_MT501333_Dioscorea-cayenensis_Cameroon_2016	2016-11-01	Cameroon	Unknown	Dioscorea cayenensis	MT501333	YMVcp-GS218	Azetech et al.
+YMVcp-GS172b_MT501334_Dioscorea-cayenensis-subsp.-rotundata_Cameroon_2016	2016-11-01	Cameroon	Unknown	Dioscorea cayenensis subsp. rotundata	MT501334	YMVcp-GS172b	Azetech et al.
+YMVcp-WH214b_MT501335_Dioscorea-cayenensis_Cameroon_2016	2016-11-02	Cameroon	Unknown	Dioscorea cayenensis	MT501335	YMVcp-WH214b	Azetech et al.
+YMVcp-HB285b_MT501336_Dioscorea-cayenensis_Cameroon_2016	2016-11-01	Cameroon	Unknown	Dioscorea cayenensis	MT501336	YMVcp-HB285b	Azetech et al.
+YMVcp-HB96_MT501337_Dioscorea-cayenensis-subsp.-rotundata_Cameroon_2016	2016-11-01	Cameroon	Unknown	Dioscorea cayenensis subsp. rotundata	MT501337	YMVcp-HB96	Azetech et al.
+YMVcp-GS100_MT501338_Dioscorea-cayenensis-subsp.-rotundata_Cameroon_2016	2016-11-01	Cameroon	Unknown	Dioscorea cayenensis subsp. rotundata	MT501338	YMVcp-GS100	Azetech et al.
+YMVcp-GS156_MT501339_Dioscorea-cayenensis-subsp.-rotundata_Cameroon_2016	2016-11-01	Cameroon	Unknown	Dioscorea cayenensis subsp. rotundata	MT501339	YMVcp-GS156	Azetech et al.
+YMVcp-WH161_MT501340_Dioscorea-cayenensis_Cameroon_2016	2016-11-02	Cameroon	Unknown	Dioscorea cayenensis	MT501340	YMVcp-WH161	Azetech et al.
+YMVcp-WH194_MT501341_Dioscorea-cayenensis_Cameroon_2016	2016-11-02	Cameroon	Unknown	Dioscorea cayenensis	MT501341	YMVcp-WH194	Azetech et al.
+YMVcp-WH127_MT501342_Dioscorea-cayenensis_Cameroon_2016	2016-11-02	Cameroon	Unknown	Dioscorea cayenensis	MT501342	YMVcp-WH127	Azetech et al.
+YMVcp-GS143_MT501343_Dioscorea-cayenensis-subsp.-rotundata_Cameroon_2016	2016-11-01	Cameroon	Unknown	Dioscorea cayenensis subsp. rotundata	MT501343	YMVcp-GS143	Azetech et al.
+YMVcp-GS233_MT501344_Dioscorea-cayenensis-subsp.-rotundata_Cameroon_2016	2016-11-01	Cameroon	Unknown	Dioscorea cayenensis subsp. rotundata	MT501344	YMVcp-GS233	Azetech et al.
+YMVcp-WH261_MT501345_Dioscorea-cayenensis_Cameroon_2016	2016-11-02	Cameroon	Unknown	Dioscorea cayenensis	MT501345	YMVcp-WH261	Azetech et al.
+YMVcp-GS280_MT501346_Dioscorea-cayenensis-subsp.-rotundata_Cameroon_2016	2016-11-01	Cameroon	Unknown	Dioscorea cayenensis subsp. rotundata	MT501346	YMVcp-GS280	Azetech et al.
+YMVcp-HB303_MT501347_Dioscorea-cayenensis_Cameroon_2016	2016-11-01	Cameroon	Unknown	Dioscorea cayenensis	MT501347	YMVcp-HB303	Azetech et al.
+YMVcp-HM26_MT501348_Dioscorea-cayenensis-subsp.-rotundata_Cameroon_2016	2016-08-16	Cameroon	Unknown	Dioscorea cayenensis subsp. rotundata	MT501348	YMVcp-HM26	Azetech et al.
+YMVcp-WH132_MT501349_Dioscorea-cayenensis_Cameroon_2016	2016-08-24	Cameroon	Unknown	Dioscorea cayenensis	MT501349	YMVcp-WH132	Azetech et al.
+YMVcp-GS183_MT501350_Dioscorea-cayenensis-subsp.-rotundata_Cameroon_2016	2016-08-28	Cameroon	Unknown	Dioscorea cayenensis subsp. rotundata	MT501350	YMVcp-GS183	Azetech et al.
+YMVcp-GS258_MT501351_Dioscorea-cayenensis_Cameroon_2016	2016-09-05	Cameroon	Unknown	Dioscorea cayenensis	MT501351	YMVcp-GS258	Azetech et al.
+YMVcp-HB290_MT501352_Dioscorea-cayenensis_Cameroon_2016	2016-09-10	Cameroon	Unknown	Dioscorea cayenensis	MT501352	YMVcp-HB290	Azetech et al.
+YMVcp-HB298_MT501353_Dioscorea-cayenensis-subsp.-rotundata_Cameroon_2016	2016-09-11	Cameroon	Unknown	Dioscorea cayenensis subsp. rotundata	MT501353	YMVcp-HB298	Azetech et al.
+YMVcp-HB295_MT501354_Dioscorea-cayenensis-subsp.-rotundata_Cameroon_2016	2016-09-12	Cameroon	Unknown	Dioscorea cayenensis subsp. rotundata	MT501354	YMVcp-HB295	Azetech et al.
+YMVcp-WH126_MT501355_Dioscorea-schimperiana_Cameroon_2016	2016-11-02	Cameroon	Unknown	Dioscorea schimperiana	MT501355	YMVcp-WH126	Azetech et al.
+YMVcp-HB160_MT501356_Dioscorea-esculenta_Cameroon_2016	2016-11-01	Cameroon	Unknown	Dioscorea esculenta	MT501356	YMVcp-HB160	Azetech et al.
+YMVcp-HM190_MT501357_Dioscorea-cayenensis-subsp.-rotundata_Cameroon_2016	2016-11-01	Cameroon	Unknown	Dioscorea cayenensis subsp. rotundata	MT501357	YMVcp-HM190	Azetech et al.
+YMVcp-WH201b_MT501358_Dioscorea-cayenensis_Cameroon_2016	2016-11-01	Cameroon	Unknown	Dioscorea cayenensis	MT501358	YMVcp-WH201b	Azetech et al.
+Au-Sc2-17-1_MT501399_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT501399	Au-Sc2-17-1	Osundahunsi et al. 
+Fk-Sc2-17-2_MT501400_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT501400	Fk-Sc2-17-2	Osundahunsi et al. 
+Las-Sc3-17-1_MT501401_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT501401	Las-Sc3-17-1	Osundahunsi et al. 
+Am-Sc3-17-1_MT501402_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT501402	Am-Sc3-17-1	Osundahunsi et al. 
+Au-Sc2-17-2_MT501403_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT501403	Au-Sc2-17-2	Osundahunsi et al. 
+AL-Sc2-17-1_MT501404_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT501404	AL-Sc2-17-1	Osundahunsi et al. 
+Las-Sc2-17-1_MT501405_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT501405	Las-Sc2-17-1	Osundahunsi et al. 
+Au-Sc3-17-1_MT501406_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT501406	Au-Sc3-17-1	Osundahunsi et al. 
+Am-Sc2-17-1_MT501407_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT501407	Am-Sc2-17-1	Osundahunsi et al. 
+Ek-Sc2-17-1_MT501408_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT501408	Ek-Sc2-17-1	Osundahunsi et al. 
+Au-Sc3-17-2_MT501409_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT501409	Au-Sc3-17-2	Osundahunsi et al. 
+Las-Sc3-17-2_MT501410_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT501410	Las-Sc3-17-2	Osundahunsi et al. 
+Hem-Sc3-17-1_MT501411_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT501411	Hem-Sc3-17-1	Osundahunsi et al. 
+Al-Sc3-17-1_MT501412_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT501412	Al-Sc3-17-1	Osundahunsi et al. 
+Ak-Sc3-17-1_MT501413_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT501413	Ak-Sc3-17-1	Osundahunsi et al. 
+Al-Sc2-17-2_MT501414_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT501414	Al-Sc2-17-2	Osundahunsi et al. 
+Mk-Sc3-17-2_MT501415_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT501415	Mk-Sc3-17-2	Osundahunsi et al. 
+Mk-Sc2-17-1_MT501416_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT501416	Mk-Sc2-17-1	Osundahunsi et al. 
+Las-Sc3-17-3_MT501417_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT501417	Las-Sc3-17-3	Osundahunsi et al. 
+Mk-Sc2-17-2_MT501418_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT501418	Mk-Sc2-17-2	Osundahunsi et al. 
+Dr-Sc3-17-1_MT501419_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT501419	Dr-Sc3-17-1	Osundahunsi et al. 
+Ek-Sc2-17-2_MT501420_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT501420	Ek-Sc2-17-2	Osundahunsi et al. 
+Ek-Sc3-17-2_MT501421_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT501421	Ek-Sc3-17-2	Osundahunsi et al. 
+AL-Sc2-17-3_MT501422_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT501422	AL-Sc2-17-3	Osundahunsi et al. 
+Hem-Sc2-17-2_MT501423_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT501423	Hem-Sc2-17-2	Osundahunsi et al. 
+Hem-Sc2-17-3_MT501424_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT501424	Hem-Sc2-17-3	Osundahunsi et al. 
+AL-Sc2-18-1_MT501425_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018	2018-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT501425	AL-Sc2-18-1	Osundahunsi et al. 
+Au-Sc2-18-2_MT501426_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018	2018-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT501426	Au-Sc2-18-2	Osundahunsi et al. 
+Fk-Sc2-18-1_MT501427_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018	2018-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT501427	Fk-Sc2-18-1	Osundahunsi et al. 
+Hem-Sc2-18-2_MT501428_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018	2018-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT501428	Hem-Sc2-18-2	Osundahunsi et al. 
+AK-Sc2-18-1_MT501429_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018	2018-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT501429	AK-Sc2-18-1	Osundahunsi et al. 
+Am-Sc2-18-3_MT501430_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018	2018-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT501430	Am-Sc2-18-3	Osundahunsi et al. 
+Ak-Sc2-18-3_MT501431_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018	2018-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT501431	Ak-Sc2-18-3	Osundahunsi et al. 
+Ak-Sc2-18-4_MT501432_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018	2018-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT501432	Ak-Sc2-18-4	Osundahunsi et al. 
+Au-Sc2-18-5_MT501433_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018	2018-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT501433	Au-Sc2-18-5	Osundahunsi et al. 
+Au-Sc2-18-6_MT501434_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018	2018-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT501434	Au-Sc2-18-6	Osundahunsi et al. 
+Al-Sc2-18-2_MT501435_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018	2018-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT501435	Al-Sc2-18-2	Osundahunsi et al. 
+Am-Sc2-17-2_MT501436_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT501436	Am-Sc2-17-2	Osundahunsi et al. 
+Au-Sc2-18-1_MT501437_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018	2018-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT501437	Au-Sc2-18-1	Osundahunsi et al. 
+Mk-Sc2-18-1_MT501438_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018	2018-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT501438	Mk-Sc2-18-1	Osundahunsi et al. 
+EK-Sc2-18-1_MT501439_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018	2018-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT501439	EK-Sc2-18-1	Osundahunsi et al. 
+EK-Sc3-18-1_MT501440_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018	2018-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT501440	EK-Sc3-18-1	Osundahunsi et al. 
+Mk-Sc2-17-3_MT501441_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT501441	Mk-Sc2-17-3	Osundahunsi et al. 
+AL-Sc3-17-2_MT501442_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT501442	AL-Sc3-17-2	Osundahunsi et al. 
+Fk-Sc2-17-1_MT501443_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT501443	Fk-Sc2-17-1	Osundahunsi et al. 
+Fk-Sc2-18-2_MT501444_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018	2018-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT501444	Fk-Sc2-18-2	Osundahunsi et al. 
+Ek-Sc3-17-1_MT501445_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT501445	Ek-Sc3-17-1	Osundahunsi et al. 
+Dr-Sc2-17-2_MT501446_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT501446	Dr-Sc2-17-2	Osundahunsi et al. 
+Ak-Sc2-17-1_MT501447_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT501447	Ak-Sc2-17-1	Osundahunsi et al. 
+Las-Sc2-17-2_MT501448_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT501448	Las-Sc2-17-2	Osundahunsi et al. 
+Mk-Sc3-17-3_MT501449_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT501449	Mk-Sc3-17-3	Osundahunsi et al. 
+Au-Sc2-18-3_MT501450_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2018	2018-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT501450	Au-Sc2-18-3	Osundahunsi et al. 
+Hem-Sc2-17-1F_MT501451_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2017	2017-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT501451	Hem-Sc2-17-1F	Osundahunsi et al. 
+MK-GWAD-1_MT542849_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2016	2016-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT542849	MK-GWAD-1	Osundahunsi et al. 
+MK-GWAD-2_MT542850_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2016	2016-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT542850	MK-GWAD-2	Osundahunsi et al. 
+EK-ILUSHI-1_MT542851_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2016	2016-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT542851	EK-ILUSHI-1	Osundahunsi et al. 
+EK-ILUSHI-2_MT542852_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2016	2016-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT542852	EK-ILUSHI-2	Osundahunsi et al. 
+EK-NTEJE-1_MT542853_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2016	2016-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT542853	EK-NTEJE-1	Osundahunsi et al. 
+ALU-ILUSHI-1_MT542854_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2016	2016-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT542854	ALU-ILUSHI-1	Osundahunsi et al. 
+ALU-ILUSHI-2_MT542855_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2016	2016-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT542855	ALU-ILUSHI-2	Osundahunsi et al. 
+ADK-NTEJE-1_MT542856_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2016	2016-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT542856	ADK-NTEJE-1	Osundahunsi et al. 
+FAK-ZAKI-1_MT542857_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2016	2016-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT542857	FAK-ZAKI-1	Osundahunsi et al. 
+MAK-PAK-3_MT542858_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2016	2016-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT542858	MAK-PAK-3	Osundahunsi et al. 
+LAS-SARKI-3_MT542859_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2016	2016-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT542859	LAS-SARKI-3	Osundahunsi et al. 
+AL-AGYAGU-1_MT542860_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2016	2016-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT542860	AL-AGYAGU-1	Osundahunsi et al. 
+AL-AGYAGU-2_MT542861_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2016	2016-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT542861	AL-AGYAGU-2	Osundahunsi et al. 
+AME-GWADALAD-3_MT542862_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2016	2016-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT542862	AME-GWADALAD-3	Osundahunsi et al. 
+AME-GWADALAD-1_MT542863_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2016	2016-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT542863	AME-GWADALAD-1	Osundahunsi et al. 
+Hem-AGYAGU-1_MT542864_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_2016	2016-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	MT542864	Hem-AGYAGU-1	Osundahunsi et al. 
+8_StoDgo_MK814865_Dioscorea-esculenta_Cuba_2011	2011-11-XX	Cuba	Unknown	Dioscorea esculenta	MK814865	8_StoDgo	Gonzalez Ramirez et al.
+9_StoDgo_MK814866_Dioscorea-esculenta_Cuba_2011	2011-11-XX	Cuba	Unknown	Dioscorea esculenta	MK814866	9_StoDgo	Gonzalez Ramirez et al.
+M1_StoDgo_MK814867_Dioscorea-cayenensis-subsp.-rotundata_Cuba_2014	2014-06-XX	Cuba	Unknown	Dioscorea cayenensis subsp. rotundata	MK814867	M1_StoDgo	Gonzalez Ramirez et al.
+M4_StoDgo_MK814868_Dioscorea-cayenensis-subsp.-rotundata_Cuba_2014	2014-06-XX	Cuba	Unknown	Dioscorea cayenensis subsp. rotundata	MK814868	M4_StoDgo	Gonzalez Ramirez et al.
+Trifida/C5_AJ238401_Dioscorea-trifida_France_1986	1986-XX-XX	France	Europe	Dioscorea trifida	AJ238401	Trifida/C5	Bousalem et al. 
+AID10/C5_AJ244043_Dioscorea-alata_USA_1994	1994-XX-XX	USA	North America	Dioscorea alata	AJ244043	AID10/C5	Bousalem et al. 
+CGU2/C4_AJ244044_Dioscorea-cayenensis-subsp.-rotundata_France_1994	1994-XX-XX	France	Europe	Dioscorea cayenensis subsp. rotundata	AJ244044	CGU2/C4	Bousalem et al. 
+GY/INRA/C11_AJ244045_Dioscorea-trifida_French-Guiana_1991	1991-XX-XX	French Guiana	Unknown	Dioscorea trifida	AJ244045	GY/INRA/C11	Bousalem et al. 
+174/C1_AJ244046_Dioscorea-cayenensis-subsp.-rotundata_Benin_1994	1994-XX-XX	Benin	Unknown	Dioscorea cayenensis subsp. rotundata	AJ244046	174/C1	Bousalem et al. 
+608_AJ244047_Dioscorea-cayenensis-subsp.-rotundata_Nigeria_1992	1992-XX-XX	Nigeria	Africa	Dioscorea cayenensis subsp. rotundata	AJ244047	608	Bousalem et al. 
+B1/C1_AJ244048_Dioscorea-cayenensis-subsp.-rotundata_Benin_1994	1994-XX-XX	Benin	Unknown	Dioscorea cayenensis subsp. rotundata	AJ244048	B1/C1	Bousalem et al. 
+B14_AJ244049_Dioscorea-cayenensis-subsp.-rotundata_Benin_1994	1994-XX-XX	Benin	Unknown	Dioscorea cayenensis subsp. rotundata	AJ244049	B14	Bousalem et al. 
+BFC51/C11_AJ244050_Dioscorea-cayenensis-subsp.-rotundata_Burkina-Faso_1992	1992-XX-XX	Burkina Faso	Unknown	Dioscorea cayenensis subsp. rotundata	AJ244050	BFC51/C11	Bousalem et al. 
+BFC54_AJ244051_Dioscorea-cayenensis-subsp.-rotundata_Burkina-Faso_1992	1992-XX-XX	Burkina Faso	Unknown	Dioscorea cayenensis subsp. rotundata	AJ244051	BFC54	Bousalem et al. 
+BFC56_AJ244052_Dioscorea-cayenensis-subsp.-rotundata_Burkina-Faso_1992	1992-XX-XX	Burkina Faso	Unknown	Dioscorea cayenensis subsp. rotundata	AJ244052	BFC56	Bousalem et al. 
+C1/C3_AJ244053_Dioscorea-cayenensis-subsp.-rotundata_Burkina-Faso_1992	1992-XX-XX	Burkina Faso	Unknown	Dioscorea cayenensis subsp. rotundata	AJ244053	C1/C3	Bousalem et al. 
+CAM1/C1_AJ244054_Dioscorea-cayenensis-subsp.-rotundata_Cameroon_1994	1994-XX-XX	Cameroon	Unknown	Dioscorea cayenensis subsp. rotundata	AJ244054	CAM1/C1	Bousalem et al. 
+CAM2/C31_AJ244055_Dioscorea-cayenensis-subsp.-rotundata_Cameroon_1994	1994-XX-XX	Cameroon	Unknown	Dioscorea cayenensis subsp. rotundata	AJ244055	CAM2/C31	Bousalem et al. 
+CBE6b/C3_AJ244056_Dioscorea-cayenensis-subsp.-rotundata_Benin_1994	1994-XX-XX	Benin	Unknown	Dioscorea cayenensis subsp. rotundata	AJ244056	CBE6b/C3	Bousalem et al. 
+CGU1/C18_AJ244057_Dioscorea-cayenensis-subsp.-rotundata_France_1994	1994-XX-XX	France	Europe	Dioscorea cayenensis subsp. rotundata	AJ244057	CGU1/C18	Bousalem et al. 
+CID3/C12_AJ244058_Dioscorea-cayenensis-subsp.-rotundata_Ivory-Coast_1994	1994-XX-XX	Ivory Coast	Unknown	Dioscorea cayenensis subsp. rotundata	AJ244058	CID3/C12	Bousalem et al. 
+CKA1/C11_AJ244059_Dioscorea-cayenensis-subsp.-rotundata_Ivory-Coast_1994	1994-XX-XX	Ivory Coast	Unknown	Dioscorea cayenensis subsp. rotundata	AJ244059	CKA1/C11	Bousalem et al. 
+Divin_AJ244060_Dioscorea-alata_France_1989	1989-XX-XX	France	Europe	Dioscorea alata	AJ244060	Divin	Bousalem et al. 
+G13/C1_AJ244061_Dioscorea-trifida_French-Guiana_1992	1992-XX-XX	French Guiana	Unknown	Dioscorea trifida	AJ244061	G13/C1	Bousalem et al. 
+G5/C10_AJ244062_Dioscorea-trifida_French-Guiana_1992	1992-XX-XX	French Guiana	Unknown	Dioscorea trifida	AJ244062	G5/C10	Bousalem et al. 
+GR/SAVANE/C4_AJ244063_Dioscorea-cayenensis-subsp.-rotundata_France_1991	1991-XX-XX	France	Europe	Dioscorea cayenensis subsp. rotundata	AJ244063	GR/SAVANE/C4	Bousalem et al. 
+POGNON/C1_AJ244064_Dioscorea-cayenensis-subsp.-rotundata_France_1994	1994-XX-XX	France	Europe	Dioscorea cayenensis subsp. rotundata	AJ244064	POGNON/C1	Bousalem et al. 
+SOA-AI/C1_AJ244065_Dioscorea-alata_Burkina-Faso_1992	1992-XX-XX	Burkina Faso	Unknown	Dioscorea alata	AJ244065	SOA AI/C1	Bousalem et al. 
+SOA2/C1_AJ244066_Dioscorea-alata_Burkina-Faso_1992	1992-XX-XX	Burkina Faso	Unknown	Dioscorea alata	AJ244066	SOA2/C1	Bousalem et al. 
+Ivory-Coast_U42596_Dioscorea-sp._Ivory-Coast_1977	1977-XX-XX	Ivory Coast	Unknown	Dioscorea sp.	U42596	Ivory Coast	Aleman et al. 
+YMV_DR2_OK239701_Dioscorea-cayenensis-subsp.-rotundata_Brazil_2019	2019-XX-XX	Brazil	South America	Dioscorea cayenensis subsp. rotundata	OK239701	YMV_DR2	Mendoza et al.
+YMV_Dsp_OK239702_Dioscorea-sp._Brazil_2014	2014-XX-XX	Brazil	South America	Dioscorea sp.	OK239702	YMV_Dsp	Mendoza et al.
+YMV_I4_OL739290_Dioscorea-cayenensis-subsp.-rotundata_Brazil_2019	2019-11-25	Brazil	South America	Dioscorea cayenensis subsp. rotundata	OL739290	YMV_I4	Mendoza et al.
