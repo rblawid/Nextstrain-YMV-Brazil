@@ -1,4 +1,4 @@
-# Nextstrain-YMV-Brazil
+nextstrain shell .
 
 augur index \
   --sequences data/sequences.fasta \
@@ -9,8 +9,9 @@ augur filter \
   --sequence-index results/sequence_index.tsv \
   --metadata data/metadata.tsv \
   --output-sequences results/filtered.fasta \
-  --group-by country year \
+  --group-by country year  \
   --sequences-per-group 20
+
 
 augur align \
 --sequences results/filtered.fasta \
@@ -18,9 +19,11 @@ augur align \
 --output results/aligned.fasta \
 --fill-gaps
 
+
 augur tree \
   --alignment results/aligned.fasta \
   --output results/tree_raw.nwk
+
 
 augur refine \
   --tree results/tree_raw.nwk \
@@ -29,20 +32,21 @@ augur refine \
   --output-tree results/tree.nwk \
   --output-node-data results/branch_lengths.json \
   --timetree \
+  --coalescent opt \
   --date-confidence \
-  --stochastic-resolve \
   --date-inference marginal \
-  --clock-rate 1.76e-3 \
-  --clock-std-dev 5e-4 \
   --clock-filter-iqd 3 \
-  --root least-squares \
+  --stochastic-resolve \
+  --clock-rate 1.76e-3 --clock-std-dev 5e-4
 
-  augur traits \
+
+augur traits \
   --tree results/tree.nwk \
   --metadata data/metadata.tsv \
   --output-node-data results/traits.json \
-  --columns region country date strain host \
+  --columns region country date acession host \
   --confidence
+
 
 augur ancestral \
   --tree results/tree.nwk \
@@ -50,11 +54,13 @@ augur ancestral \
   --output-node-data results/nt_muts.json \
   --inference joint
 
+
 augur translate \
   --tree results/tree.nwk \
   --ancestral-sequences results/nt_muts.json \
   --reference-sequence config/ymv_outgroup.gb \
   --output-node-data results/aa_muts.json
+
 
 augur export v2 \
   --tree results/tree.nwk \
@@ -68,4 +74,6 @@ augur export v2 \
   --auspice-config config/auspice_config.json \
   --output auspice/ymv.json
 
+
 nextstrain view auspice/
+
